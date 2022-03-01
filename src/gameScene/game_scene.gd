@@ -1,8 +1,8 @@
-class_name Tile
-extends AnimatedSprite
+extends Node2D
 
+const Tile = preload("res://sprites/Tile.tscn")
 func _ready():
-	play("water")
+	pass # Replace with function body.
 
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
