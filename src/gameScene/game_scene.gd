@@ -1,8 +1,11 @@
 extends Node2D
 
-const Tile = preload("res://sprites/Tile.tscn")
+const Tile = preload("res://sprites/gameScene/Tile.tscn")
+var tiles = {}
 func _ready():
-	pass # Replace with function body.
+	tiles["stuff"] = Tile.instance()
+	add_child(tiles["stuff"])
+	$Camera.current = true
 
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
