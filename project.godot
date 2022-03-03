@@ -22,14 +22,16 @@ _global_script_class_icons={
 
 config/name="Tile Craft"
 run/main_scene="res://scenes/MainMenu.tscn"
+boot_splash/image="res://assets/bg/splash.PNG"
+boot_splash/bg_color=Color( 1, 0, 0, 1 )
 config/icon="res://icon.png"
 
 [display]
 
 window/size/width=1280
 window/size/height=720
-window/stretch/mode="viewport"
-window/stretch/aspect="keep"
+window/stretch/aspect="expand"
+window/stretch/=false
 
 [global]
 
@@ -37,6 +39,7 @@ aspect=false
 modew=false
 mode=false
 width=false
+splash=false
 
 [layer_names]
 
