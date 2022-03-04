@@ -11,14 +11,12 @@ static func _on_start():
 		width = content[0]
 		height = content[1]
 		file.close()
-	OS.set_window_size(Vector2())
+	OS.set_window_size(Vector2(height, width))
 
 static func _on_resize():
 	
 	var file: = File.new()
-	print(file.open("user://window.json", File.WRITE))
-	var content = [OS.get_window_safe_area().size.x, OS.get_window_safe_area().size.y]
+	var content = [OS.get_window_safe_area().size[0], OS.get_window_safe_area().size[1]]
 	content.join("\n")
 	file.write(content)
 	file.close()
-	OS.set_window_size(Vector2())
