@@ -129,6 +129,10 @@ window/size/height=720
 window/stretch/aspect="expand"
 window/stretch/=false
 
+[editor_plugins]
+
+enabled=PoolStringArray( "res://addons/godot_editor_discord_presence/plugin.cfg" )
+
 [global]
 
 aspect=false
