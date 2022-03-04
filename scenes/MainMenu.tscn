@@ -45,10 +45,12 @@ __meta__ = {
 [node name="Camera" type="Camera2D" parent="."]
 
 [node name="Title" type="Label" parent="."]
-margin_left = -640.0
-margin_top = -335.0
-margin_right = 640.0
-margin_bottom = -85.0
+anchor_left = 0.5
+anchor_right = 0.5
+margin_left = -616.0
+margin_top = -340.0
+margin_right = 615.0
+margin_bottom = -90.0
 rect_scale = Vector2( 1, 0.76 )
 custom_fonts/font = SubResource( 1 )
 text = "TileCraft"

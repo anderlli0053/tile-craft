@@ -1,0 +1,14 @@
+[gd_resource type="Shader" format=2]
+
+[resource]
+code = "shader_type canvas_item;
+
+uniform float view_distance = 100.0;
+
+void fragment(){
+	COLOR = texture(TEXTURE, UV); //read from texture
+	COLOR.r = COLOR.g = COLOR.b = 0.0;
+	if (sqrt(pow(FRAGCOORD.x,2)+pow(FRAGCOORD.y-100.0,2)) > view_distance){
+		COLOR.a = (sqrt(pow(FRAGCOORD.x,2)+pow(FRAGCOORD.y,2)) - view_distance) / 100.0;
+	}
+}"
