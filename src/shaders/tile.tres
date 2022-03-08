@@ -1,0 +1,17 @@
+[gd_resource type="Shader" format=2]
+
+[resource]
+code = "shader_type canvas_item;
+
+uniform vec3 grayScaleColor = vec3(0.0,0.0,0.0);
+uniform bool grayScaleActive=true;
+
+void fragment(){
+	COLOR = texture(TEXTURE, UV);
+	if (COLOR.r == COLOR.g && COLOR.g == COLOR.b && grayScaleActive){
+		COLOR = vec4(
+    	  grayScaleColor.r, grayScaleColor.g, grayScaleColor.b,
+    	  COLOR.a
+    	) * COLOR.r;
+	}
+}"

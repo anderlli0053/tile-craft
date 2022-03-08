@@ -1,0 +1,25 @@
+[gd_resource type="Shader" format=2]
+
+[resource]
+code = "shader_type canvas_item;
+
+uniform bool isEnchanted = false;
+
+void fragment(){
+	COLOR = texture(TEXTURE, UV); //read from texture
+	if (isEnchanted){
+		vec4 purple = vec4(0.7, 0.0, 0.6, 0.0);
+		float interval = 400.0;
+		float a = (
+      		sin(
+        		(UV.x + UV.y  - TIME * 40.0) / 10.0
+      		) + 2.0
+    	) / 5.0;
+  
+  		COLOR = COLOR.rgba + (a * purple.rgba);
+
+  		if (COLOR.a == 0.0) {
+    		COLOR = vec4(0.0, 0.0, 0.0, 0.0);
+  		}
+	}
+}"
