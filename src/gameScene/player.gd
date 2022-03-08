@@ -12,8 +12,10 @@ func _physics_process(delta):
 		velocity.x += -CONSTANTS.PLAYER_SPEED
 	elif Input.is_action_pressed("right"):
 		velocity.x += CONSTANTS.PLAYER_SPEED
-	if Input.is_action_pressed("up") && is_on_floor():
-		velocity.y -= 30
+	if Input.is_action_pressed("up"):
+		print(is_on_floor())
+		if is_on_floor():
+			velocity.y -= 30
 	velocity.x *= 0.7
 	velocity.y += CONSTANTS.GRAVITY * delta
 	velocity = move_and_slide(velocity, Vector2(0, -1))
