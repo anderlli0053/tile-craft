@@ -1,4 +1,4 @@
-[gd_scene load_steps=78 format=2]
+[gd_scene load_steps=77 format=2]
 
 [ext_resource path="res://src/shaders/tile.tres" type="Shader" id=1]
 [ext_resource path="res://src/gameScene/tile.gd" type="Script" id=2]
@@ -379,9 +379,6 @@ func _ready():
 #	pass
 "
 
-[sub_resource type="RectangleShape2D" id=72]
-extents = Vector2( 32, 32 )
-
 [node name="Tile" type="StaticBody2D"]
 material = SubResource( 73 )
 collision_layer = 8
@@ -394,5 +391,4 @@ frames = SubResource( 34 )
 animation = "water"
 script = SubResource( 71 )
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-shape = SubResource( 72 )
+[node name="Collider" type="CollisionPolygon2D" parent="."]
