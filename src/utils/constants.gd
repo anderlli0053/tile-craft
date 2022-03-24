@@ -1,0 +1,4 @@
+const GRAVITY = 9.81 * 64
+const PLAYER_SPEED = 5000
+const JUMP_SPEED = 25662
+

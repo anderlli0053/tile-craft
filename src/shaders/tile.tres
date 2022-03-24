@@ -5,6 +5,7 @@ code = "shader_type canvas_item;
 
 uniform vec3 grayScaleColor = vec3(0.0,0.0,0.0);
 uniform bool grayScaleActive=true;
+uniform int stairID:hint_range(0,4)=0;
 
 void fragment(){
 	COLOR = texture(TEXTURE, UV);
@@ -13,5 +14,10 @@ void fragment(){
     	  grayScaleColor.r, grayScaleColor.g, grayScaleColor.b,
     	  COLOR.a
     	) * COLOR.r;
+	}
+	if (stairID > 0){
+		if (stairID == 1 && UV.x < 0.5 && UV.y > 0.5){
+			COLOR = vec4(1.0,1.0,1.0,1.0)
+		}
 	}
 }"

@@ -6,7 +6,7 @@ var tiles = {}
 func _ready():
 	for x in range(0, 10):
 		tiles[x] = Tile.instance()
-		tiles[x].set_pos(x, -x)
+		tiles[x].set_pos(x, x)
 		add_child(tiles[x])
 	$Player/Camera.current = true
 

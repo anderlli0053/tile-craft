@@ -1,13 +1,17 @@
 class_name Tile extends StaticBody2D
 
 const BLOCK_SHAPES = preload("res://src/utils/shapes.gd")
+const BLOCK_DATA = preload("res://src/utils/block_data.gd").BLOCK_DATA
+
+var file = File.new()
 
 func _ready():
-	change_block("water") # Replace with function body.
+	change_block("grass") # Replace with function body.
 
 func change_block(block:String):
 	$Texture.play(block)
-	$Collider.polygon = BLOCK_SHAPES.LEFT_BOTTOM_STAIRS
+	$Collider.polygon = BLOCK_SHAPES[BLOCK_DATA[block]["collision"]]
+	
 	
 func set_pos(x:int, y:int):
 	set_global_position(Vector2(x*64, -y*64))
