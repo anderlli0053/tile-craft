@@ -126,6 +126,7 @@ config/icon="res://icon.png"
 
 window/size/width=1280
 window/size/height=720
+window/size/borderless=true
 window/stretch/mode="viewport"
 window/stretch/aspect="expand"
 window/stretch/=false
@@ -141,6 +142,7 @@ modew=false
 mode=false
 width=false
 splash=false
+window=false
 
 [input]
 

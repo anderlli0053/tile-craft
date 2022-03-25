@@ -1,7 +1,7 @@
 class_name Tile extends StaticBody2D
 
 const BLOCK_SHAPES = preload("res://src/utils/shapes.gd")
-const BLOCK_DATA = preload("res://src/utils/block_data.gd").BLOCK_DATA
+var BLOCK_DATA = preload("res://src/utils/block_data.gd").new().BLOCK_DATA
 
 var file = File.new()
 

@@ -1,10 +1,9 @@
-[gd_scene load_steps=14 format=2]
+[gd_scene load_steps=13 format=2]
 
 [ext_resource path="res://sprites/mainMenu/GameLogo.tscn" type="PackedScene" id=1]
 [ext_resource path="res://assets/fonts/led.TTF" type="DynamicFontData" id=2]
 [ext_resource path="res://src/mainMenu/play_button.gd" type="Script" id=3]
 [ext_resource path="res://src/mainMenu/main_menu.gd" type="Script" id=4]
-[ext_resource path="res://sprites/global/Resizer.tscn" type="PackedScene" id=5]
 
 [sub_resource type="DynamicFont" id=2]
 size = 75
@@ -72,8 +71,6 @@ margin_bottom = 40.0
 __meta__ = {
 "_edit_use_anchors_": false
 }
-
-[node name="Resizer" parent="." instance=ExtResource( 5 )]
 
 [connection signal="ready" from="." to="." method="_on_ready"]
 [connection signal="resized" from="." to="." method="_on_resize"]
