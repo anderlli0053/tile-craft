@@ -1,0 +1,29 @@
+[gd_scene load_steps=3 format=2]
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [  ],
+"loop": true,
+"name": "none",
+"speed": 5.0
+} ]
+
+[sub_resource type="SpriteFrames" id=2]
+animations = [ {
+"frames": [  ],
+"loop": true,
+"name": "none",
+"speed": 5.0
+} ]
+
+[node name="Tile" type="RigidBody2D"]
+
+[node name="Collider" type="CollisionPolygon2D" parent="."]
+
+[node name="BaseLayer" type="AnimatedSprite" parent="."]
+frames = SubResource( 1 )
+animation = "none"
+
+[node name="TopLayer" type="AnimatedSprite" parent="."]
+frames = SubResource( 2 )
+animation = "none"
