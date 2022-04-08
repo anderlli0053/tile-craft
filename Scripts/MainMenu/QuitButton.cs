@@ -6,8 +6,6 @@ public class QuitButton : Button
     {
         MainMenu mainMenu = GetNode<MainMenu>("/root/MainMenu");
         //quit the app
-
         GetTree().Notification(MainLoop.NotificationWmQuitRequest);
-
     }
 }

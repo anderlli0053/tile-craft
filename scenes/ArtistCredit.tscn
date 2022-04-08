@@ -1,0 +1,45 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://Fonts/Gilroy.ttf" type="DynamicFontData" id=1]
+[ext_resource path="res://Fonts/Comfortaa.ttf" type="DynamicFontData" id=2]
+
+[sub_resource type="DynamicFont" id=1]
+size = 130
+font_data = ExtResource( 1 )
+
+[sub_resource type="DynamicFont" id=2]
+size = 40
+font_data = ExtResource( 2 )
+
+[sub_resource type="DynamicFont" id=3]
+size = 50
+font_data = ExtResource( 2 )
+
+[node name="ArtistCredit" type="Node2D"]
+position = Vector2( 640, 360 )
+
+[node name="Title" type="Label" parent="."]
+margin_left = -640.0
+margin_top = -360.0
+margin_right = 640.0
+margin_bottom = -168.0
+custom_fonts/font = SubResource( 1 )
+text = "Credit to Tanja012"
+align = 1
+
+[node name="Content" type="Label" parent="."]
+margin_left = -576.0
+margin_top = -168.0
+margin_bottom = 360.0
+custom_fonts/font = SubResource( 2 )
+text = "At the request of Tanja012, I have put this credits page for her. She is a kind artist who let me use her awesome textures, rather than torturing the game with horrific textures that I can make.
+You should check her profile out, on planetminecraft.com, or her website (tanja012.com)."
+autowrap = true
+
+[node name="LinkToTextures" type="Button" parent="."]
+margin_left = 64.0
+margin_top = -160.0
+margin_right = 576.0
+margin_bottom = 32.0
+custom_fonts/font = SubResource( 3 )
+text = "Link to her textures"
