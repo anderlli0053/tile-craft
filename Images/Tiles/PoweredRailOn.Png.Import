@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/powered_rail_on.png-834b57c79caa506e4f76c5db106bc5d2.stex"
+path="res://.import/PoweredRailOn.Png-f880972992738ed49557f5e30131a32f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/powered_rail_on.png"
-dest_files=[ "res://.import/powered_rail_on.png-834b57c79caa506e4f76c5db106bc5d2.stex" ]
+source_file="res://Images/Tiles/PoweredRailOn.Png"
+dest_files=[ "res://.import/PoweredRailOn.Png-f880972992738ed49557f5e30131a32f.stex" ]
 
 [params]
 

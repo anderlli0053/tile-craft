@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/water_overlay.png-5184ac4d5716af65815786bc190e4f9b.stex"
+path="res://.import/WaterOverlay.Png-f27c5abd7314e4215efdefca97137d9e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/water_overlay.png"
-dest_files=[ "res://.import/water_overlay.png-5184ac4d5716af65815786bc190e4f9b.stex" ]
+source_file="res://Images/Tiles/WaterOverlay.Png"
+dest_files=[ "res://.import/WaterOverlay.Png-f27c5abd7314e4215efdefca97137d9e.stex" ]
 
 [params]
 

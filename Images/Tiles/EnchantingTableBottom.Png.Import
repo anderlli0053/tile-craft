@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/enchanting_table_bottom.png-e4b2ac8c07f0cc7a09c5c6b7083583b6.stex"
+path="res://.import/EnchantingTableBottom.Png-84b1adbbfe995bab44b7f0494e51a833.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/enchanting_table_bottom.png"
-dest_files=[ "res://.import/enchanting_table_bottom.png-e4b2ac8c07f0cc7a09c5c6b7083583b6.stex" ]
+source_file="res://Images/Tiles/EnchantingTableBottom.Png"
+dest_files=[ "res://.import/EnchantingTableBottom.Png-84b1adbbfe995bab44b7f0494e51a833.stex" ]
 
 [params]
 

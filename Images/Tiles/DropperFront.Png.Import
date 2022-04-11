@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dropper_front.png-400da04c9f6388ce4ccd2c38592c397b.stex"
+path="res://.import/DropperFront.Png-aa9b5b95fe9d349dccb4bfda364e42ef.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/dropper_front.png"
-dest_files=[ "res://.import/dropper_front.png-400da04c9f6388ce4ccd2c38592c397b.stex" ]
+source_file="res://Images/Tiles/DropperFront.Png"
+dest_files=[ "res://.import/DropperFront.Png-aa9b5b95fe9d349dccb4bfda364e42ef.stex" ]
 
 [params]
 

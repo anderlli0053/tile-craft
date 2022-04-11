@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cyan_shulker_box.png-1991fa59bf9747f0433c9b62debebc84.stex"
+path="res://.import/CyanShulkerBox.Png-397db96123983321d818410248ce91c2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/cyan_shulker_box.png"
-dest_files=[ "res://.import/cyan_shulker_box.png-1991fa59bf9747f0433c9b62debebc84.stex" ]
+source_file="res://Images/Tiles/CyanShulkerBox.Png"
+dest_files=[ "res://.import/CyanShulkerBox.Png-397db96123983321d818410248ce91c2.stex" ]
 
 [params]
 

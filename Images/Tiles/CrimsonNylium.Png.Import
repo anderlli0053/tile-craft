@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crimson_nylium.png-80d385d767cff6a254a24ec064b7c94d.stex"
+path="res://.import/CrimsonNylium.Png-d424ee1ca1cf3af71628c73075798607.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/crimson_nylium.png"
-dest_files=[ "res://.import/crimson_nylium.png-80d385d767cff6a254a24ec064b7c94d.stex" ]
+source_file="res://Images/Tiles/CrimsonNylium.Png"
+dest_files=[ "res://.import/CrimsonNylium.Png-d424ee1ca1cf3af71628c73075798607.stex" ]
 
 [params]
 

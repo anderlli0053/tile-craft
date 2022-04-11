@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/prismarine_bricks.png-20e56a297231614e7496b737bf3bcdeb.stex"
+path="res://.import/PrismarineBricks.Png-96312ff1a54b1f6f7fb90b726249cfff.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/prismarine_bricks.png"
-dest_files=[ "res://.import/prismarine_bricks.png-20e56a297231614e7496b737bf3bcdeb.stex" ]
+source_file="res://Images/Tiles/PrismarineBricks.Png"
+dest_files=[ "res://.import/PrismarineBricks.Png-96312ff1a54b1f6f7fb90b726249cfff.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/jungle_trapdoor.png-0c0c8aa7bd77d4da3266ce8593d73f04.stex"
+path="res://.import/JungleTrapdoor.Png-1dfd392bf8aa00e522c8c73cde8f6a9c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/jungle_trapdoor.png"
-dest_files=[ "res://.import/jungle_trapdoor.png-0c0c8aa7bd77d4da3266ce8593d73f04.stex" ]
+source_file="res://Images/Tiles/JungleTrapdoor.Png"
+dest_files=[ "res://.import/JungleTrapdoor.Png-1dfd392bf8aa00e522c8c73cde8f6a9c.stex" ]
 
 [params]
 

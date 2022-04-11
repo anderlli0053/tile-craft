@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bookshelf.png-61a18964c34b9ada00be341916bc2ae9.stex"
+path="res://.import/Bookshelf.Png-28a577377e53a1be78dff262f6863da9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/bookshelf.png"
-dest_files=[ "res://.import/bookshelf.png-61a18964c34b9ada00be341916bc2ae9.stex" ]
+source_file="res://Images/Tiles/Bookshelf.Png"
+dest_files=[ "res://.import/Bookshelf.Png-28a577377e53a1be78dff262f6863da9.stex" ]
 
 [params]
 

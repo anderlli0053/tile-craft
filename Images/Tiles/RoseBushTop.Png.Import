@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rose_bush_top.png-e8d3a8a097ee67a97213a6ed130e1356.stex"
+path="res://.import/RoseBushTop.Png-401be6a34e6fbcf60944bc7b9b4260f8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/rose_bush_top.png"
-dest_files=[ "res://.import/rose_bush_top.png-e8d3a8a097ee67a97213a6ed130e1356.stex" ]
+source_file="res://Images/Tiles/RoseBushTop.Png"
+dest_files=[ "res://.import/RoseBushTop.Png-401be6a34e6fbcf60944bc7b9b4260f8.stex" ]
 
 [params]
 

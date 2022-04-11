@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/flower_pot.png-f0420f4bff85e0b08a3a6637f0943237.stex"
+path="res://.import/FlowerPot.Png-0be8fcf79bbf78043778183d10a87d75.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/flower_pot.png"
-dest_files=[ "res://.import/flower_pot.png-f0420f4bff85e0b08a3a6637f0943237.stex" ]
+source_file="res://Images/Tiles/FlowerPot.Png"
+dest_files=[ "res://.import/FlowerPot.Png-0be8fcf79bbf78043778183d10a87d75.stex" ]
 
 [params]
 

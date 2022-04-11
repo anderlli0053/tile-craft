@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/daylight_detector_side.png-a4bd258bad6deb1cfdff5fe18c4f2edd.stex"
+path="res://.import/DaylightDetectorSide.Png-799fd3db144af3e0ca62734bfacbf733.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/daylight_detector_side.png"
-dest_files=[ "res://.import/daylight_detector_side.png-a4bd258bad6deb1cfdff5fe18c4f2edd.stex" ]
+source_file="res://Images/Tiles/DaylightDetectorSide.Png"
+dest_files=[ "res://.import/DaylightDetectorSide.Png-799fd3db144af3e0ca62734bfacbf733.stex" ]
 
 [params]
 

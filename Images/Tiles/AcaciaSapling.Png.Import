@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/acacia_sapling.png-888367bab42fe33fcec0c80c6adb4e45.stex"
+path="res://.import/AcaciaSapling.Png-09d729fce8edcb0fafc22ae1e8769d0b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/acacia_sapling.png"
-dest_files=[ "res://.import/acacia_sapling.png-888367bab42fe33fcec0c80c6adb4e45.stex" ]
+source_file="res://Images/Tiles/AcaciaSapling.Png"
+dest_files=[ "res://.import/AcaciaSapling.Png-09d729fce8edcb0fafc22ae1e8769d0b.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mossy_stone_bricks.png-85fd003ee407ba64e6ed51014081422c.stex"
+path="res://.import/MossyStoneBricks.Png-b87510da6e81611af442f8cf617c4e22.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/mossy_stone_bricks.png"
-dest_files=[ "res://.import/mossy_stone_bricks.png-85fd003ee407ba64e6ed51014081422c.stex" ]
+source_file="res://Images/Tiles/MossyStoneBricks.Png"
+dest_files=[ "res://.import/MossyStoneBricks.Png-b87510da6e81611af442f8cf617c4e22.stex" ]
 
 [params]
 

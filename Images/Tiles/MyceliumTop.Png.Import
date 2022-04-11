@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mycelium_top.png-0b532b8de810905f86374f5b2ef47e1d.stex"
+path="res://.import/MyceliumTop.Png-d09ac16cf586d54756e0da821cf0ec26.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/mycelium_top.png"
-dest_files=[ "res://.import/mycelium_top.png-0b532b8de810905f86374f5b2ef47e1d.stex" ]
+source_file="res://Images/Tiles/MyceliumTop.Png"
+dest_files=[ "res://.import/MyceliumTop.Png-d09ac16cf586d54756e0da821cf0ec26.stex" ]
 
 [params]
 

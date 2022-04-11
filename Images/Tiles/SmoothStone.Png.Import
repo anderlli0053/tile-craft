@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/smooth_stone.png-96bc12fcfa40754cff2c4c1dad480e3c.stex"
+path="res://.import/SmoothStone.Png-5cea25b7f29ddd2a231e0ec1d59c7267.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/smooth_stone.png"
-dest_files=[ "res://.import/smooth_stone.png-96bc12fcfa40754cff2c4c1dad480e3c.stex" ]
+source_file="res://Images/Tiles/SmoothStone.Png"
+dest_files=[ "res://.import/SmoothStone.Png-5cea25b7f29ddd2a231e0ec1d59c7267.stex" ]
 
 [params]
 

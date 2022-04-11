@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/twisting_vines_plant.png-ab37e388e20e4fc52324d6190c325156.stex"
+path="res://.import/TwistingVinesPlant.Png-a8eae94aa232de5be6c75c7f08e97e2a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/twisting_vines_plant.png"
-dest_files=[ "res://.import/twisting_vines_plant.png-ab37e388e20e4fc52324d6190c325156.stex" ]
+source_file="res://Images/Tiles/TwistingVinesPlant.Png"
+dest_files=[ "res://.import/TwistingVinesPlant.Png-a8eae94aa232de5be6c75c7f08e97e2a.stex" ]
 
 [params]
 

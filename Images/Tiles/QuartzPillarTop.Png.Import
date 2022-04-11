@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/quartz_pillar_top.png-787dd46a32ed1c2657bee70161871fc9.stex"
+path="res://.import/QuartzPillarTop.Png-564b34debe6e68ce2771daacac741bfd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/quartz_pillar_top.png"
-dest_files=[ "res://.import/quartz_pillar_top.png-787dd46a32ed1c2657bee70161871fc9.stex" ]
+source_file="res://Images/Tiles/QuartzPillarTop.Png"
+dest_files=[ "res://.import/QuartzPillarTop.Png-564b34debe6e68ce2771daacac741bfd.stex" ]
 
 [params]
 

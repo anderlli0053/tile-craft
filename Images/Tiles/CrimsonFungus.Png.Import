@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crimson_fungus.png-5b7049aaa98fab549640265aac09c194.stex"
+path="res://.import/CrimsonFungus.Png-4176f6da7434b4abb52e4a38aabac7c0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/crimson_fungus.png"
-dest_files=[ "res://.import/crimson_fungus.png-5b7049aaa98fab549640265aac09c194.stex" ]
+source_file="res://Images/Tiles/CrimsonFungus.Png"
+dest_files=[ "res://.import/CrimsonFungus.Png-4176f6da7434b4abb52e4a38aabac7c0.stex" ]
 
 [params]
 

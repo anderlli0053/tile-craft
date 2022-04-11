@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/white_tulip.png-f303a5fea4408ed7f79f43a10dd97eca.stex"
+path="res://.import/WhiteTulip.Png-5be1786edff574bb520108d455a47113.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/white_tulip.png"
-dest_files=[ "res://.import/white_tulip.png-f303a5fea4408ed7f79f43a10dd97eca.stex" ]
+source_file="res://Images/Tiles/WhiteTulip.Png"
+dest_files=[ "res://.import/WhiteTulip.Png-5be1786edff574bb520108d455a47113.stex" ]
 
 [params]
 

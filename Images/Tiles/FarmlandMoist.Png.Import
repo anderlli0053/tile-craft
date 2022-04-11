@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/farmland_moist.png-0c2e52c45046fb6187906251e32e0cda.stex"
+path="res://.import/FarmlandMoist.Png-f294fc3aa675225057c20af3f7f7487a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/farmland_moist.png"
-dest_files=[ "res://.import/farmland_moist.png-0c2e52c45046fb6187906251e32e0cda.stex" ]
+source_file="res://Images/Tiles/FarmlandMoist.Png"
+dest_files=[ "res://.import/FarmlandMoist.Png-f294fc3aa675225057c20af3f7f7487a.stex" ]
 
 [params]
 

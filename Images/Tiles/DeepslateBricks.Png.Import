@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/deepslate_bricks.png-ecf856249d5c16dd5eb4cbda84a5ab96.stex"
+path="res://.import/DeepslateBricks.Png-bf1a4a1d030407e1d8938b5f23520067.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/deepslate_bricks.png"
-dest_files=[ "res://.import/deepslate_bricks.png-ecf856249d5c16dd5eb4cbda84a5ab96.stex" ]
+source_file="res://Images/Tiles/DeepslateBricks.Png"
+dest_files=[ "res://.import/DeepslateBricks.Png-bf1a4a1d030407e1d8938b5f23520067.stex" ]
 
 [params]
 

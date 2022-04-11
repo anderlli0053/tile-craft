@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/black_wool.png-438c4301dcf83977d216fa28807a9f00.stex"
+path="res://.import/BlackWool.Png-324a242dc9eab7d39d2ea9b44eebca6d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/black_wool.png"
-dest_files=[ "res://.import/black_wool.png-438c4301dcf83977d216fa28807a9f00.stex" ]
+source_file="res://Images/Tiles/BlackWool.Png"
+dest_files=[ "res://.import/BlackWool.Png-324a242dc9eab7d39d2ea9b44eebca6d.stex" ]
 
 [params]
 

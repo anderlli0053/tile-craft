@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cornflower.png-796733db35c262d6235dfda7660c0f70.stex"
+path="res://.import/Cornflower.Png-703a3f892ce8db6df991502e351450e6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/cornflower.png"
-dest_files=[ "res://.import/cornflower.png-796733db35c262d6235dfda7660c0f70.stex" ]
+source_file="res://Images/Tiles/Cornflower.Png"
+dest_files=[ "res://.import/Cornflower.Png-703a3f892ce8db6df991502e351450e6.stex" ]
 
 [params]
 

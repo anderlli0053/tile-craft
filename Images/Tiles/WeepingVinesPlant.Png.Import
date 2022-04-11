@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/weeping_vines_plant.png-d7c950adbcd85533108f6f86aba75a79.stex"
+path="res://.import/WeepingVinesPlant.Png-9fc90913d118d7797d8baa25fe244c08.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/weeping_vines_plant.png"
-dest_files=[ "res://.import/weeping_vines_plant.png-d7c950adbcd85533108f6f86aba75a79.stex" ]
+source_file="res://Images/Tiles/WeepingVinesPlant.Png"
+dest_files=[ "res://.import/WeepingVinesPlant.Png-9fc90913d118d7797d8baa25fe244c08.stex" ]
 
 [params]
 

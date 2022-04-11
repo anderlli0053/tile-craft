@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/exposed_cut_copper.png-5b0384e6adec6e7843a26d44758d4b80.stex"
+path="res://.import/ExposedCutCopper.Png-a6c84794118701d8c221a84ffef8b80f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/exposed_cut_copper.png"
-dest_files=[ "res://.import/exposed_cut_copper.png-5b0384e6adec6e7843a26d44758d4b80.stex" ]
+source_file="res://Images/Tiles/ExposedCutCopper.Png"
+dest_files=[ "res://.import/ExposedCutCopper.Png-a6c84794118701d8c221a84ffef8b80f.stex" ]
 
 [params]
 

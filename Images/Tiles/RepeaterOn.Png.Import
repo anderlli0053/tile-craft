@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/repeater_on.png-24d6cf2ece03d6bb2583ba92b1406c32.stex"
+path="res://.import/RepeaterOn.Png-b82bfde29fce7cb0bca1d0389a822fbf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/repeater_on.png"
-dest_files=[ "res://.import/repeater_on.png-24d6cf2ece03d6bb2583ba92b1406c32.stex" ]
+source_file="res://Images/Tiles/RepeaterOn.Png"
+dest_files=[ "res://.import/RepeaterOn.Png-b82bfde29fce7cb0bca1d0389a822fbf.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/deepslate_copper_ore.png-359c2bf84d238294fea9c3732c43c38e.stex"
+path="res://.import/DeepslateCopperOre.Png-1de6e5df99077d189acad3afc3bc9934.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/deepslate_copper_ore.png"
-dest_files=[ "res://.import/deepslate_copper_ore.png-359c2bf84d238294fea9c3732c43c38e.stex" ]
+source_file="res://Images/Tiles/DeepslateCopperOre.Png"
+dest_files=[ "res://.import/DeepslateCopperOre.Png-1de6e5df99077d189acad3afc3bc9934.stex" ]
 
 [params]
 

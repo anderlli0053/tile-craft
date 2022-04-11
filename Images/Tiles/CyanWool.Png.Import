@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cyan_wool.png-8db2c13ca01878c801a3cc38a69ea328.stex"
+path="res://.import/CyanWool.Png-59a7adf09b8b4c4185d3c622977c5713.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/cyan_wool.png"
-dest_files=[ "res://.import/cyan_wool.png-8db2c13ca01878c801a3cc38a69ea328.stex" ]
+source_file="res://Images/Tiles/CyanWool.Png"
+dest_files=[ "res://.import/CyanWool.Png-59a7adf09b8b4c4185d3c622977c5713.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/composter_bottom.png-2a7de13838ed36bc352e0f80a856440f.stex"
+path="res://.import/ComposterBottom.Png-7f6a67902ae39d1581c953f5259fb435.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/composter_bottom.png"
-dest_files=[ "res://.import/composter_bottom.png-2a7de13838ed36bc352e0f80a856440f.stex" ]
+source_file="res://Images/Tiles/ComposterBottom.Png"
+dest_files=[ "res://.import/ComposterBottom.Png-7f6a67902ae39d1581c953f5259fb435.stex" ]
 
 [params]
 

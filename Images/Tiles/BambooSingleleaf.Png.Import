@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bamboo_singleleaf.png-24a54051363cdcb4c7e12de63c207dca.stex"
+path="res://.import/BambooSingleleaf.Png-2ac596440c9cd5f615cbabcd65e9def6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/bamboo_singleleaf.png"
-dest_files=[ "res://.import/bamboo_singleleaf.png-24a54051363cdcb4c7e12de63c207dca.stex" ]
+source_file="res://Images/Tiles/BambooSingleleaf.Png"
+dest_files=[ "res://.import/BambooSingleleaf.Png-2ac596440c9cd5f615cbabcd65e9def6.stex" ]
 
 [params]
 

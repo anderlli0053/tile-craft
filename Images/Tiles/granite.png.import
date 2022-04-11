@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/granite.png-5209a5cb83602bf02f898b7e8097883d.stex"
+path="res://.import/Granite.Png-02c3b06df69250b6d93a0556e4cd8453.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/granite.png"
-dest_files=[ "res://.import/granite.png-5209a5cb83602bf02f898b7e8097883d.stex" ]
+source_file="res://Images/Tiles/Granite.Png"
+dest_files=[ "res://.import/Granite.Png-02c3b06df69250b6d93a0556e4cd8453.stex" ]
 
 [params]
 

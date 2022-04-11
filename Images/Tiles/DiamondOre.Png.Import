@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/diamond_ore.png-a57dbfff157805887cca4d0579aba96e.stex"
+path="res://.import/DiamondOre.Png-c14f7ac1cdf92a1ce9d7e9473e359daa.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/diamond_ore.png"
-dest_files=[ "res://.import/diamond_ore.png-a57dbfff157805887cca4d0579aba96e.stex" ]
+source_file="res://Images/Tiles/DiamondOre.Png"
+dest_files=[ "res://.import/DiamondOre.Png-c14f7ac1cdf92a1ce9d7e9473e359daa.stex" ]
 
 [params]
 

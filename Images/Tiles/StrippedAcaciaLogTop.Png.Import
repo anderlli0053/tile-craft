@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stripped_acacia_log_top.png-97fbfcb553aee03d8f205dd839c276d8.stex"
+path="res://.import/StrippedAcaciaLogTop.Png-d8535e48a00bdb38b82d01fa1df87f0a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/stripped_acacia_log_top.png"
-dest_files=[ "res://.import/stripped_acacia_log_top.png-97fbfcb553aee03d8f205dd839c276d8.stex" ]
+source_file="res://Images/Tiles/StrippedAcaciaLogTop.Png"
+dest_files=[ "res://.import/StrippedAcaciaLogTop.Png-d8535e48a00bdb38b82d01fa1df87f0a.stex" ]
 
 [params]
 

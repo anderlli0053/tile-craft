@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/magenta_stained_glass.png-29685be19a06c92f5266e4329b143411.stex"
+path="res://.import/MagentaStainedGlass.Png-6d4794f910b58ab6c3a4c573cb705066.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/magenta_stained_glass.png"
-dest_files=[ "res://.import/magenta_stained_glass.png-29685be19a06c92f5266e4329b143411.stex" ]
+source_file="res://Images/Tiles/MagentaStainedGlass.Png"
+dest_files=[ "res://.import/MagentaStainedGlass.Png-6d4794f910b58ab6c3a4c573cb705066.stex" ]
 
 [params]
 

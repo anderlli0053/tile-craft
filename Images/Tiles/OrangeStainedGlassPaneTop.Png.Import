@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/orange_stained_glass_pane_top.png-9c2650daa6e963f0b368d62ebb0231dd.stex"
+path="res://.import/OrangeStainedGlassPaneTop.Png-da120d8ee79e50028372afcc2bdaaad8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/orange_stained_glass_pane_top.png"
-dest_files=[ "res://.import/orange_stained_glass_pane_top.png-9c2650daa6e963f0b368d62ebb0231dd.stex" ]
+source_file="res://Images/Tiles/OrangeStainedGlassPaneTop.Png"
+dest_files=[ "res://.import/OrangeStainedGlassPaneTop.Png-da120d8ee79e50028372afcc2bdaaad8.stex" ]
 
 [params]
 

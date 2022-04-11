@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/oak_planks.png-8d502f662b840b750cbd4ddacb7b99f0.stex"
+path="res://.import/OakPlanks.Png-6d9e8ea706910706a7063325d948e6b6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/oak_planks.png"
-dest_files=[ "res://.import/oak_planks.png-8d502f662b840b750cbd4ddacb7b99f0.stex" ]
+source_file="res://Images/Tiles/OakPlanks.Png"
+dest_files=[ "res://.import/OakPlanks.Png-6d9e8ea706910706a7063325d948e6b6.stex" ]
 
 [params]
 

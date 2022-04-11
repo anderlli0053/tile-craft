@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/magenta_concrete.png-5cfd54f3305dc1e13ac6ca36f8a38020.stex"
+path="res://.import/MagentaConcrete.Png-c59752e9bcf6a0462ccf01c2123b1d7b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/magenta_concrete.png"
-dest_files=[ "res://.import/magenta_concrete.png-5cfd54f3305dc1e13ac6ca36f8a38020.stex" ]
+source_file="res://Images/Tiles/MagentaConcrete.Png"
+dest_files=[ "res://.import/MagentaConcrete.Png-c59752e9bcf6a0462ccf01c2123b1d7b.stex" ]
 
 [params]
 

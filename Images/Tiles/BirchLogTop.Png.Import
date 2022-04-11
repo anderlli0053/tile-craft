@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/birch_log_top.png-38830a73e3bdc1c3b2ccf572dd5e3be5.stex"
+path="res://.import/BirchLogTop.Png-31b05294165f7bf9d74a9122660a69d4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/birch_log_top.png"
-dest_files=[ "res://.import/birch_log_top.png-38830a73e3bdc1c3b2ccf572dd5e3be5.stex" ]
+source_file="res://Images/Tiles/BirchLogTop.Png"
+dest_files=[ "res://.import/BirchLogTop.Png-31b05294165f7bf9d74a9122660a69d4.stex" ]
 
 [params]
 

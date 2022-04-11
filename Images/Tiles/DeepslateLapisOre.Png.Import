@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/deepslate_lapis_ore.png-88322e2bb7da2098c6811361ddff347f.stex"
+path="res://.import/DeepslateLapisOre.Png-87b774b31247b4acf0a41e4c18b497a5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/deepslate_lapis_ore.png"
-dest_files=[ "res://.import/deepslate_lapis_ore.png-88322e2bb7da2098c6811361ddff347f.stex" ]
+source_file="res://Images/Tiles/DeepslateLapisOre.Png"
+dest_files=[ "res://.import/DeepslateLapisOre.Png-87b774b31247b4acf0a41e4c18b497a5.stex" ]
 
 [params]
 

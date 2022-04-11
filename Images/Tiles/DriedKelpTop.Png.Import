@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dried_kelp_top.png-f18f22ed8ee31fa5633efd828818fbbf.stex"
+path="res://.import/DriedKelpTop.Png-31c713ed5b12c8867244ef1e0296a96f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/dried_kelp_top.png"
-dest_files=[ "res://.import/dried_kelp_top.png-f18f22ed8ee31fa5633efd828818fbbf.stex" ]
+source_file="res://Images/Tiles/DriedKelpTop.Png"
+dest_files=[ "res://.import/DriedKelpTop.Png-31c713ed5b12c8867244ef1e0296a96f.stex" ]
 
 [params]
 

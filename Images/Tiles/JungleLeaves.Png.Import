@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/jungle_leaves.png-ad4df671f5813b2c0c84c2e1f140c329.stex"
+path="res://.import/JungleLeaves.Png-88e1832722f6d47bb4cff3b3e55f9f8a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/jungle_leaves.png"
-dest_files=[ "res://.import/jungle_leaves.png-ad4df671f5813b2c0c84c2e1f140c329.stex" ]
+source_file="res://Images/Tiles/JungleLeaves.Png"
+dest_files=[ "res://.import/JungleLeaves.Png-88e1832722f6d47bb4cff3b3e55f9f8a.stex" ]
 
 [params]
 

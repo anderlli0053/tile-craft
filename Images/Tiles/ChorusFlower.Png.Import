@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/chorus_flower.png-4fd2f8f60e4370b9d355b41b441dad34.stex"
+path="res://.import/ChorusFlower.Png-04964f24920ae8906ec7814032c90792.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/chorus_flower.png"
-dest_files=[ "res://.import/chorus_flower.png-4fd2f8f60e4370b9d355b41b441dad34.stex" ]
+source_file="res://Images/Tiles/ChorusFlower.Png"
+dest_files=[ "res://.import/ChorusFlower.Png-04964f24920ae8906ec7814032c90792.stex" ]
 
 [params]
 

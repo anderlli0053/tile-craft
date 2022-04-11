@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/warped_nylium.png-73441f66a1d4fcd99bc051e6f4c9625b.stex"
+path="res://.import/WarpedNylium.Png-912a35b382da010ff8eb6ccc2e1abdc8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/warped_nylium.png"
-dest_files=[ "res://.import/warped_nylium.png-73441f66a1d4fcd99bc051e6f4c9625b.stex" ]
+source_file="res://Images/Tiles/WarpedNylium.Png"
+dest_files=[ "res://.import/WarpedNylium.Png-912a35b382da010ff8eb6ccc2e1abdc8.stex" ]
 
 [params]
 

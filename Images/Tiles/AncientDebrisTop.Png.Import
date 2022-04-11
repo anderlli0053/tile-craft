@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ancient_debris_top.png-bcad8e8736c7b8f9a325e1903c84d935.stex"
+path="res://.import/AncientDebrisTop.Png-185e5bc81a5148886955357bdfbc0f42.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/ancient_debris_top.png"
-dest_files=[ "res://.import/ancient_debris_top.png-bcad8e8736c7b8f9a325e1903c84d935.stex" ]
+source_file="res://Images/Tiles/AncientDebrisTop.Png"
+dest_files=[ "res://.import/AncientDebrisTop.Png-185e5bc81a5148886955357bdfbc0f42.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/jungle_planks.png-4960912392f6d26f2d97b029c9b45e5a.stex"
+path="res://.import/JunglePlanks.Png-231674113c62d338fc5b1be0d4d36dab.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/jungle_planks.png"
-dest_files=[ "res://.import/jungle_planks.png-4960912392f6d26f2d97b029c9b45e5a.stex" ]
+source_file="res://Images/Tiles/JunglePlanks.Png"
+dest_files=[ "res://.import/JunglePlanks.Png-231674113c62d338fc5b1be0d4d36dab.stex" ]
 
 [params]
 

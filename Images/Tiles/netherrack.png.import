@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/netherrack.png-a26881085202ec172ea80e325cb8a506.stex"
+path="res://.import/Netherrack.Png-e572a7155f1f03497e92611b6be5a0b2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/netherrack.png"
-dest_files=[ "res://.import/netherrack.png-a26881085202ec172ea80e325cb8a506.stex" ]
+source_file="res://Images/Tiles/Netherrack.Png"
+dest_files=[ "res://.import/Netherrack.Png-e572a7155f1f03497e92611b6be5a0b2.stex" ]
 
 [params]
 

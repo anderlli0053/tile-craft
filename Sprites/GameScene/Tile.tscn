@@ -1,36 +1,24 @@
-[gd_scene load_steps=4 format=2]
+[gd_scene load_steps=3 format=2]
 
-[ext_resource path="res://Images/Tiles/grass_block_side.png" type="Texture" id=1]
-
-[sub_resource type="SpriteFrames" id=1]
-animations = [ {
-"frames": [ ExtResource( 1 ) ],
-"loop": true,
-"name": "grass",
-"speed": 0.0
-}, {
-"frames": [  ],
-"loop": true,
-"name": "none",
-"speed": 0.0
-} ]
-
-[sub_resource type="SpriteFrames" id=2]
-animations = [ {
-"frames": [  ],
-"loop": true,
-"name": "none",
-"speed": 5.0
-} ]
+[ext_resource path="res://Data/GameScene/Tiles/MainBlockList.tres" type="SpriteFrames" id=1]
+[ext_resource path="res://Data/GameScene/Tiles/OverlayList.tres" type="SpriteFrames" id=2]
 
 [node name="Tile" type="RigidBody2D"]
 
 [node name="Collider" type="CollisionPolygon2D" parent="."]
 
-[node name="BaseLayer" type="AnimatedSprite" parent="."]
-frames = SubResource( 1 )
+[node name="Background" type="AnimatedSprite" parent="."]
+frames = ExtResource( 1 )
 animation = "grass"
 
-[node name="TopLayer" type="AnimatedSprite" parent="."]
-frames = SubResource( 2 )
+[node name="Overlay" type="AnimatedSprite" parent="Background"]
+frames = ExtResource( 2 )
+animation = "grass"
+
+[node name="Main" type="AnimatedSprite" parent="."]
+frames = ExtResource( 1 )
 animation = "none"
+
+[node name="Overlay" type="AnimatedSprite" parent="Main"]
+frames = ExtResource( 2 )
+animation = "grass"

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/polished_granite.png-0acae59fa32f5892b2430961fed6a221.stex"
+path="res://.import/PolishedGranite.Png-75c3af6a77bf5f58709da40ff0b3e751.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/polished_granite.png"
-dest_files=[ "res://.import/polished_granite.png-0acae59fa32f5892b2430961fed6a221.stex" ]
+source_file="res://Images/Tiles/PolishedGranite.Png"
+dest_files=[ "res://.import/PolishedGranite.Png-75c3af6a77bf5f58709da40ff0b3e751.stex" ]
 
 [params]
 

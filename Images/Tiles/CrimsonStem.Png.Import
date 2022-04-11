@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crimson_stem.png-82cb1eca90da775449baaaea00e45e3e.stex"
+path="res://.import/CrimsonStem.Png-679c463db00eac564d7c92b0634e2c64.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/crimson_stem.png"
-dest_files=[ "res://.import/crimson_stem.png-82cb1eca90da775449baaaea00e45e3e.stex" ]
+source_file="res://Images/Tiles/CrimsonStem.Png"
+dest_files=[ "res://.import/CrimsonStem.Png-679c463db00eac564d7c92b0634e2c64.stex" ]
 
 [params]
 

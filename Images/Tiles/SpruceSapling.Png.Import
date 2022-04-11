@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spruce_sapling.png-6634fb0c644a2cf8a9af942e713be923.stex"
+path="res://.import/SpruceSapling.Png-8622ce2ccb983087f419e1365775e9e7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/spruce_sapling.png"
-dest_files=[ "res://.import/spruce_sapling.png-6634fb0c644a2cf8a9af942e713be923.stex" ]
+source_file="res://Images/Tiles/SpruceSapling.Png"
+dest_files=[ "res://.import/SpruceSapling.Png-8622ce2ccb983087f419e1365775e9e7.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/brewing_stand.png-156a1982a41a203dc48886a675b69e0a.stex"
+path="res://.import/BrewingStand.Png-148eccc6d263a5360acd672436e951e7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/brewing_stand.png"
-dest_files=[ "res://.import/brewing_stand.png-156a1982a41a203dc48886a675b69e0a.stex" ]
+source_file="res://Images/Tiles/BrewingStand.Png"
+dest_files=[ "res://.import/BrewingStand.Png-148eccc6d263a5360acd672436e951e7.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/glowstone.png-cbfb3f915751f30010a533f54569491c.stex"
+path="res://.import/Glowstone.Png-9af6c067836d5d3edbebb8e34b9ccabf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/glowstone.png"
-dest_files=[ "res://.import/glowstone.png-cbfb3f915751f30010a533f54569491c.stex" ]
+source_file="res://Images/Tiles/Glowstone.Png"
+dest_files=[ "res://.import/Glowstone.Png-9af6c067836d5d3edbebb8e34b9ccabf.stex" ]
 
 [params]
 

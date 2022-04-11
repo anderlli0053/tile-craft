@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/torch.png-a9cff151258f794b7a74d92fb31af6e9.stex"
+path="res://.import/Torch.Png-d7f8887dc49c3e87295dbbd8cb8cb005.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/torch.png"
-dest_files=[ "res://.import/torch.png-a9cff151258f794b7a74d92fb31af6e9.stex" ]
+source_file="res://Images/Tiles/Torch.Png"
+dest_files=[ "res://.import/Torch.Png-d7f8887dc49c3e87295dbbd8cb8cb005.stex" ]
 
 [params]
 

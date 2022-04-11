@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/melon_side.png-8773f0b3e2f8e7ed04ac36d6550c7ea7.stex"
+path="res://.import/MelonSide.Png-ade2ebfbe9e74dd4bb44ec127543e940.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/melon_side.png"
-dest_files=[ "res://.import/melon_side.png-8773f0b3e2f8e7ed04ac36d6550c7ea7.stex" ]
+source_file="res://Images/Tiles/MelonSide.Png"
+dest_files=[ "res://.import/MelonSide.Png-ade2ebfbe9e74dd4bb44ec127543e940.stex" ]
 
 [params]
 

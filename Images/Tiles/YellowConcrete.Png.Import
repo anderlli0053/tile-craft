@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/yellow_concrete.png-eccb44368b06961ec9839e043d10a52e.stex"
+path="res://.import/YellowConcrete.Png-3125c63d1f3953d35530e058b32ea0e5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/yellow_concrete.png"
-dest_files=[ "res://.import/yellow_concrete.png-eccb44368b06961ec9839e043d10a52e.stex" ]
+source_file="res://Images/Tiles/YellowConcrete.Png"
+dest_files=[ "res://.import/YellowConcrete.Png-3125c63d1f3953d35530e058b32ea0e5.stex" ]
 
 [params]
 

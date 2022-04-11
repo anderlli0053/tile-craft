@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/polished_diorite.png-bec4100496744f6d736cff1c21e06fc6.stex"
+path="res://.import/PolishedDiorite.Png-b1cbb6b2094a5063e4a2179c4bad5beb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/polished_diorite.png"
-dest_files=[ "res://.import/polished_diorite.png-bec4100496744f6d736cff1c21e06fc6.stex" ]
+source_file="res://Images/Tiles/PolishedDiorite.Png"
+dest_files=[ "res://.import/PolishedDiorite.Png-b1cbb6b2094a5063e4a2179c4bad5beb.stex" ]
 
 [params]
 

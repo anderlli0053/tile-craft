@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/furnace_top.png-32c7d49ceb641589720d0e1fb7514f5b.stex"
+path="res://.import/FurnaceTop.Png-516ac060c72a509034708e87956636ee.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/furnace_top.png"
-dest_files=[ "res://.import/furnace_top.png-32c7d49ceb641589720d0e1fb7514f5b.stex" ]
+source_file="res://Images/Tiles/FurnaceTop.Png"
+dest_files=[ "res://.import/FurnaceTop.Png-516ac060c72a509034708e87956636ee.stex" ]
 
 [params]
 

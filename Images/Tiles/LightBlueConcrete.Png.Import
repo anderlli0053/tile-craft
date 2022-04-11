@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/light_blue_concrete.png-23fa0d14f3a4cf148543ea90e7746488.stex"
+path="res://.import/LightBlueConcrete.Png-5bea90ba2f8f8123e4d5c44ab21e52d2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/light_blue_concrete.png"
-dest_files=[ "res://.import/light_blue_concrete.png-23fa0d14f3a4cf148543ea90e7746488.stex" ]
+source_file="res://Images/Tiles/LightBlueConcrete.Png"
+dest_files=[ "res://.import/LightBlueConcrete.Png-5bea90ba2f8f8123e4d5c44ab21e52d2.stex" ]
 
 [params]
 

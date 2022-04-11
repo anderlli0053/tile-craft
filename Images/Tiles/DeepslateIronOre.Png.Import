@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/deepslate_iron_ore.png-8604367467dc201bbbaf4fd288b081f7.stex"
+path="res://.import/DeepslateIronOre.Png-609a54e15776a4a79c72a529fe63e552.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/deepslate_iron_ore.png"
-dest_files=[ "res://.import/deepslate_iron_ore.png-8604367467dc201bbbaf4fd288b081f7.stex" ]
+source_file="res://Images/Tiles/DeepslateIronOre.Png"
+dest_files=[ "res://.import/DeepslateIronOre.Png-609a54e15776a4a79c72a529fe63e552.stex" ]
 
 [params]
 

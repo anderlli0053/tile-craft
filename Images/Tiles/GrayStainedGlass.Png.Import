@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/gray_stained_glass.png-7264748cefbe4d115c29f5d422723206.stex"
+path="res://.import/GrayStainedGlass.Png-d05b90674492070598cac3a68aa98ca5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/gray_stained_glass.png"
-dest_files=[ "res://.import/gray_stained_glass.png-7264748cefbe4d115c29f5d422723206.stex" ]
+source_file="res://Images/Tiles/GrayStainedGlass.Png"
+dest_files=[ "res://.import/GrayStainedGlass.Png-d05b90674492070598cac3a68aa98ca5.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tripwire.png-d9576ac940a35f5343f5eceeb2dd314b.stex"
+path="res://.import/Tripwire.Png-4bcab7e84d65251b399a13d34fe546b0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/tripwire.png"
-dest_files=[ "res://.import/tripwire.png-d9576ac940a35f5343f5eceeb2dd314b.stex" ]
+source_file="res://Images/Tiles/Tripwire.Png"
+dest_files=[ "res://.import/Tripwire.Png-4bcab7e84d65251b399a13d34fe546b0.stex" ]
 
 [params]
 

@@ -1,7 +1,10 @@
-[gd_scene load_steps=6 format=2]
+[gd_scene load_steps=9 format=2]
 
 [ext_resource path="res://Fonts/Gilroy.ttf" type="DynamicFontData" id=1]
 [ext_resource path="res://Fonts/Comfortaa.ttf" type="DynamicFontData" id=2]
+[ext_resource path="res://Images/Icons/Tanja012.png" type="Texture" id=3]
+[ext_resource path="res://Scripts/ArtistCredit/ArtistCredit.cs" type="Script" id=4]
+[ext_resource path="res://Sprites/Global/Button.tscn" type="PackedScene" id=5]
 
 [sub_resource type="DynamicFont" id=1]
 size = 130
@@ -11,12 +14,20 @@ font_data = ExtResource( 1 )
 size = 40
 font_data = ExtResource( 2 )
 
-[sub_resource type="DynamicFont" id=3]
-size = 50
-font_data = ExtResource( 2 )
+[sub_resource type="DynamicFont" id=4]
+size = 32
+font_data = ExtResource( 1 )
 
 [node name="ArtistCredit" type="Node2D"]
 position = Vector2( 640, 360 )
+script = ExtResource( 4 )
+
+[node name="TextureLink" parent="." instance=ExtResource( 5 )]
+margin_left = 65.0
+margin_top = -168.0
+margin_right = 560.0
+margin_bottom = -90.0
+text = "Link to textures"
 
 [node name="Title" type="Label" parent="."]
 margin_left = -640.0
@@ -36,10 +47,18 @@ text = "At the request of Tanja012, I have put this credits page for her. She is
 You should check her profile out, on planetminecraft.com, or her website (tanja012.com)."
 autowrap = true
 
-[node name="LinkToTextures" type="Button" parent="."]
-margin_left = 64.0
-margin_top = -160.0
-margin_right = 576.0
-margin_bottom = 32.0
-custom_fonts/font = SubResource( 3 )
-text = "Link to her textures"
+[node name="Logo" type="Sprite" parent="."]
+position = Vector2( 252.38, 172 )
+scale = Vector2( 0.408551, 0.408551 )
+texture = ExtResource( 3 )
+
+[node name="Continue" type="Button" parent="."]
+margin_left = 464.0
+margin_top = 288.0
+margin_right = 632.0
+margin_bottom = 352.0
+custom_fonts/font = SubResource( 4 )
+text = "Continue"
+
+[connection signal="pressed" from="TextureLink" to="." method="TextureLinkClicked"]
+[connection signal="pressed" from="Continue" to="." method="ContinueEvent"]

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/beacon.png-48271e510b256ee4091e8203e456cd74.stex"
+path="res://.import/Beacon.Png-b577171ae0bb137f9cc0d21b9443cd15.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/beacon.png"
-dest_files=[ "res://.import/beacon.png-48271e510b256ee4091e8203e456cd74.stex" ]
+source_file="res://Images/Tiles/Beacon.Png"
+dest_files=[ "res://.import/Beacon.Png-b577171ae0bb137f9cc0d21b9443cd15.stex" ]
 
 [params]
 

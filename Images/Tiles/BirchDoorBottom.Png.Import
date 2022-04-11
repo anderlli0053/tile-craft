@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/birch_door_bottom.png-12cd7ce91c4588e28160089081877ae7.stex"
+path="res://.import/BirchDoorBottom.Png-27ba1fbd29141e7a06a80867f26df15b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/birch_door_bottom.png"
-dest_files=[ "res://.import/birch_door_bottom.png-12cd7ce91c4588e28160089081877ae7.stex" ]
+source_file="res://Images/Tiles/BirchDoorBottom.Png"
+dest_files=[ "res://.import/BirchDoorBottom.Png-27ba1fbd29141e7a06a80867f26df15b.stex" ]
 
 [params]
 

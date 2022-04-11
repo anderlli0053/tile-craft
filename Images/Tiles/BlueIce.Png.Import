@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/blue_ice.png-b99e9e46c63263f069032eaf7326c3be.stex"
+path="res://.import/BlueIce.Png-c4f729556b0566964d0ff37da24b0745.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/blue_ice.png"
-dest_files=[ "res://.import/blue_ice.png-b99e9e46c63263f069032eaf7326c3be.stex" ]
+source_file="res://Images/Tiles/BlueIce.Png"
+dest_files=[ "res://.import/BlueIce.Png-c4f729556b0566964d0ff37da24b0745.stex" ]
 
 [params]
 

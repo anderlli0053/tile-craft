@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dark_oak_door_top.png-5d6832011f1f42dc906cc87995e174e3.stex"
+path="res://.import/DarkOakDoorTop.Png-460deaece2e17dcd619bd50ff1222d2d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/dark_oak_door_top.png"
-dest_files=[ "res://.import/dark_oak_door_top.png-5d6832011f1f42dc906cc87995e174e3.stex" ]
+source_file="res://Images/Tiles/DarkOakDoorTop.Png"
+dest_files=[ "res://.import/DarkOakDoorTop.Png-460deaece2e17dcd619bd50ff1222d2d.stex" ]
 
 [params]
 

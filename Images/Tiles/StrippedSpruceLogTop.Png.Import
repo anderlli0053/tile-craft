@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stripped_spruce_log_top.png-114b0a454b79cb589a9ecd892345d79f.stex"
+path="res://.import/StrippedSpruceLogTop.Png-5259bc50ebd1d3147f0a434cb43be1f7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/stripped_spruce_log_top.png"
-dest_files=[ "res://.import/stripped_spruce_log_top.png-114b0a454b79cb589a9ecd892345d79f.stex" ]
+source_file="res://Images/Tiles/StrippedSpruceLogTop.Png"
+dest_files=[ "res://.import/StrippedSpruceLogTop.Png-5259bc50ebd1d3147f0a434cb43be1f7.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hopper_top.png-1b55272c1ff2a7dab7c1d199037788ac.stex"
+path="res://.import/HopperTop.Png-6412f1f26f9649b3be65417520a1c368.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/hopper_top.png"
-dest_files=[ "res://.import/hopper_top.png-1b55272c1ff2a7dab7c1d199037788ac.stex" ]
+source_file="res://Images/Tiles/HopperTop.Png"
+dest_files=[ "res://.import/HopperTop.Png-6412f1f26f9649b3be65417520a1c368.stex" ]
 
 [params]
 

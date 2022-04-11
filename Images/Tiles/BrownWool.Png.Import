@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/brown_wool.png-172b8364e24f8f37e094cc6067bc6121.stex"
+path="res://.import/BrownWool.Png-0f1b36b6088c248d963f48f0f0a06400.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/brown_wool.png"
-dest_files=[ "res://.import/brown_wool.png-172b8364e24f8f37e094cc6067bc6121.stex" ]
+source_file="res://Images/Tiles/BrownWool.Png"
+dest_files=[ "res://.import/BrownWool.Png-0f1b36b6088c248d963f48f0f0a06400.stex" ]
 
 [params]
 

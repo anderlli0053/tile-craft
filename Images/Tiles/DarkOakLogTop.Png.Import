@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dark_oak_log_top.png-dd8a5c60e4be614fa156c336465d0205.stex"
+path="res://.import/DarkOakLogTop.Png-3dc26f7deeb63720c6152ae12bbd7e5a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/dark_oak_log_top.png"
-dest_files=[ "res://.import/dark_oak_log_top.png-dd8a5c60e4be614fa156c336465d0205.stex" ]
+source_file="res://Images/Tiles/DarkOakLogTop.Png"
+dest_files=[ "res://.import/DarkOakLogTop.Png-3dc26f7deeb63720c6152ae12bbd7e5a.stex" ]
 
 [params]
 

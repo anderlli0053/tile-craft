@@ -12,4 +12,12 @@ public class MainMenu : Node2D {
         GetNode<Button>("QuitButton").Disabled = creditsPageOpen;
         GetNode<ColorRect>("Credits").Visible = creditsPageOpen;
     }
+
+    public void PlayEvent(){
+        GetTree().ChangeScene("res://Scenes/GameScene.tscn");
+    }
+
+    public void QuitEvent(){
+        GetTree().Notification(MainLoop.NotificationWmQuitRequest);
+    }
 }

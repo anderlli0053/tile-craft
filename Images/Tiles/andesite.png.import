@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/andesite.png-d7a4101d6db009b4cff35f7a54d2ba0a.stex"
+path="res://.import/Andesite.Png-d5931e3884443a65cafa833d90d22b73.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/andesite.png"
-dest_files=[ "res://.import/andesite.png-d7a4101d6db009b4cff35f7a54d2ba0a.stex" ]
+source_file="res://Images/Tiles/Andesite.Png"
+dest_files=[ "res://.import/Andesite.Png-d5931e3884443a65cafa833d90d22b73.stex" ]
 
 [params]
 

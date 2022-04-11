@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/jungle_sapling.png-ccae6c10de732debabf8ba5bed70215c.stex"
+path="res://.import/JungleSapling.Png-f511277d0f08fd3f2d061f1de2d235de.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/jungle_sapling.png"
-dest_files=[ "res://.import/jungle_sapling.png-ccae6c10de732debabf8ba5bed70215c.stex" ]
+source_file="res://Images/Tiles/JungleSapling.Png"
+dest_files=[ "res://.import/JungleSapling.Png-f511277d0f08fd3f2d061f1de2d235de.stex" ]
 
 [params]
 

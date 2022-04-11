@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pink_stained_glass.png-f862a9e3f01b259c2f2dd43ae3e75f99.stex"
+path="res://.import/PinkStainedGlass.Png-3797ee9ced0bf7de8680bd9cea766329.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/pink_stained_glass.png"
-dest_files=[ "res://.import/pink_stained_glass.png-f862a9e3f01b259c2f2dd43ae3e75f99.stex" ]
+source_file="res://Images/Tiles/PinkStainedGlass.Png"
+dest_files=[ "res://.import/PinkStainedGlass.Png-3797ee9ced0bf7de8680bd9cea766329.stex" ]
 
 [params]
 

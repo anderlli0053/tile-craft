@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/black_concrete.png-5a85502d699491c12e87ec74c7d6ad60.stex"
+path="res://.import/BlackConcrete.Png-48e3b0da94621414284a1268b2dfd4f7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/black_concrete.png"
-dest_files=[ "res://.import/black_concrete.png-5a85502d699491c12e87ec74c7d6ad60.stex" ]
+source_file="res://Images/Tiles/BlackConcrete.Png"
+dest_files=[ "res://.import/BlackConcrete.Png-48e3b0da94621414284a1268b2dfd4f7.stex" ]
 
 [params]
 

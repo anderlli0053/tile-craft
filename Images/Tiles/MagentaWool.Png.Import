@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/magenta_wool.png-c54368e2e6273d0f8d5cddaf0153d77b.stex"
+path="res://.import/MagentaWool.Png-012b0ded78537e625542f08470e4fdfa.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/magenta_wool.png"
-dest_files=[ "res://.import/magenta_wool.png-c54368e2e6273d0f8d5cddaf0153d77b.stex" ]
+source_file="res://Images/Tiles/MagentaWool.Png"
+dest_files=[ "res://.import/MagentaWool.Png-012b0ded78537e625542f08470e4fdfa.stex" ]
 
 [params]
 

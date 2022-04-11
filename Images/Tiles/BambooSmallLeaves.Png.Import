@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bamboo_small_leaves.png-ab816bafc9be5db7018da69bc7265d9c.stex"
+path="res://.import/BambooSmallLeaves.Png-3b7548d4b9978a767eabd4183cb5e012.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/bamboo_small_leaves.png"
-dest_files=[ "res://.import/bamboo_small_leaves.png-ab816bafc9be5db7018da69bc7265d9c.stex" ]
+source_file="res://Images/Tiles/BambooSmallLeaves.Png"
+dest_files=[ "res://.import/BambooSmallLeaves.Png-3b7548d4b9978a767eabd4183cb5e012.stex" ]
 
 [params]
 

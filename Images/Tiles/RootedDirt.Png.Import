@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rooted_dirt.png-116764dc648549f23e00b54ce8ecbe78.stex"
+path="res://.import/RootedDirt.Png-fa544f9c87d46473b86aea101a2c7bf7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/rooted_dirt.png"
-dest_files=[ "res://.import/rooted_dirt.png-116764dc648549f23e00b54ce8ecbe78.stex" ]
+source_file="res://Images/Tiles/RootedDirt.Png"
+dest_files=[ "res://.import/RootedDirt.Png-fa544f9c87d46473b86aea101a2c7bf7.stex" ]
 
 [params]
 

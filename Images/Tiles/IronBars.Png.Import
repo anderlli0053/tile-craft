@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/iron_bars.png-75a8a7afda78293cb954c0c3586273a2.stex"
+path="res://.import/IronBars.Png-ac74a9fb6e23a865832c4784ed5ba8cc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/iron_bars.png"
-dest_files=[ "res://.import/iron_bars.png-75a8a7afda78293cb954c0c3586273a2.stex" ]
+source_file="res://Images/Tiles/IronBars.Png"
+dest_files=[ "res://.import/IronBars.Png-ac74a9fb6e23a865832c4784ed5ba8cc.stex" ]
 
 [params]
 

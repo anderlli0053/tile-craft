@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/scaffolding_side.png-da0ce11cbfdb1df47fa5e2c2139aed8d.stex"
+path="res://.import/ScaffoldingSide.Png-9d4e8351efd8073a128356920c177a2c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/scaffolding_side.png"
-dest_files=[ "res://.import/scaffolding_side.png-da0ce11cbfdb1df47fa5e2c2139aed8d.stex" ]
+source_file="res://Images/Tiles/ScaffoldingSide.Png"
+dest_files=[ "res://.import/ScaffoldingSide.Png-9d4e8351efd8073a128356920c177a2c.stex" ]
 
 [params]
 

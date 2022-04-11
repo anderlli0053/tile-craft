@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/red_sandstone.png-6f5b70bb54b45cefc8f1b1921d0670cb.stex"
+path="res://.import/RedSandstone.Png-51f02ad0b38bb66aa2bfe2ca32a66642.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/red_sandstone.png"
-dest_files=[ "res://.import/red_sandstone.png-6f5b70bb54b45cefc8f1b1921d0670cb.stex" ]
+source_file="res://Images/Tiles/RedSandstone.Png"
+dest_files=[ "res://.import/RedSandstone.Png-51f02ad0b38bb66aa2bfe2ca32a66642.stex" ]
 
 [params]
 

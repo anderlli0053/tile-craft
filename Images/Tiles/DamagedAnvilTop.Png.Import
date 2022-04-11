@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/damaged_anvil_top.png-390e1ab472e7391db46937e0d25519c5.stex"
+path="res://.import/DamagedAnvilTop.Png-50bd012946acc2e68f83be1f2cc26c68.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/damaged_anvil_top.png"
-dest_files=[ "res://.import/damaged_anvil_top.png-390e1ab472e7391db46937e0d25519c5.stex" ]
+source_file="res://Images/Tiles/DamagedAnvilTop.Png"
+dest_files=[ "res://.import/DamagedAnvilTop.Png-50bd012946acc2e68f83be1f2cc26c68.stex" ]
 
 [params]
 

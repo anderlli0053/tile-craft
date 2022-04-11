@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/farmland.png-f00785580c6dd3cba59b1941d3c5d904.stex"
+path="res://.import/Farmland.Png-525ef3c817684dff798f10fef8f76e61.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/farmland.png"
-dest_files=[ "res://.import/farmland.png-f00785580c6dd3cba59b1941d3c5d904.stex" ]
+source_file="res://Images/Tiles/Farmland.Png"
+dest_files=[ "res://.import/Farmland.Png-525ef3c817684dff798f10fef8f76e61.stex" ]
 
 [params]
 

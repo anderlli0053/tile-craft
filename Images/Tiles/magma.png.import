@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/magma.png-623926ad78e293913f4a935172d49716.stex"
+path="res://.import/Magma.Png-022fd25455a20d0fe832971147e9534d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/magma.png"
-dest_files=[ "res://.import/magma.png-623926ad78e293913f4a935172d49716.stex" ]
+source_file="res://Images/Tiles/Magma.Png"
+dest_files=[ "res://.import/Magma.Png-022fd25455a20d0fe832971147e9534d.stex" ]
 
 [params]
 

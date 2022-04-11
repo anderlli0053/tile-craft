@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pink_stained_glass_pane_top.png-233cfbb299eb8b372cb248dada819f52.stex"
+path="res://.import/PinkStainedGlassPaneTop.Png-5682d7e00caf1c91e88f62c77c70b54a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/pink_stained_glass_pane_top.png"
-dest_files=[ "res://.import/pink_stained_glass_pane_top.png-233cfbb299eb8b372cb248dada819f52.stex" ]
+source_file="res://Images/Tiles/PinkStainedGlassPaneTop.Png"
+dest_files=[ "res://.import/PinkStainedGlassPaneTop.Png-5682d7e00caf1c91e88f62c77c70b54a.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/amethyst_cluster.png-8110b0f9d08cbbef1db88b039d4ab498.stex"
+path="res://.import/AmethystCluster.Png-0e0565a8cd65012bb5251dce51358fcb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/amethyst_cluster.png"
-dest_files=[ "res://.import/amethyst_cluster.png-8110b0f9d08cbbef1db88b039d4ab498.stex" ]
+source_file="res://Images/Tiles/AmethystCluster.Png"
+dest_files=[ "res://.import/AmethystCluster.Png-0e0565a8cd65012bb5251dce51358fcb.stex" ]
 
 [params]
 

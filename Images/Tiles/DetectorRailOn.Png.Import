@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/detector_rail_on.png-620938d80c1a8e4a3f82ec0445991e2e.stex"
+path="res://.import/DetectorRailOn.Png-c994db2b178034f525d8cc1af5e9dc0f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/detector_rail_on.png"
-dest_files=[ "res://.import/detector_rail_on.png-620938d80c1a8e4a3f82ec0445991e2e.stex" ]
+source_file="res://Images/Tiles/DetectorRailOn.Png"
+dest_files=[ "res://.import/DetectorRailOn.Png-c994db2b178034f525d8cc1af5e9dc0f.stex" ]
 
 [params]
 

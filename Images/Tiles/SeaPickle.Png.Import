@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sea_pickle.png-03cf18728511b04a23b1398007d56d62.stex"
+path="res://.import/SeaPickle.Png-9f76015978a10054ecf4f4729e1e0fc2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/sea_pickle.png"
-dest_files=[ "res://.import/sea_pickle.png-03cf18728511b04a23b1398007d56d62.stex" ]
+source_file="res://Images/Tiles/SeaPickle.Png"
+dest_files=[ "res://.import/SeaPickle.Png-9f76015978a10054ecf4f4729e1e0fc2.stex" ]
 
 [params]
 

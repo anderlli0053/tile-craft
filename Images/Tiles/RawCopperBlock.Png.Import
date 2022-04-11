@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/raw_copper_block.png-1d73c865b7afac3efd78efd46fe1c774.stex"
+path="res://.import/RawCopperBlock.Png-8503000766a7a40aec4b3da2755f5fb2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/raw_copper_block.png"
-dest_files=[ "res://.import/raw_copper_block.png-1d73c865b7afac3efd78efd46fe1c774.stex" ]
+source_file="res://Images/Tiles/RawCopperBlock.Png"
+dest_files=[ "res://.import/RawCopperBlock.Png-8503000766a7a40aec4b3da2755f5fb2.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crimson_roots_pot.png-131df804dcff4bbc6cbb678f37ed5fe6.stex"
+path="res://.import/CrimsonRootsPot.Png-117e6959f4a00cbc55cfe47b803a2631.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/crimson_roots_pot.png"
-dest_files=[ "res://.import/crimson_roots_pot.png-131df804dcff4bbc6cbb678f37ed5fe6.stex" ]
+source_file="res://Images/Tiles/CrimsonRootsPot.Png"
+dest_files=[ "res://.import/CrimsonRootsPot.Png-117e6959f4a00cbc55cfe47b803a2631.stex" ]
 
 [params]
 

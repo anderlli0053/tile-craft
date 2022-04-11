@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/iron_door_top.png-197c84a1e70c18328c8b43fbcc272354.stex"
+path="res://.import/IronDoorTop.Png-f2e602252277d31ffc02a7f02571e394.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/iron_door_top.png"
-dest_files=[ "res://.import/iron_door_top.png-197c84a1e70c18328c8b43fbcc272354.stex" ]
+source_file="res://Images/Tiles/IronDoorTop.Png"
+dest_files=[ "res://.import/IronDoorTop.Png-f2e602252277d31ffc02a7f02571e394.stex" ]
 
 [params]
 

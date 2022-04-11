@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/water_still.png-9dcbc6df45f11f24c283a6b6a5b47411.stex"
+path="res://.import/WaterStill.Png-d22723f2549a79146c2a15c250938d4e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/water_still.png"
-dest_files=[ "res://.import/water_still.png-9dcbc6df45f11f24c283a6b6a5b47411.stex" ]
+source_file="res://Images/Tiles/WaterStill.Png"
+dest_files=[ "res://.import/WaterStill.Png-d22723f2549a79146c2a15c250938d4e.stex" ]
 
 [params]
 

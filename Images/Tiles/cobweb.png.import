@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cobweb.png-521d3631bd9b20ec1e0478c8419064ba.stex"
+path="res://.import/Cobweb.Png-aa194144dacee92c74c16bad45a8a25c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/cobweb.png"
-dest_files=[ "res://.import/cobweb.png-521d3631bd9b20ec1e0478c8419064ba.stex" ]
+source_file="res://Images/Tiles/Cobweb.Png"
+dest_files=[ "res://.import/Cobweb.Png-aa194144dacee92c74c16bad45a8a25c.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/green_wool.png-0b0f098bf934b5756fa544ff0189d76f.stex"
+path="res://.import/GreenWool.Png-4f1b2ecf26b62c59611d9c685fb80040.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/green_wool.png"
-dest_files=[ "res://.import/green_wool.png-0b0f098bf934b5756fa544ff0189d76f.stex" ]
+source_file="res://Images/Tiles/GreenWool.Png"
+dest_files=[ "res://.import/GreenWool.Png-4f1b2ecf26b62c59611d9c685fb80040.stex" ]
 
 [params]
 

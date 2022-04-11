@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crying_obsidian.png-4385b27b29763275c7cd2eeca244b952.stex"
+path="res://.import/CryingObsidian.Png-54e9081092ad2988cbd5ff468f9a8a26.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/crying_obsidian.png"
-dest_files=[ "res://.import/crying_obsidian.png-4385b27b29763275c7cd2eeca244b952.stex" ]
+source_file="res://Images/Tiles/CryingObsidian.Png"
+dest_files=[ "res://.import/CryingObsidian.Png-54e9081092ad2988cbd5ff468f9a8a26.stex" ]
 
 [params]
 

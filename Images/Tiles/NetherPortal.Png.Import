@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/nether_portal.png-2c8e3ab48799b0dac52285f0d60b0019.stex"
+path="res://.import/NetherPortal.Png-827081cdb68ef0b7f2d75ea2178a20de.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/nether_portal.png"
-dest_files=[ "res://.import/nether_portal.png-2c8e3ab48799b0dac52285f0d60b0019.stex" ]
+source_file="res://Images/Tiles/NetherPortal.Png"
+dest_files=[ "res://.import/NetherPortal.Png-827081cdb68ef0b7f2d75ea2178a20de.stex" ]
 
 [params]
 

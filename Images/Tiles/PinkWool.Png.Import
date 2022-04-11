@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pink_wool.png-301ce01aa23536fc35945f1b46ebe120.stex"
+path="res://.import/PinkWool.Png-fee3a7bb486aba5ac94c9ecbd7de9d7f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/pink_wool.png"
-dest_files=[ "res://.import/pink_wool.png-301ce01aa23536fc35945f1b46ebe120.stex" ]
+source_file="res://Images/Tiles/PinkWool.Png"
+dest_files=[ "res://.import/PinkWool.Png-fee3a7bb486aba5ac94c9ecbd7de9d7f.stex" ]
 
 [params]
 

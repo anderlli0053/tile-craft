@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/warped_roots_pot.png-c921583f2ade57d443c165610cc61570.stex"
+path="res://.import/WarpedRootsPot.Png-68b7e52b40194a378fa0bb96eb04540b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/warped_roots_pot.png"
-dest_files=[ "res://.import/warped_roots_pot.png-c921583f2ade57d443c165610cc61570.stex" ]
+source_file="res://Images/Tiles/WarpedRootsPot.Png"
+dest_files=[ "res://.import/WarpedRootsPot.Png-68b7e52b40194a378fa0bb96eb04540b.stex" ]
 
 [params]
 

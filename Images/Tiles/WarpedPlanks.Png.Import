@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/warped_planks.png-8fa19c6002eaa2b15855f7e0b857dbc2.stex"
+path="res://.import/WarpedPlanks.Png-52e2b397755b724f9b94d727dc1fbf46.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/warped_planks.png"
-dest_files=[ "res://.import/warped_planks.png-8fa19c6002eaa2b15855f7e0b857dbc2.stex" ]
+source_file="res://Images/Tiles/WarpedPlanks.Png"
+dest_files=[ "res://.import/WarpedPlanks.Png-52e2b397755b724f9b94d727dc1fbf46.stex" ]
 
 [params]
 

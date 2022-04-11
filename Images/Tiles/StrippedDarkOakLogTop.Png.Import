@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stripped_dark_oak_log_top.png-e43e0bd3f8ce29b1d7bca2b129b2bb7e.stex"
+path="res://.import/StrippedDarkOakLogTop.Png-a6e67bd167c07238387d1a759674a026.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/stripped_dark_oak_log_top.png"
-dest_files=[ "res://.import/stripped_dark_oak_log_top.png-e43e0bd3f8ce29b1d7bca2b129b2bb7e.stex" ]
+source_file="res://Images/Tiles/StrippedDarkOakLogTop.Png"
+dest_files=[ "res://.import/StrippedDarkOakLogTop.Png-a6e67bd167c07238387d1a759674a026.stex" ]
 
 [params]
 

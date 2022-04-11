@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/large_fern_top.png-024931261792eb24821769786d537645.stex"
+path="res://.import/LargeFernTop.Png-b437ec6e14cbef38cffc9d6dbb3103c4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/large_fern_top.png"
-dest_files=[ "res://.import/large_fern_top.png-024931261792eb24821769786d537645.stex" ]
+source_file="res://Images/Tiles/LargeFernTop.Png"
+dest_files=[ "res://.import/LargeFernTop.Png-b437ec6e14cbef38cffc9d6dbb3103c4.stex" ]
 
 [params]
 

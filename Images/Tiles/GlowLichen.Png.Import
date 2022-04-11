@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/glow_lichen.png-4098b246fdb7f039ca3b974fa87eabee.stex"
+path="res://.import/GlowLichen.Png-66a08cb7f74eaca522dde6af6eb7831d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/glow_lichen.png"
-dest_files=[ "res://.import/glow_lichen.png-4098b246fdb7f039ca3b974fa87eabee.stex" ]
+source_file="res://Images/Tiles/GlowLichen.Png"
+dest_files=[ "res://.import/GlowLichen.Png-66a08cb7f74eaca522dde6af6eb7831d.stex" ]
 
 [params]
 

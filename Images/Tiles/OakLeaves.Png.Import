@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/oak_leaves.png-4f8d26660639bae080536f4560210ac6.stex"
+path="res://.import/OakLeaves.Png-ee368255bffb855d94e1d45e036e58a6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/oak_leaves.png"
-dest_files=[ "res://.import/oak_leaves.png-4f8d26660639bae080536f4560210ac6.stex" ]
+source_file="res://Images/Tiles/OakLeaves.Png"
+dest_files=[ "res://.import/OakLeaves.Png-ee368255bffb855d94e1d45e036e58a6.stex" ]
 
 [params]
 

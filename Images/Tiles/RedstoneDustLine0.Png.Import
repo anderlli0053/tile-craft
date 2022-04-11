@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/redstone_dust_line0.png-5477c99443e887bc9b8fe08726cf69af.stex"
+path="res://.import/RedstoneDustLine0.Png-ad59655c17d3ec6c0eb8fe36f551452b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/redstone_dust_line0.png"
-dest_files=[ "res://.import/redstone_dust_line0.png-5477c99443e887bc9b8fe08726cf69af.stex" ]
+source_file="res://Images/Tiles/RedstoneDustLine0.Png"
+dest_files=[ "res://.import/RedstoneDustLine0.Png-ad59655c17d3ec6c0eb8fe36f551452b.stex" ]
 
 [params]
 

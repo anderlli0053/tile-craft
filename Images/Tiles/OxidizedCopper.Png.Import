@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/oxidized_copper.png-c6a066c7ac1b9b3f3115d47851351995.stex"
+path="res://.import/OxidizedCopper.Png-ca04fc27f88c18ec5b06eaf23b61415d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/oxidized_copper.png"
-dest_files=[ "res://.import/oxidized_copper.png-c6a066c7ac1b9b3f3115d47851351995.stex" ]
+source_file="res://Images/Tiles/OxidizedCopper.Png"
+dest_files=[ "res://.import/OxidizedCopper.Png-ca04fc27f88c18ec5b06eaf23b61415d.stex" ]
 
 [params]
 

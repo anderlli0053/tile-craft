@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/jack_o_lantern.png-bf3e8276cf7fd668d88991b7b4f65e60.stex"
+path="res://.import/JackOLantern.Png-49b4639914e505c0adc839221f0036cd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/jack_o_lantern.png"
-dest_files=[ "res://.import/jack_o_lantern.png-bf3e8276cf7fd668d88991b7b4f65e60.stex" ]
+source_file="res://Images/Tiles/JackOLantern.Png"
+dest_files=[ "res://.import/JackOLantern.Png-49b4639914e505c0adc839221f0036cd.stex" ]
 
 [params]
 

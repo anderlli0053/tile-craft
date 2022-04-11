@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/redstone_ore.png-82592935356e855c1ae24db285d9750b.stex"
+path="res://.import/RedstoneOre.Png-263bec4cbbcb76471d7f6724031c882a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/redstone_ore.png"
-dest_files=[ "res://.import/redstone_ore.png-82592935356e855c1ae24db285d9750b.stex" ]
+source_file="res://Images/Tiles/RedstoneOre.Png"
+dest_files=[ "res://.import/RedstoneOre.Png-263bec4cbbcb76471d7f6724031c882a.stex" ]
 
 [params]
 

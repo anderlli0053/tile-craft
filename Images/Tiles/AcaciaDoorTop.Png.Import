@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/acacia_door_top.png-d31e075a121000b878f552b499eaaaa8.stex"
+path="res://.import/AcaciaDoorTop.Png-6e4c60638dec0ffaab452657cbd2bd10.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/acacia_door_top.png"
-dest_files=[ "res://.import/acacia_door_top.png-d31e075a121000b878f552b499eaaaa8.stex" ]
+source_file="res://Images/Tiles/AcaciaDoorTop.Png"
+dest_files=[ "res://.import/AcaciaDoorTop.Png-6e4c60638dec0ffaab452657cbd2bd10.stex" ]
 
 [params]
 

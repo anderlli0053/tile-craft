@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spawner.png-4deaee17f6a7e0d50350dbb6829b7519.stex"
+path="res://.import/Spawner.Png-50826d0aeaeca8f6effb2dbd8ad14c3e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/spawner.png"
-dest_files=[ "res://.import/spawner.png-4deaee17f6a7e0d50350dbb6829b7519.stex" ]
+source_file="res://Images/Tiles/Spawner.Png"
+dest_files=[ "res://.import/Spawner.Png-50826d0aeaeca8f6effb2dbd8ad14c3e.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/allium.png-8a3362e3d03c43c5513756f85a1c8c12.stex"
+path="res://.import/Allium.Png-1487e42784f7940ae7da8b8386640cdd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/allium.png"
-dest_files=[ "res://.import/allium.png-8a3362e3d03c43c5513756f85a1c8c12.stex" ]
+source_file="res://Images/Tiles/Allium.Png"
+dest_files=[ "res://.import/Allium.Png-1487e42784f7940ae7da8b8386640cdd.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/soul_sand.png-76c10da41997a6b425d04460a107c32d.stex"
+path="res://.import/SoulSand.Png-a5d9ce5fa2d3c88180e3c549ecc2ce5b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/soul_sand.png"
-dest_files=[ "res://.import/soul_sand.png-76c10da41997a6b425d04460a107c32d.stex" ]
+source_file="res://Images/Tiles/SoulSand.Png"
+dest_files=[ "res://.import/SoulSand.Png-a5d9ce5fa2d3c88180e3c549ecc2ce5b.stex" ]
 
 [params]
 

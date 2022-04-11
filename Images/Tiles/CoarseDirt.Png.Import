@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/coarse_dirt.png-1241724241a529b394e6a9de7f14e14a.stex"
+path="res://.import/CoarseDirt.Png-36f62e4ae54968ed80411a90b282fc07.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/coarse_dirt.png"
-dest_files=[ "res://.import/coarse_dirt.png-1241724241a529b394e6a9de7f14e14a.stex" ]
+source_file="res://Images/Tiles/CoarseDirt.Png"
+dest_files=[ "res://.import/CoarseDirt.Png-36f62e4ae54968ed80411a90b282fc07.stex" ]
 
 [params]
 

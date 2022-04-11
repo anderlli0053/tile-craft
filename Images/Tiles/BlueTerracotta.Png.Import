@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/blue_terracotta.png-46365cbfc02872ab22a20b6aeb5dc5db.stex"
+path="res://.import/BlueTerracotta.Png-55ce4d03d35ac50679b5dc7fdf8f1794.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/blue_terracotta.png"
-dest_files=[ "res://.import/blue_terracotta.png-46365cbfc02872ab22a20b6aeb5dc5db.stex" ]
+source_file="res://Images/Tiles/BlueTerracotta.Png"
+dest_files=[ "res://.import/BlueTerracotta.Png-55ce4d03d35ac50679b5dc7fdf8f1794.stex" ]
 
 [params]
 

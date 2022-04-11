@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spruce_door_top.png-f9b1ea06927c2b16801f0c674c916952.stex"
+path="res://.import/SpruceDoorTop.Png-07021a37b415c61858b445795dfa9aae.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/spruce_door_top.png"
-dest_files=[ "res://.import/spruce_door_top.png-f9b1ea06927c2b16801f0c674c916952.stex" ]
+source_file="res://Images/Tiles/SpruceDoorTop.Png"
+dest_files=[ "res://.import/SpruceDoorTop.Png-07021a37b415c61858b445795dfa9aae.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pumpkin_side.png-75ac84e33647b040aa733d4142c6a585.stex"
+path="res://.import/PumpkinSide.Png-ca59e544e1b5c97d763b60dd77f5559b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/pumpkin_side.png"
-dest_files=[ "res://.import/pumpkin_side.png-75ac84e33647b040aa733d4142c6a585.stex" ]
+source_file="res://Images/Tiles/PumpkinSide.Png"
+dest_files=[ "res://.import/PumpkinSide.Png-ca59e544e1b5c97d763b60dd77f5559b.stex" ]
 
 [params]
 

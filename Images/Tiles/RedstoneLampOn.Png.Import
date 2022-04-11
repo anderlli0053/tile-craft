@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/redstone_lamp_on.png-add28a13f4e1d54cf6f2d237d96784bc.stex"
+path="res://.import/RedstoneLampOn.Png-9a9f0adc414c85fea737ca11894eda2f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/redstone_lamp_on.png"
-dest_files=[ "res://.import/redstone_lamp_on.png-add28a13f4e1d54cf6f2d237d96784bc.stex" ]
+source_file="res://Images/Tiles/RedstoneLampOn.Png"
+dest_files=[ "res://.import/RedstoneLampOn.Png-9a9f0adc414c85fea737ca11894eda2f.stex" ]
 
 [params]
 

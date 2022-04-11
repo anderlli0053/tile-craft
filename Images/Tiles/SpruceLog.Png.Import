@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spruce_log.png-cfee78a00ed0d7f38499784c8689948e.stex"
+path="res://.import/SpruceLog.Png-0ecd59507c669358db971689cfd168b2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/spruce_log.png"
-dest_files=[ "res://.import/spruce_log.png-cfee78a00ed0d7f38499784c8689948e.stex" ]
+source_file="res://Images/Tiles/SpruceLog.Png"
+dest_files=[ "res://.import/SpruceLog.Png-0ecd59507c669358db971689cfd168b2.stex" ]
 
 [params]
 

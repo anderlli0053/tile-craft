@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/red_nether_bricks.png-fed4e54e9f5a45d94780ba0ed88d8004.stex"
+path="res://.import/RedNetherBricks.Png-1ba3c4dc37101bdb3d60305b02355860.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/red_nether_bricks.png"
-dest_files=[ "res://.import/red_nether_bricks.png-fed4e54e9f5a45d94780ba0ed88d8004.stex" ]
+source_file="res://Images/Tiles/RedNetherBricks.Png"
+dest_files=[ "res://.import/RedNetherBricks.Png-1ba3c4dc37101bdb3d60305b02355860.stex" ]
 
 [params]
 

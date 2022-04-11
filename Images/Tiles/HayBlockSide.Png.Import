@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hay_block_side.png-9ab1735a618bff99310fe925a3531200.stex"
+path="res://.import/HayBlockSide.Png-882b52e107464b03ba941266dc17c50c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/hay_block_side.png"
-dest_files=[ "res://.import/hay_block_side.png-9ab1735a618bff99310fe925a3531200.stex" ]
+source_file="res://Images/Tiles/HayBlockSide.Png"
+dest_files=[ "res://.import/HayBlockSide.Png-882b52e107464b03ba941266dc17c50c.stex" ]
 
 [params]
 

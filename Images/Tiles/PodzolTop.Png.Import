@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/podzol_top.png-7581419994812f724b5da965498f10f8.stex"
+path="res://.import/PodzolTop.Png-f769f12d169aa495f832e8085a47d7ab.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/podzol_top.png"
-dest_files=[ "res://.import/podzol_top.png-7581419994812f724b5da965498f10f8.stex" ]
+source_file="res://Images/Tiles/PodzolTop.Png"
+dest_files=[ "res://.import/PodzolTop.Png-f769f12d169aa495f832e8085a47d7ab.stex" ]
 
 [params]
 

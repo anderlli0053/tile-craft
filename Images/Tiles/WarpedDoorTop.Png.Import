@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/warped_door_top.png-9c82fd4ffe208bcc3dd9b3d8d9f9dc50.stex"
+path="res://.import/WarpedDoorTop.Png-ff6d1b27b1f25d258c5db3d540ff6ec3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/warped_door_top.png"
-dest_files=[ "res://.import/warped_door_top.png-9c82fd4ffe208bcc3dd9b3d8d9f9dc50.stex" ]
+source_file="res://Images/Tiles/WarpedDoorTop.Png"
+dest_files=[ "res://.import/WarpedDoorTop.Png-ff6d1b27b1f25d258c5db3d540ff6ec3.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cracked_nether_bricks.png-025c8659d87b1ee85f0d881c497230b3.stex"
+path="res://.import/CrackedNetherBricks.Png-b90b82489757c9fd42b581ebb34f478f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/cracked_nether_bricks.png"
-dest_files=[ "res://.import/cracked_nether_bricks.png-025c8659d87b1ee85f0d881c497230b3.stex" ]
+source_file="res://Images/Tiles/CrackedNetherBricks.Png"
+dest_files=[ "res://.import/CrackedNetherBricks.Png-b90b82489757c9fd42b581ebb34f478f.stex" ]
 
 [params]
 

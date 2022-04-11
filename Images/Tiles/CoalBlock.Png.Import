@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/coal_block.png-2899f06c6e360215d16c6d2a3aeae1a0.stex"
+path="res://.import/CoalBlock.Png-a0c5697e1845c3aa68ceccda760791a9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/coal_block.png"
-dest_files=[ "res://.import/coal_block.png-2899f06c6e360215d16c6d2a3aeae1a0.stex" ]
+source_file="res://Images/Tiles/CoalBlock.Png"
+dest_files=[ "res://.import/CoalBlock.Png-a0c5697e1845c3aa68ceccda760791a9.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rail_corner.png-c4de5f1c1282f50b75bf1be273ef66be.stex"
+path="res://.import/RailCorner.Png-a3e6fb225b689fbcea4c152f4f17b627.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/rail_corner.png"
-dest_files=[ "res://.import/rail_corner.png-c4de5f1c1282f50b75bf1be273ef66be.stex" ]
+source_file="res://Images/Tiles/RailCorner.Png"
+dest_files=[ "res://.import/RailCorner.Png-a3e6fb225b689fbcea4c152f4f17b627.stex" ]
 
 [params]
 

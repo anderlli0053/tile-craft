@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/soul_lantern.png-71005124a484350c2fc9c0bca4027096.stex"
+path="res://.import/SoulLantern.Png-8fec501e5328efae532772176a4bdcf9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/soul_lantern.png"
-dest_files=[ "res://.import/soul_lantern.png-71005124a484350c2fc9c0bca4027096.stex" ]
+source_file="res://Images/Tiles/SoulLantern.Png"
+dest_files=[ "res://.import/SoulLantern.Png-8fec501e5328efae532772176a4bdcf9.stex" ]
 
 [params]
 

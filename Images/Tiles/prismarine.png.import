@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/prismarine.png-c5489df0d859a2f21f39cd150318f011.stex"
+path="res://.import/Prismarine.Png-3682d9a6812ba4cf1cd3707cce0b1b92.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/prismarine.png"
-dest_files=[ "res://.import/prismarine.png-c5489df0d859a2f21f39cd150318f011.stex" ]
+source_file="res://Images/Tiles/Prismarine.Png"
+dest_files=[ "res://.import/Prismarine.Png-3682d9a6812ba4cf1cd3707cce0b1b92.stex" ]
 
 [params]
 

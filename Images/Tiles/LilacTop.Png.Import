@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lilac_top.png-a52b3627d8c7a3a089217840b014a6f9.stex"
+path="res://.import/LilacTop.Png-0df5301343ecaee50cbadb175638ee86.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/lilac_top.png"
-dest_files=[ "res://.import/lilac_top.png-a52b3627d8c7a3a089217840b014a6f9.stex" ]
+source_file="res://Images/Tiles/LilacTop.Png"
+dest_files=[ "res://.import/LilacTop.Png-0df5301343ecaee50cbadb175638ee86.stex" ]
 
 [params]
 

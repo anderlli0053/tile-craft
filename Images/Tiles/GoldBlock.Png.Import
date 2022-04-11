@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/gold_block.png-76d7ba34d267b5b892da952897dba0f6.stex"
+path="res://.import/GoldBlock.Png-37efc5b0aba9c65774deb091dd4c0b77.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/gold_block.png"
-dest_files=[ "res://.import/gold_block.png-76d7ba34d267b5b892da952897dba0f6.stex" ]
+source_file="res://Images/Tiles/GoldBlock.Png"
+dest_files=[ "res://.import/GoldBlock.Png-37efc5b0aba9c65774deb091dd4c0b77.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dragon_egg.png-073e20f76f2ef8c652a3c9fb72eb30b8.stex"
+path="res://.import/DragonEgg.Png-13d1c05bc13343761d9f899638a7eeaa.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/dragon_egg.png"
-dest_files=[ "res://.import/dragon_egg.png-073e20f76f2ef8c652a3c9fb72eb30b8.stex" ]
+source_file="res://Images/Tiles/DragonEgg.Png"
+dest_files=[ "res://.import/DragonEgg.Png-13d1c05bc13343761d9f899638a7eeaa.stex" ]
 
 [params]
 

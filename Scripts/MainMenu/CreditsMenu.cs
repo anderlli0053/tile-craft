@@ -2,8 +2,13 @@ using Godot;
 
 public class CreditsMenu : ColorRect
 {
-    public void ToggleVisible(){
-        MainMenu mainMenu = GetNode<MainMenu>("/root/MainMenu");
+    MainMenu mainMenu;
+    public override void _Ready()
+    {
+        base._Ready();
+        mainMenu = GetNode<MainMenu>("/root/MainMenu");
+    }
+    public void ToggleEvent(){
         mainMenu.ToggleCredits();
     }
 }

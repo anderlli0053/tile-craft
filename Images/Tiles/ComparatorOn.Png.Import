@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/comparator_on.png-182f25d02b1382d93feeda7112389820.stex"
+path="res://.import/ComparatorOn.Png-e44a96890a82156b6d8d07512db477af.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/comparator_on.png"
-dest_files=[ "res://.import/comparator_on.png-182f25d02b1382d93feeda7112389820.stex" ]
+source_file="res://Images/Tiles/ComparatorOn.Png"
+dest_files=[ "res://.import/ComparatorOn.Png-e44a96890a82156b6d8d07512db477af.stex" ]
 
 [params]
 
