@@ -6,10 +6,13 @@ namespace TileCraftData
     public class TileData
     {
         public char CharCode;
+        public string Main;
+        public string Overlay;
+        public string Collision;
     }
     public class BlockData : Dictionary<string, TileData>
     {
-        public static readonly BlockData data = BlockData.LoadBlockData();
+        public static readonly BlockData Data = BlockData.LoadBlockData();
         private static BlockData LoadBlockData()
         {
             File fs = new File();

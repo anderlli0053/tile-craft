@@ -1,22 +1,26 @@
 {
-    "Air": {
-        "CharCode": "a",
-        "Main": "none",
-        "Overlay": "none"
-    },
-    "Grass": {
-        "CharCode": "b",
-        "Main": "grass",
-        "Overlay": "grass"
-    },
-    "Stone": {
-        "CharCode": "c",
-        "Main": "stone",
-        "Overlay": "none"
-    },
-    "Dirt": {
-        "CharCode": "d",
-        "Main": "dirt",
-        "Overlay": "none"
-    }
+  "Air": {
+    "CharCode": "a",
+    "Main": "None",
+    "Overlay": "None",
+    "Collision": "None"
+  },
+  "Grass": {
+    "CharCode": "b",
+    "Main": "Grass",
+    "Overlay": "Grass",
+    "Collision": "FullSquare"
+  },
+  "Stone": {
+    "CharCode": "c",
+    "Main": "Stone",
+    "Overlay": "None",
+    "Collision": "FullSquare"
+  },
+  "Dirt": {
+    "CharCode": "d",
+    "Main": "Dirt",
+    "Overlay": "None",
+    "Collision": "FullSquare"
+  }
 }

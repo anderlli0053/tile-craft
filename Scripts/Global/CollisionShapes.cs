@@ -5,7 +5,7 @@ namespace TileCraftData
 {
     public class CollisionShapeData : Dictionary<string, Vector2[]>
     {
-        public static readonly CollisionShapeData data = CollisionShapeData.LoadCollisionShapeData();
+        public static readonly CollisionShapeData Data = CollisionShapeData.LoadCollisionShapeData();
         private static CollisionShapeData LoadCollisionShapeData()
         {
             File fs = new File();

@@ -11,16 +11,16 @@ script = ExtResource( 3 )
 
 [node name="Background" type="AnimatedSprite" parent="."]
 frames = ExtResource( 1 )
-animation = "none"
+animation = "None"
 
 [node name="Overlay" type="AnimatedSprite" parent="Background"]
 frames = ExtResource( 2 )
-animation = "none"
+animation = "None"
 
 [node name="Main" type="AnimatedSprite" parent="."]
 frames = ExtResource( 1 )
-animation = "dirt"
+animation = "None"
 
 [node name="Overlay" type="AnimatedSprite" parent="Main"]
 frames = ExtResource( 2 )
-animation = "grass"
+animation = "None"
