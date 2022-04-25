@@ -4,8 +4,9 @@ using Newtonsoft.Json;
 
 public class Tile : StaticBody2D
 {
-    private readonly BlockData BLOCK_DATA = BlockData.Data;
-    private readonly CollisionShapeData SHAPE_DATA = CollisionShapeData.Data;
+    private readonly BlockData BlockData = BlockData.Data;
+    private readonly CollisionShapeData ShapeData = CollisionShapeData.Data;
+    public static PackedScene SceneObject = GD.Load<PackedScene>("res://Sprites/GameScene/Tile.tscn");
     public CollisionPolygon2D Collider;
     public AnimatedSprite BackgroundMain;
     public AnimatedSprite BackgroundOverlay;
@@ -20,7 +21,8 @@ public class Tile : StaticBody2D
         BackgroundOverlay = GetNode<AnimatedSprite>("Background/Overlay");
         MainMain = GetNode<AnimatedSprite>("Main");
         MainOverlay = GetNode<AnimatedSprite>("Main/Overlay");
-        Collider.Polygon = SHAPE_DATA["FullSquare"];
+        Collider.Polygon = ShapeData["FullSquare"];
+        GD.Print(ShapeData["FullSquare"]);
         SetBlock("Grass");
     }
 
@@ -28,19 +30,24 @@ public class Tile : StaticBody2D
     {
         if (main)
         {
-            MainMain.Animation = BLOCK_DATA[block].Main;
-            MainOverlay.Animation = BLOCK_DATA[block].Overlay;
-            Collider.Polygon = SHAPE_DATA[BLOCK_DATA[block].Collision];
+            MainMain.Animation = BlockData[block].Main;
+            MainOverlay.Animation = BlockData[block].Overlay;
+            Collider.Polygon = ShapeData[BlockData[block].Collision];
         }
         else
         {
-            BackgroundMain.Animation = BLOCK_DATA[block].Main;
-            BackgroundOverlay.Animation = BLOCK_DATA[block].Overlay;
+            BackgroundMain.Animation = BlockData[block].Main;
+            BackgroundOverlay.Animation = BlockData[block].Overlay;
         }
     }
 
     public void SetPosition(int x, int y)
     {
         Position = new Vector2(x * 64, y * 64);
+    }
+
+    public static Tile CreateNew()
+    {
+        return SceneObject.Instance<Tile>();
     }
 }

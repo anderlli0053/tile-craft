@@ -19,8 +19,9 @@ namespace TileCraftData
                 finalObj.Add(item, new Vector2[vecNum]);
                 for (int vecIndex = 0; vecIndex < vecNum; vecIndex++)
                 {
-                    Vector2 vec = finalObj[item][vecIndex];
-                    finalObj[item][vecIndex] = new Vector2(vec.x, vec.y);
+                    int[] vec = obj[item][vecIndex];
+                    finalObj[item][vecIndex] = new Vector2(vec[0], vec[1]);
+                    GD.Print(vec);
                 }
             }
             return finalObj;
