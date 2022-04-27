@@ -3,24 +3,32 @@
     "CharCode": "a",
     "Main": "None",
     "Overlay": "None",
-    "Collision": "None"
+    "Collision": "None",
+    "Bounciness": 0,
+    "Friction": 0
   },
   "Grass": {
     "CharCode": "b",
     "Main": "Grass",
     "Overlay": "Grass",
-    "Collision": "FullSquare"
+    "Collision": "FullSquare",
+    "Bounciness": 0,
+    "Friction": 1
   },
   "Stone": {
     "CharCode": "c",
     "Main": "Stone",
     "Overlay": "None",
-    "Collision": "FullSquare"
+    "Collision": "FullSquare",
+    "Bounciness": 0,
+    "Friction": 1
   },
   "Dirt": {
     "CharCode": "d",
     "Main": "Dirt",
     "Overlay": "None",
-    "Collision": "FullSquare"
+    "Collision": "FullSquare",
+    "Bounciness": 0,
+    "Friction": 1
   }
 }

@@ -10,9 +10,24 @@ public class Player : KinematicBody2D
         Position = new Vector2(2, Constants.TileSize * -3);
     }
 
-    public override void _Process(float delta)
+    public override void _PhysicsProcess(float delta)
     {
-        Velocity.y += delta * Constants.Gravity;
-        MoveAndSlide(Velocity);
+        if (Input.IsActionPressed("go_left")){
+            Velocity.x -= Constants.PlayerAcceleration * delta;
+        }
+        if (Input.IsActionPressed("go_right"))
+        {
+            Velocity.x += Constants.PlayerAcceleration * delta;
+        }
+        if (Input.IsActionPressed("jump"))
+        {
+            if (IsOnFloor()){
+                Velocity.y = Constants.PlayerJumpSpeed * -delta;
+            }
+        }
+
+        Velocity.x *= Constants.PlayerSpeedDamp;
+        Velocity.y += Constants.Gravity * delta;
+        MoveAndSlide(Velocity, Vector2.Up);
     }
 }

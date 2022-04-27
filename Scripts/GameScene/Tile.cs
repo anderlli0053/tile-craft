@@ -12,6 +12,7 @@ public class Tile : StaticBody2D
     public AnimatedSprite BackgroundOverlay;
     public AnimatedSprite MainMain;
     public AnimatedSprite MainOverlay;
+    private bool _ready = false;
 
     public override void _Ready()
     {
@@ -22,14 +23,22 @@ public class Tile : StaticBody2D
         MainMain = GetNode<AnimatedSprite>("Main");
         MainOverlay = GetNode<AnimatedSprite>("Main/Overlay");
         Collider.Polygon = ShapeData["FullSquare"];
-        GD.Print(ShapeData["FullSquare"]);
-        SetBlock("Grass");
+        _ready = true;
+    }
+
+    public void CheckReady(){
+        if (!_ready){
+            _Ready();
+        }
     }
 
     public void SetBlock(string block, bool main = true)
     {
+        CheckReady();
         if (main)
         {
+            PhysicsMaterialOverride.Friction = BlockData[block].Friction;
+            PhysicsMaterialOverride.Bounce = BlockData[block].Bounciness;
             MainMain.Animation = BlockData[block].Main;
             MainOverlay.Animation = BlockData[block].Overlay;
             Collider.Polygon = ShapeData[BlockData[block].Collision];
@@ -43,7 +52,8 @@ public class Tile : StaticBody2D
 
     public void SetPosition(int x, int y)
     {
-        Position = new Vector2(x * 64, y * 64);
+        CheckReady();
+        Position = new Vector2(x * 64, -y * 64);
     }
 
     public static Tile CreateNew()

@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using Newtonsoft.Json;
 using Godot;
+
 namespace TileCraftData
 {
     public class CollisionShapeData : Dictionary<string, Vector2[]>
@@ -21,7 +22,6 @@ namespace TileCraftData
                 {
                     int[] vec = obj[item][vecIndex];
                     finalObj[item][vecIndex] = new Vector2(vec[0], vec[1]);
-                    GD.Print(vec);
                 }
             }
             return finalObj;

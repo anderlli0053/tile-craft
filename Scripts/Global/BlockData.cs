@@ -9,6 +9,8 @@ namespace TileCraftData
         public string Main;
         public string Overlay;
         public string Collision;
+        public float Bounciness;
+        public float Friction;
     }
     public class BlockData : Dictionary<string, TileData>
     {
