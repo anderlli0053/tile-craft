@@ -1,6 +1,5 @@
 using Godot;
 using TileCraftData;
-using Newtonsoft.Json;
 
 public class Tile : StaticBody2D
 {
