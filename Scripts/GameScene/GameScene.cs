@@ -1,38 +1,37 @@
 using Godot;
+using Thread = System.Threading.Thread;
+using TileCraftThreads;
 using System;
+using System.Threading;
+using GameConstants;
+using TileCraftUtils;
 
-
-public class GameScene : Node2D
+public class GameScene : Control
 {
+    ResizeHandler resizeHandler = new ResizeHandler();
     public Node2D WorldContainer;
-    private Tile[] _tiles = new Tile[30];
+    public Tile[] TileArray = new Tile[60000];
+    public Thread BlockInitThread = new Thread(new ParameterizedThreadStart(CreateTileThread.Job));
+
     public override void _Ready()
     {
         base._Ready();
-        GenerateTiles();
-    }
-
-    public void GenerateTiles(){
         WorldContainer = GetNode<Node2D>("World");
-        for (int i = 0; i < 15; i++)
-        {
-            _tiles[i] = Tile.CreateNew();
-            _tiles[i].SetPosition(i, 0);
-            _tiles[i].SetBlock("Grass");
-            WorldContainer.AddChild(_tiles[i]);
-        }
-        for (int i = 15; i < 30; i++)
-        {
-            _tiles[i] = Tile.CreateNew();
-            _tiles[i].SetPosition(i, 1);
-            _tiles[i].SetBlock("Air");
-            WorldContainer.AddChild(_tiles[i]);
-        }
+        GenerateTiles();   
     }
 
-    //  // Called every frame. 'delta' is the elapsed time since the previous frame.
-    //  public override void _Process(float delta)
-    //  {
-    //      
-    //  }
+    public void GenerateTiles()
+    {
+        BlockInitThread.Start(this);
+    }
+
+    public void OnResize()
+    {
+        resizeHandler.NoBlanks(WorldContainer, new Vector2(Constants.TileContainerWidth, Constants.TileContainerHeight));
+    }
+    public override void _Process(float delta)
+    {
+        base._Process(delta);
+        OnResize();
+    }
 }

@@ -8,9 +8,9 @@ namespace TileCraftData
         public char CharCode;
         public string Main;
         public string Overlay;
-        public string Collision;
-        public float Bounciness;
-        public float Friction;
+        public string Collision = "FullSquare";
+        public float Bounciness = 0f;
+        public float Friction = 1f;
     }
     public class BlockData : Dictionary<string, TileData>
     {

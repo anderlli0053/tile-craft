@@ -3,6 +3,7 @@ using TileCraftData;
 
 public class Tile : StaticBody2D
 {
+
     private readonly BlockData BlockData = BlockData.Data;
     private readonly CollisionShapeData ShapeData = CollisionShapeData.Data;
     public static PackedScene SceneObject = GD.Load<PackedScene>("res://Sprites/GameScene/Tile.tscn");
@@ -12,7 +13,6 @@ public class Tile : StaticBody2D
     public AnimatedSprite MainMain;
     public AnimatedSprite MainOverlay;
     private bool _ready = false;
-
     public override void _Ready()
     {
         base._Ready();
@@ -24,11 +24,10 @@ public class Tile : StaticBody2D
         Collider.Polygon = ShapeData["FullSquare"];
         _ready = true;
     }
-
+    
     public void CheckReady(){
-        if (!_ready){
-            _Ready();
-        }
+        if (_ready) return;
+        _Ready();
     }
 
     public void SetBlock(string block, bool main = true)

@@ -7,6 +7,7 @@ public class Player : KinematicBody2D
     public Vector2 Velocity = Vector2.Zero;
     public override void _Ready()
     {
+        GD.Print(Constants.PlayerAcceleration);
         Position = new Vector2(2, Constants.TileSize * -3);
     }
 
