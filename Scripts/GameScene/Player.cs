@@ -1,5 +1,5 @@
 using Godot;
-using GameConstants;
+using TileCraftConstants;
 using System;
 
 public class Player : KinematicBody2D
@@ -13,7 +13,8 @@ public class Player : KinematicBody2D
 
     public override void _PhysicsProcess(float delta)
     {
-        if (Input.IsActionPressed("go_left")){
+        if (Input.IsActionPressed("go_left"))
+        {
             Velocity.x -= Constants.PlayerAcceleration * delta;
         }
         if (Input.IsActionPressed("go_right"))
@@ -22,7 +23,8 @@ public class Player : KinematicBody2D
         }
         if (Input.IsActionPressed("jump"))
         {
-            if (IsOnFloor()){
+            if (IsOnFloor())
+            {
                 Velocity.y = Constants.PlayerJumpSpeed * -delta;
             }
         }

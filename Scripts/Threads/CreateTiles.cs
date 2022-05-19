@@ -1,12 +1,13 @@
 using Godot;
+using TileCraftMain;
 namespace TileCraftThreads
 {
     public class CreateTileThread
     {
         public static void Job(object raw)
         {
-            GameScene gameScene = (GameScene) raw;
-            Node2D container =  gameScene.WorldContainer;
+            GameScene gameScene = (GameScene)raw;
+            Node2D container = gameScene.WorldContainer;
             Tile[] tileArray = gameScene.TileArray;
             for (int i = 0; i < 60000; i++)
             {

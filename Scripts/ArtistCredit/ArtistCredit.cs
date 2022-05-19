@@ -2,50 +2,52 @@ using Microsoft.VisualBasic;
 using Godot;
 using System;
 using TileCraftUtils;
-using GameConstants;
-
-public class ArtistCredit : Control
+using TileCraftConstants;
+namespace MyNamespace
 {
-    ResizeHandler resizeHandler = new ResizeHandler();
-    File fs = new File();
-    public override void _Ready()
+    public class ArtistCredit : Control
     {
-        base._Ready();
-        Visible = false;
-        if (fs.FileExists("user://credits.txt"))
+        ResizeHandler resizeHandler = new ResizeHandler();
+        File fs = new File();
+        public override void _Ready()
         {
-            fs.Open("user://credits.txt", File.ModeFlags.Read);
-            if (fs.GetAsText() == "1")
+            base._Ready();
+            Visible = false;
+            if (fs.FileExists("user://credits.txt"))
             {
-                GetTree().ChangeScene("res://Scenes/MainMenu.tscn");
+                fs.Open("user://credits.txt", File.ModeFlags.Read);
+                if (fs.GetAsText() == "1")
+                {
+                    GetTree().ChangeScene("res://Scenes/MainMenu.tscn");
+                }
+            }
+            else
+            {
+                Visible = true;
             }
         }
-        else
+        public void ContinueEvent()
         {
-            Visible = true;
+            fs.Open("user://credits.txt", File.ModeFlags.Write);
+            fs.StoreString("1");
+            fs.Close();
+            GetTree().ChangeScene("res://Scenes/MainMenu.tscn");
+
         }
-    }
-    public void ContinueEvent()
-    {
-        fs.Open("user://credits.txt", File.ModeFlags.Write);
-        fs.StoreString("1");
-        fs.Close();
-        GetTree().ChangeScene("res://Scenes/MainMenu.tscn");
 
-    }
+        public void TextureLinkClicked()
+        {
+            OS.ShellOpen("https://tanja012.com/index.php/my-creations/t-craft-realistic-64x64");
+        }
 
-    public void TextureLinkClicked()
-    {
-        OS.ShellOpen("https://tanja012.com/index.php/my-creations/t-craft-realistic-64x64");
-    }
-
-    public void OnResize()
-    {
-        resizeHandler.Contain(this, new Vector2(Constants.WindowWidth, Constants.WindowHeight));
-    }
-    public override void _Process(float delta)
-    {
-        base._Process(delta);
-        OnResize();
+        public void OnResize()
+        {
+            resizeHandler.Contain(this, new Vector2(Constants.WindowWidth, Constants.WindowHeight));
+        }
+        public override void _Process(float delta)
+        {
+            base._Process(delta);
+            OnResize();
+        }
     }
 }
