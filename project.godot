@@ -16,6 +16,12 @@ boot_splash/image="res://Images/Backgrounds/Splash.png"
 boot_splash/bg_color=Color( 1, 0.168627, 0.168627, 1 )
 config/icon="res://Icon.png"
 
+[autoload]
+
+ArtistCredit="*res://Scenes/ArtistCredit.tscn"
+MainMenu="*res://Scenes/MainMenu.tscn"
+GameScene="*res://Scenes/GameScene.tscn"
+
 [display]
 
 window/size/width=1280

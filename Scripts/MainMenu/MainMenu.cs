@@ -7,8 +7,8 @@ namespace TileCraftMain
 {
     public class MainMenu : Control
     {
-        ResizeHandler resizeHandler = new ResizeHandler();
-        bool creditsPageOpen = false;
+        ResizeHandler _resizeHandler = new ResizeHandler();
+        public bool CreditsPageOpen = false;
         public Button PlayButton;
         public Button CreditsButton;
         public Button QuitButton;
@@ -24,16 +24,16 @@ namespace TileCraftMain
         }
         public void ToggleCredits()
         {
-            creditsPageOpen = !creditsPageOpen;
-            PlayButton.Disabled = creditsPageOpen;
-            CreditsButton.Disabled = creditsPageOpen;
-            QuitButton.Disabled = creditsPageOpen;
-            Credits.Visible = creditsPageOpen;
+            CreditsPageOpen = !CreditsPageOpen;
+            PlayButton.Disabled = CreditsPageOpen;
+            CreditsButton.Disabled = CreditsPageOpen;
+            QuitButton.Disabled = CreditsPageOpen;
+            Credits.Visible = CreditsPageOpen;
         }
 
         public void PlayEvent()
         {
-            GetTree().ChangeScene("res://Scenes/GameScene.tscn");
+            GetTree().CurrentScene = GetNode<MainMenu>("/root/GameScene");
         }
 
         public void QuitEvent()
@@ -42,7 +42,7 @@ namespace TileCraftMain
         }
         public void OnResize()
         {
-            resizeHandler.Contain(this, new Vector2(Constants.WindowWidth, Constants.WindowHeight));
+            _resizeHandler.Contain(this, new Vector2(Constants.WindowWidth, Constants.WindowHeight));
         }
         public override void _Process(float delta)
         {

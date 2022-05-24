@@ -1,18 +1,11 @@
-using Microsoft.VisualBasic;
+
 using System.Collections.Generic;
-using System.Text;
+using TileCraftData;
 using TileCraftConstants;
 using System;
 
 namespace TileCraftUtils
 {
-    public class ChunkDataNotAvailable : Exception
-    {
-        public ChunkDataNotAvailable() { }
-        public ChunkDataNotAvailable(string message) : base(message) { }
-        public ChunkDataNotAvailable(string message, Exception inner) : base(message, inner) { }
-        public ChunkDataNotAvailable(System.Runtime.Serialization.SerializationInfo info, System.Runtime.Serialization.StreamingContext context) : base(info, context) { }
-    }
     public class WorldData
     {
         public static WorldData Instance { get; } = new WorldData();

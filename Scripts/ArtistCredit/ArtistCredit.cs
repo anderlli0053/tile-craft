@@ -1,36 +1,26 @@
-using Microsoft.VisualBasic;
 using Godot;
-using System;
+using TileCraftData;
 using TileCraftUtils;
 using TileCraftConstants;
-namespace MyNamespace
+namespace TileCraftMain
 {
     public class ArtistCredit : Control
     {
-        ResizeHandler resizeHandler = new ResizeHandler();
-        File fs = new File();
+        ResizeHandler _resizeHandler = new ResizeHandler();
+        FileSystem _fs = new FileSystem();
         public override void _Ready()
         {
             base._Ready();
-            Visible = false;
-            if (fs.FileExists("user://credits.txt"))
-            {
-                fs.Open("user://credits.txt", File.ModeFlags.Read);
-                if (fs.GetAsText() == "1")
-                {
-                    GetTree().ChangeScene("res://Scenes/MainMenu.tscn");
-                }
-            }
-            else
-            {
+            if (_fs.ReadJSON<GameSettings>("user://settings.json").SeenAd){
+                GetTree().CurrentScene = GetNode<MainMenu>("/root/MainMenu");
+            } else {
                 Visible = true;
             }
         }
         public void ContinueEvent()
         {
-            fs.Open("user://credits.txt", File.ModeFlags.Write);
-            fs.StoreString("1");
-            fs.Close();
+            
+            _fs.Close();
             GetTree().ChangeScene("res://Scenes/MainMenu.tscn");
 
         }
@@ -42,7 +32,7 @@ namespace MyNamespace
 
         public void OnResize()
         {
-            resizeHandler.Contain(this, new Vector2(Constants.WindowWidth, Constants.WindowHeight));
+            _resizeHandler.Contain(this, new Vector2(Constants.WindowWidth, Constants.WindowHeight));
         }
         public override void _Process(float delta)
         {

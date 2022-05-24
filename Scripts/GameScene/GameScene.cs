@@ -18,7 +18,6 @@ namespace TileCraftMain
         {
             base._Ready();
             WorldContainer = GetNode<Node2D>("World");
-            GenerateTiles();
         }
 
         public void GenerateTiles()
