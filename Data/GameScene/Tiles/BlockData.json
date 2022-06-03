@@ -1,23 +1,23 @@
 {
   "Air": {
-    "CharCode": "a",
+    "CharCode": "d",
     "Main": "None",
     "Overlay": "None",
     "Collision": "None",
     "Friction": 0
   },
   "Grass": {
-    "CharCode": "b",
+    "CharCode": "e",
     "Main": "Grass",
     "Overlay": "Grass"
   },
   "Stone": {
-    "CharCode": "c",
+    "CharCode": "f",
     "Main": "Stone",
     "Overlay": "None"
   },
   "Dirt": {
-    "CharCode": "d",
+    "CharCode": "g",
     "Main": "Dirt",
     "Overlay": "None"
   }

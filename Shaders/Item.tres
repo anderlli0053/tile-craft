@@ -1,0 +1,27 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=2]
+
+[sub_resource type="Shader" id=1]
+code = "shader_type canvas_item;
+uniform bool enchanted = false;
+
+const vec4 purple = vec4(0.7, 0.0, 0.6, 0.0);
+void fragment()
+{
+  vec4 color = texture(TEXTURE, UV);
+
+  float a = (
+      sin(
+        (FRAGCOORD.x * 0.2 + FRAGCOORD.y * 0.2 - TIME * 40.0) / 10.0
+      ) + 2.0
+    ) / 5.0;
+  
+  if (color.a != 0.0 && enchanted) {
+	COLOR = color.rgba + (a * purple.rgba);
+  } else {
+	 COLOR = color
+	}
+}"
+
+[resource]
+shader = SubResource( 1 )
+shader_param/enchanted = true

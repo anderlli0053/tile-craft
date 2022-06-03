@@ -30,9 +30,9 @@ namespace TileCraftUtils
             }
             return finalObj;
         }
-        public void WriteJSON(string location, string data){
+        public void WriteJSON(string location, object data){
             _fs.Open(location, File.ModeFlags.Write);
-            _fs.StoreString(data);
+            _fs.StoreString(JsonConvert.SerializeObject(data));
         }
 
         public void Close(){

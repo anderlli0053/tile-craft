@@ -33,13 +33,9 @@ namespace TileCraftMain
 
         public void PlayEvent()
         {
-            GetTree().CurrentScene = GetNode<MainMenu>("/root/GameScene");
+            GetTree().ChangeScene("res://Scenes/GameScene.tscn");
         }
-
-        public void QuitEvent()
-        {
-            GetTree().Notification(MainLoop.NotificationWmQuitRequest);
-        }
+        
         public void OnResize()
         {
             _resizeHandler.Contain(this, new Vector2(Constants.WindowWidth, Constants.WindowHeight));

@@ -11,8 +11,8 @@ namespace TileCraftMain
     {
         ResizeHandler resizeHandler = new ResizeHandler();
         public Node2D WorldContainer;
+        public bool Generating = true;
         public Tile[] TileArray = new Tile[60000];
-        public Thread BlockInitThread = new Thread(new ParameterizedThreadStart(CreateTileThread.Job));
 
         public override void _Ready()
         {
@@ -22,7 +22,6 @@ namespace TileCraftMain
 
         public void GenerateTiles()
         {
-            BlockInitThread.Start(this);
         }
 
         public void OnResize()

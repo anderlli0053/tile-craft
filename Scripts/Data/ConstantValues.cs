@@ -9,7 +9,7 @@ namespace TileCraftConstants
         public static readonly float PlayerJumpSpeed = (float)Math.Sqrt((double)2 * Gravity * 2 * TileSize) * 64;
         public static readonly float PlayerAcceleration = (3 * TileSize * TileSize) / (PlayerSpeedDamp / (1f - PlayerSpeedDamp));
         public static readonly byte ChunkSize = 16;
-        public static readonly short WorldHeight = 500;
+        public static readonly short WorldHeight = 400;
         public static readonly short WindowWidth = 1280;
         public static readonly short WindowHeight = 720;
         public static readonly short TileContainerWidth = 1536;

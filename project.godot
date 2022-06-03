@@ -16,16 +16,14 @@ boot_splash/image="res://Images/Backgrounds/Splash.png"
 boot_splash/bg_color=Color( 1, 0.168627, 0.168627, 1 )
 config/icon="res://Icon.png"
 
-[autoload]
-
-ArtistCredit="*res://Scenes/ArtistCredit.tscn"
-MainMenu="*res://Scenes/MainMenu.tscn"
-GameScene="*res://Scenes/GameScene.tscn"
-
 [display]
 
 window/size/width=1280
 window/size/height=720
+
+[global]
+
+max_remote_stdout_chars_per_second=true
 
 [input]
 
@@ -56,6 +54,10 @@ jump={
 2d_physics/layer_2="Entity"
 2d_physics/layer_3="Blocks"
 2d_physics/layer_4="GravityBlocks"
+
+[network]
+
+limits/debugger_stdout/max_chars_per_second=100000
 
 [physics]
 

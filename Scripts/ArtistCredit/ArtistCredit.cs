@@ -8,18 +8,21 @@ namespace TileCraftMain
     {
         ResizeHandler _resizeHandler = new ResizeHandler();
         FileSystem _fs = new FileSystem();
+        GameSettings settings;
         public override void _Ready()
         {
             base._Ready();
-            if (_fs.ReadJSON<GameSettings>("user://settings.json").SeenAd){
-                GetTree().CurrentScene = GetNode<MainMenu>("/root/MainMenu");
+            settings = _fs.ReadJSON<GameSettings>("user://settings.json");
+            if (settings.SeenAd){
+                GetTree().ChangeScene("res://Scenes/MainMenu.tscn");
             } else {
                 Visible = true;
             }
         }
         public void ContinueEvent()
         {
-            
+            settings.SeenAd = true;
+            _fs.WriteJSON("user://settings.json", settings);
             _fs.Close();
             GetTree().ChangeScene("res://Scenes/MainMenu.tscn");
 
