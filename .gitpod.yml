@@ -1,0 +1,11 @@
+image: gitpod/workspace-full-vnc
+# start up tasks
+
+tasks:
+  - before: printf "\n[settings]\napi_key = $WAKA_TIME_API_KEY\n" > ~/.wakatime.cfg
+    init: 'echo export JAVA_TOOL_OPTIONS=\"$JAVA_TOOL_OPTIONS -Dsun.java2d.xrender=false\" >>/home/gitpod/.bashrc'
+    command: 'source /home/gitpod/.bashrc && mvn package && java -jar target/*with-dependencies.jar'
+    
+ports:
+  - port: 6080
+    onOpen: open-preview
