@@ -1,9 +1,0 @@
-image: gitpod/workspace-full-vnc
-# start up tasks
-
-tasks:
-  - before: printf "\n[settings]\napi_key = $WAKA_TIME_API_KEY\n" > ~/.wakatime.cfg
-    
-ports:
-  - port: 6080
-    onOpen: open-preview
