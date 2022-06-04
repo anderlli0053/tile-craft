@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/StrippedJungleLogTop.png-15c3192069c14f3affffe6c06e0b0c41.stex"
+path="res://.import/StrippedJungleLogTop.Png-001e4395a683f820595fa2cc2660b24d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/StrippedJungleLogTop.png"
-dest_files=[ "res://.import/StrippedJungleLogTop.png-15c3192069c14f3affffe6c06e0b0c41.stex" ]
+source_file="res://Images/Tiles/StrippedJungleLogTop.Png"
+dest_files=[ "res://.import/StrippedJungleLogTop.Png-001e4395a683f820595fa2cc2660b24d.stex" ]
 
 [params]
 

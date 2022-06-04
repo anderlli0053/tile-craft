@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/YellowWool.png-28c930c48d4c5a439f87592d68981411.stex"
+path="res://.import/YellowWool.Png-f07fdff61b38d9f8f64fad73e616844e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/YellowWool.png"
-dest_files=[ "res://.import/YellowWool.png-28c930c48d4c5a439f87592d68981411.stex" ]
+source_file="res://Images/Tiles/YellowWool.Png"
+dest_files=[ "res://.import/YellowWool.Png-f07fdff61b38d9f8f64fad73e616844e.stex" ]
 
 [params]
 

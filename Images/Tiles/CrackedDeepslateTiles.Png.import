@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CrackedDeepslateTiles.png-c3b2246fbc6ad3f90d7c2e682af48ecf.stex"
+path="res://.import/CrackedDeepslateTiles.Png-d951d511e40909ec7697c5619e144add.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/CrackedDeepslateTiles.png"
-dest_files=[ "res://.import/CrackedDeepslateTiles.png-c3b2246fbc6ad3f90d7c2e682af48ecf.stex" ]
+source_file="res://Images/Tiles/CrackedDeepslateTiles.Png"
+dest_files=[ "res://.import/CrackedDeepslateTiles.Png-d951d511e40909ec7697c5619e144add.stex" ]
 
 [params]
 

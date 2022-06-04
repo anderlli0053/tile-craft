@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/SoulCampfireFire.png-ce4431270181ce66aa8a8b7c02511be8.stex"
+path="res://.import/SoulCampfireFire.Png-eab1d317482a262511af2343df7cb423.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/SoulCampfireFire.png"
-dest_files=[ "res://.import/SoulCampfireFire.png-ce4431270181ce66aa8a8b7c02511be8.stex" ]
+source_file="res://Images/Tiles/SoulCampfireFire.Png"
+dest_files=[ "res://.import/SoulCampfireFire.Png-eab1d317482a262511af2343df7cb423.stex" ]
 
 [params]
 

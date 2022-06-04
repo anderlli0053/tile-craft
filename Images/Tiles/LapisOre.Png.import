@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/LapisOre.png-64421d1e6d158c87d956ca8674da52d0.stex"
+path="res://.import/LapisOre.Png-9e970c7c5df54eba8f8ad6235fa47fac.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/LapisOre.png"
-dest_files=[ "res://.import/LapisOre.png-64421d1e6d158c87d956ca8674da52d0.stex" ]
+source_file="res://Images/Tiles/LapisOre.Png"
+dest_files=[ "res://.import/LapisOre.Png-9e970c7c5df54eba8f8ad6235fa47fac.stex" ]
 
 [params]
 

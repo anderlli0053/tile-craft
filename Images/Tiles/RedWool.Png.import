@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/RedWool.png-561fe41c22a2b813a70996107c11fb64.stex"
+path="res://.import/RedWool.Png-db846b9ea4aad9489ea629b3c953186a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/RedWool.png"
-dest_files=[ "res://.import/RedWool.png-561fe41c22a2b813a70996107c11fb64.stex" ]
+source_file="res://Images/Tiles/RedWool.Png"
+dest_files=[ "res://.import/RedWool.Png-db846b9ea4aad9489ea629b3c953186a.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/NetheriteBlock.png-9c2eb878c6fbbe026eaf1d3b7a6bb4ef.stex"
+path="res://.import/NetheriteBlock.Png-5f85982e064f96bd31804ec132c18237.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/NetheriteBlock.png"
-dest_files=[ "res://.import/NetheriteBlock.png-9c2eb878c6fbbe026eaf1d3b7a6bb4ef.stex" ]
+source_file="res://Images/Tiles/NetheriteBlock.Png"
+dest_files=[ "res://.import/NetheriteBlock.Png-5f85982e064f96bd31804ec132c18237.stex" ]
 
 [params]
 

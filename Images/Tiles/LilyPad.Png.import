@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/LilyPad.png-fb713d3c41fcad9adb3302d2eacec2c0.stex"
+path="res://.import/LilyPad.Png-712bd196ae08a22de4343cba9e170f1d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/LilyPad.png"
-dest_files=[ "res://.import/LilyPad.png-fb713d3c41fcad9adb3302d2eacec2c0.stex" ]
+source_file="res://Images/Tiles/LilyPad.Png"
+dest_files=[ "res://.import/LilyPad.Png-712bd196ae08a22de4343cba9e170f1d.stex" ]
 
 [params]
 

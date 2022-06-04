@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CrackedStoneBricks.png-a63ca3b661bbb30e072fc577e9198517.stex"
+path="res://.import/CrackedStoneBricks.Png-38489a9bf0d89b28588a060a4e7d39ba.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/CrackedStoneBricks.png"
-dest_files=[ "res://.import/CrackedStoneBricks.png-a63ca3b661bbb30e072fc577e9198517.stex" ]
+source_file="res://Images/Tiles/CrackedStoneBricks.Png"
+dest_files=[ "res://.import/CrackedStoneBricks.Png-38489a9bf0d89b28588a060a4e7d39ba.stex" ]
 
 [params]
 

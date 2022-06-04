@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/NetherSprouts.png-d9775757be7cc1e2369d301e7e3e1ce8.stex"
+path="res://.import/NetherSprouts.Png-bb4fbba32fa84ce3d6beb6f7b5118757.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/NetherSprouts.png"
-dest_files=[ "res://.import/NetherSprouts.png-d9775757be7cc1e2369d301e7e3e1ce8.stex" ]
+source_file="res://Images/Tiles/NetherSprouts.Png"
+dest_files=[ "res://.import/NetherSprouts.Png-bb4fbba32fa84ce3d6beb6f7b5118757.stex" ]
 
 [params]
 

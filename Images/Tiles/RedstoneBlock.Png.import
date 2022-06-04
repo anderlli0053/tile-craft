@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/RedstoneBlock.png-aeac60e89a07d7e51234afea2340a65a.stex"
+path="res://.import/RedstoneBlock.Png-599f03df2ff7a3cf0fcdeec65f362441.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/RedstoneBlock.png"
-dest_files=[ "res://.import/RedstoneBlock.png-aeac60e89a07d7e51234afea2340a65a.stex" ]
+source_file="res://Images/Tiles/RedstoneBlock.Png"
+dest_files=[ "res://.import/RedstoneBlock.Png-599f03df2ff7a3cf0fcdeec65f362441.stex" ]
 
 [params]
 

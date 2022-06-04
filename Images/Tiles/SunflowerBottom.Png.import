@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/SunflowerBottom.png-66d70de9eacf7f3cd1a22494e26128a3.stex"
+path="res://.import/SunflowerBottom.Png-8afcf011abc274889db879bc64ae6649.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/SunflowerBottom.png"
-dest_files=[ "res://.import/SunflowerBottom.png-66d70de9eacf7f3cd1a22494e26128a3.stex" ]
+source_file="res://Images/Tiles/SunflowerBottom.Png"
+dest_files=[ "res://.import/SunflowerBottom.Png-8afcf011abc274889db879bc64ae6649.stex" ]
 
 [params]
 

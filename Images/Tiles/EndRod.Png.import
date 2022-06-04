@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/EndRod.png-e6ceceb2d1bbedfb4247716483e8ff08.stex"
+path="res://.import/EndRod.Png-041878adb15f6996b932ffcba915ce78.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/EndRod.png"
-dest_files=[ "res://.import/EndRod.png-e6ceceb2d1bbedfb4247716483e8ff08.stex" ]
+source_file="res://Images/Tiles/EndRod.Png"
+dest_files=[ "res://.import/EndRod.Png-041878adb15f6996b932ffcba915ce78.stex" ]
 
 [params]
 

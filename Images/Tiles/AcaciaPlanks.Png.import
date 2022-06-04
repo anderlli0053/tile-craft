@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/AcaciaPlanks.png-7b5ce967323428bec8666c041a6e08b3.stex"
+path="res://.import/AcaciaPlanks.Png-e414619ffbd2efd312bda226bd6e80bf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/AcaciaPlanks.png"
-dest_files=[ "res://.import/AcaciaPlanks.png-7b5ce967323428bec8666c041a6e08b3.stex" ]
+source_file="res://Images/Tiles/AcaciaPlanks.Png"
+dest_files=[ "res://.import/AcaciaPlanks.Png-e414619ffbd2efd312bda226bd6e80bf.stex" ]
 
 [params]
 

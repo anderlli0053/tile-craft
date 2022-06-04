@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/WarpedFungus.png-e6597a2b3dc373b0afd92ffd3ec937c6.stex"
+path="res://.import/WarpedFungus.Png-35daa3d5683ef7e491e1ecf8d0d787cf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/WarpedFungus.png"
-dest_files=[ "res://.import/WarpedFungus.png-e6597a2b3dc373b0afd92ffd3ec937c6.stex" ]
+source_file="res://Images/Tiles/WarpedFungus.Png"
+dest_files=[ "res://.import/WarpedFungus.Png-35daa3d5683ef7e491e1ecf8d0d787cf.stex" ]
 
 [params]
 

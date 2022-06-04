@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/AcaciaLeaves.png-b4a591616d223cf1726aafabaa8c5cdb.stex"
+path="res://.import/AcaciaLeaves.Png-0eded54c275e5ffff52ffc1a0e7b813a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/AcaciaLeaves.png"
-dest_files=[ "res://.import/AcaciaLeaves.png-b4a591616d223cf1726aafabaa8c5cdb.stex" ]
+source_file="res://Images/Tiles/AcaciaLeaves.Png"
+dest_files=[ "res://.import/AcaciaLeaves.Png-0eded54c275e5ffff52ffc1a0e7b813a.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/NetherWartStage2.png-2605c41aa8d687167e2f40aeee724937.stex"
+path="res://.import/NetherWartStage2.Png-230fbd249b943eb04701c9f51e0be53c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/NetherWartStage2.png"
-dest_files=[ "res://.import/NetherWartStage2.png-2605c41aa8d687167e2f40aeee724937.stex" ]
+source_file="res://Images/Tiles/NetherWartStage2.Png"
+dest_files=[ "res://.import/NetherWartStage2.Png-230fbd249b943eb04701c9f51e0be53c.stex" ]
 
 [params]
 

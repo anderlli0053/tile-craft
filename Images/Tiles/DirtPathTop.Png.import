@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DirtPathTop.png-e9aa6cdf11ea0e5063bddb936bd70773.stex"
+path="res://.import/DirtPathTop.Png-0d6f7b668f069afd9f8cda1635432362.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/DirtPathTop.png"
-dest_files=[ "res://.import/DirtPathTop.png-e9aa6cdf11ea0e5063bddb936bd70773.stex" ]
+source_file="res://Images/Tiles/DirtPathTop.Png"
+dest_files=[ "res://.import/DirtPathTop.Png-0d6f7b668f069afd9f8cda1635432362.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ChiseledQuartzBlockTop.png-472ed9fd8d90054e39ab9ece5edb0f9c.stex"
+path="res://.import/ChiseledQuartzBlockTop.Png-3f3998927b9305c6617f0efcbacfeb3b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/ChiseledQuartzBlockTop.png"
-dest_files=[ "res://.import/ChiseledQuartzBlockTop.png-472ed9fd8d90054e39ab9ece5edb0f9c.stex" ]
+source_file="res://Images/Tiles/ChiseledQuartzBlockTop.Png"
+dest_files=[ "res://.import/ChiseledQuartzBlockTop.Png-3f3998927b9305c6617f0efcbacfeb3b.stex" ]
 
 [params]
 

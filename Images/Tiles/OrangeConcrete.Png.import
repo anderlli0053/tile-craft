@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/OrangeConcrete.png-1c48250ac883fb353e9e82d78e16e9e5.stex"
+path="res://.import/OrangeConcrete.Png-4bb976e725af15bd03df8a491136f6de.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/OrangeConcrete.png"
-dest_files=[ "res://.import/OrangeConcrete.png-1c48250ac883fb353e9e82d78e16e9e5.stex" ]
+source_file="res://Images/Tiles/OrangeConcrete.Png"
+dest_files=[ "res://.import/OrangeConcrete.Png-4bb976e725af15bd03df8a491136f6de.stex" ]
 
 [params]
 

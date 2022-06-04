@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CakeSide.png-5187ab389c08634847e1d995db8f60f3.stex"
+path="res://.import/CakeSide.Png-ff233a4fbadba4d84183c6aacb97c1b4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/CakeSide.png"
-dest_files=[ "res://.import/CakeSide.png-5187ab389c08634847e1d995db8f60f3.stex" ]
+source_file="res://Images/Tiles/CakeSide.Png"
+dest_files=[ "res://.import/CakeSide.Png-ff233a4fbadba4d84183c6aacb97c1b4.stex" ]
 
 [params]
 

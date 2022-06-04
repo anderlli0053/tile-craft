@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/PistonTopSticky.png-73fdef9d41ed16aabe92d8dd5206922c.stex"
+path="res://.import/PistonTopSticky.Png-a559cc3a84849c1600a6a63f341f633d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/PistonTopSticky.png"
-dest_files=[ "res://.import/PistonTopSticky.png-73fdef9d41ed16aabe92d8dd5206922c.stex" ]
+source_file="res://Images/Tiles/PistonTopSticky.Png"
+dest_files=[ "res://.import/PistonTopSticky.Png-a559cc3a84849c1600a6a63f341f633d.stex" ]
 
 [params]
 

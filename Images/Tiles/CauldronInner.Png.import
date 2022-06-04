@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CauldronInner.png-709a13505d20ef4e983b8c2a50aaaf7a.stex"
+path="res://.import/CauldronInner.Png-c1d078624e7ed461fa7bbed948b9bf41.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/CauldronInner.png"
-dest_files=[ "res://.import/CauldronInner.png-709a13505d20ef4e983b8c2a50aaaf7a.stex" ]
+source_file="res://Images/Tiles/CauldronInner.Png"
+dest_files=[ "res://.import/CauldronInner.Png-c1d078624e7ed461fa7bbed948b9bf41.stex" ]
 
 [params]
 

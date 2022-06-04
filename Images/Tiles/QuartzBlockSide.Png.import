@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/QuartzBlockSide.png-8ca02e72dcb36c3c403f09102a956f31.stex"
+path="res://.import/QuartzBlockSide.Png-af05b7e169900380f377a6b1bb67954c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/QuartzBlockSide.png"
-dest_files=[ "res://.import/QuartzBlockSide.png-8ca02e72dcb36c3c403f09102a956f31.stex" ]
+source_file="res://Images/Tiles/QuartzBlockSide.Png"
+dest_files=[ "res://.import/QuartzBlockSide.Png-af05b7e169900380f377a6b1bb67954c.stex" ]
 
 [params]
 

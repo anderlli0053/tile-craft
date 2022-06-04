@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/WarpedWartBlock.png-f9968693897663c1d64faa326181b4c9.stex"
+path="res://.import/WarpedWartBlock.Png-00b0958bf145d6c9d3d9fc7bd3417033.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/WarpedWartBlock.png"
-dest_files=[ "res://.import/WarpedWartBlock.png-f9968693897663c1d64faa326181b4c9.stex" ]
+source_file="res://Images/Tiles/WarpedWartBlock.Png"
+dest_files=[ "res://.import/WarpedWartBlock.Png-00b0958bf145d6c9d3d9fc7bd3417033.stex" ]
 
 [params]
 

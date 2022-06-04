@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/RedConcrete.png-de32f7e22a369e1ff07282c8cce16a2f.stex"
+path="res://.import/RedConcrete.Png-ec144d7d5ec1cfbe3f2c1bd02c7c892d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/RedConcrete.png"
-dest_files=[ "res://.import/RedConcrete.png-de32f7e22a369e1ff07282c8cce16a2f.stex" ]
+source_file="res://Images/Tiles/RedConcrete.Png"
+dest_files=[ "res://.import/RedConcrete.Png-ec144d7d5ec1cfbe3f2c1bd02c7c892d.stex" ]
 
 [params]
 

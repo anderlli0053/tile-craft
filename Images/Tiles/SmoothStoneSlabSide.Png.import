@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/SmoothStoneSlabSide.png-faaff37c1f60dc60ab271044f9f36486.stex"
+path="res://.import/SmoothStoneSlabSide.Png-73b14f2a44ac179bd1d49a5b6165b871.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/SmoothStoneSlabSide.png"
-dest_files=[ "res://.import/SmoothStoneSlabSide.png-faaff37c1f60dc60ab271044f9f36486.stex" ]
+source_file="res://Images/Tiles/SmoothStoneSlabSide.Png"
+dest_files=[ "res://.import/SmoothStoneSlabSide.Png-73b14f2a44ac179bd1d49a5b6165b871.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/WhiteConcretePowder.png-7f37fba2c845a5c8bba3f5c173fe7163.stex"
+path="res://.import/WhiteConcretePowder.Png-a2423f622814ae24a784309d17cdf379.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/WhiteConcretePowder.png"
-dest_files=[ "res://.import/WhiteConcretePowder.png-7f37fba2c845a5c8bba3f5c173fe7163.stex" ]
+source_file="res://Images/Tiles/WhiteConcretePowder.Png"
+dest_files=[ "res://.import/WhiteConcretePowder.Png-a2423f622814ae24a784309d17cdf379.stex" ]
 
 [params]
 

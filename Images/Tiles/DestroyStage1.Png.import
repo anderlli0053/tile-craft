@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DestroyStage1.png-532014d1be23eca4f0da8ddc43d8182c.stex"
+path="res://.import/DestroyStage1.Png-ac4bd26fcea4750b76d1b4fd4e8d7c1c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/DestroyStage1.png"
-dest_files=[ "res://.import/DestroyStage1.png-532014d1be23eca4f0da8ddc43d8182c.stex" ]
+source_file="res://Images/Tiles/DestroyStage1.Png"
+dest_files=[ "res://.import/DestroyStage1.Png-ac4bd26fcea4750b76d1b4fd4e8d7c1c.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/GoldOre.png-83f4962cd88c98a7f6ab9eccde8a68df.stex"
+path="res://.import/GoldOre.Png-c1e876f106d155fd3615e763be95b8f3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/GoldOre.png"
-dest_files=[ "res://.import/GoldOre.png-83f4962cd88c98a7f6ab9eccde8a68df.stex" ]
+source_file="res://Images/Tiles/GoldOre.Png"
+dest_files=[ "res://.import/GoldOre.Png-c1e876f106d155fd3615e763be95b8f3.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DeepslateEmeraldOre.png-de9d488c85484c58bae34245de5cd45f.stex"
+path="res://.import/DeepslateEmeraldOre.Png-c316a5b80e4442bb084eaa0dbdbe5827.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/DeepslateEmeraldOre.png"
-dest_files=[ "res://.import/DeepslateEmeraldOre.png-de9d488c85484c58bae34245de5cd45f.stex" ]
+source_file="res://Images/Tiles/DeepslateEmeraldOre.Png"
+dest_files=[ "res://.import/DeepslateEmeraldOre.Png-c316a5b80e4442bb084eaa0dbdbe5827.stex" ]
 
 [params]
 

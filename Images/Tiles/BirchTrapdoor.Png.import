@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/BirchTrapdoor.png-fb7c30985cfff018e8a8a62478428ee2.stex"
+path="res://.import/BirchTrapdoor.Png-f1869bf62a36e33622d789f36a647cd9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/BirchTrapdoor.png"
-dest_files=[ "res://.import/BirchTrapdoor.png-fb7c30985cfff018e8a8a62478428ee2.stex" ]
+source_file="res://Images/Tiles/BirchTrapdoor.Png"
+dest_files=[ "res://.import/BirchTrapdoor.Png-f1869bf62a36e33622d789f36a647cd9.stex" ]
 
 [params]
 

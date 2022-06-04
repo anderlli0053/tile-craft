@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/PistonSide.png-3e8cc42413a072b1303eabdd638491c5.stex"
+path="res://.import/PistonSide.Png-108d6979c58606e8b23781f16f88b217.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/PistonSide.png"
-dest_files=[ "res://.import/PistonSide.png-3e8cc42413a072b1303eabdd638491c5.stex" ]
+source_file="res://Images/Tiles/PistonSide.Png"
+dest_files=[ "res://.import/PistonSide.Png-108d6979c58606e8b23781f16f88b217.stex" ]
 
 [params]
 

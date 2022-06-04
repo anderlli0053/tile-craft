@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CauldronTop.png-0c74dcecc322253b326b0e7bab9bea82.stex"
+path="res://.import/CauldronTop.Png-5699f767dec14c294d3a766ff992b0e8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/CauldronTop.png"
-dest_files=[ "res://.import/CauldronTop.png-0c74dcecc322253b326b0e7bab9bea82.stex" ]
+source_file="res://Images/Tiles/CauldronTop.Png"
+dest_files=[ "res://.import/CauldronTop.Png-5699f767dec14c294d3a766ff992b0e8.stex" ]
 
 [params]
 

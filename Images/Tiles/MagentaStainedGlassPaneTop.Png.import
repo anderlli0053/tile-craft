@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/MagentaStainedGlassPaneTop.png-388784d774abdeaede72fea0268bd27c.stex"
+path="res://.import/MagentaStainedGlassPaneTop.Png-06ca7502e3924bf154a058942a4df651.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/MagentaStainedGlassPaneTop.png"
-dest_files=[ "res://.import/MagentaStainedGlassPaneTop.png-388784d774abdeaede72fea0268bd27c.stex" ]
+source_file="res://Images/Tiles/MagentaStainedGlassPaneTop.Png"
+dest_files=[ "res://.import/MagentaStainedGlassPaneTop.Png-06ca7502e3924bf154a058942a4df651.stex" ]
 
 [params]
 

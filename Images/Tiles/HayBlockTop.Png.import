@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/HayBlockTop.png-38692aff4e197d75b4117470ce979b4c.stex"
+path="res://.import/HayBlockTop.Png-2b9fefe0da0a9cd17f2fd3ea5ff23489.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/HayBlockTop.png"
-dest_files=[ "res://.import/HayBlockTop.png-38692aff4e197d75b4117470ce979b4c.stex" ]
+source_file="res://Images/Tiles/HayBlockTop.Png"
+dest_files=[ "res://.import/HayBlockTop.Png-2b9fefe0da0a9cd17f2fd3ea5ff23489.stex" ]
 
 [params]
 

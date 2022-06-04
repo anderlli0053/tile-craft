@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CyanConcrete.png-e2731d2d248fbf39a9fc2844ba9dcc40.stex"
+path="res://.import/CyanConcrete.Png-b8ddc5509f5e4a313d0b20ab80c879e0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/CyanConcrete.png"
-dest_files=[ "res://.import/CyanConcrete.png-e2731d2d248fbf39a9fc2844ba9dcc40.stex" ]
+source_file="res://Images/Tiles/CyanConcrete.Png"
+dest_files=[ "res://.import/CyanConcrete.Png-b8ddc5509f5e4a313d0b20ab80c879e0.stex" ]
 
 [params]
 

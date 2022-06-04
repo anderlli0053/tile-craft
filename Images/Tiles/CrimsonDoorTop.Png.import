@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CrimsonDoorTop.png-24fdb00ecdf184cf6e91ee950c2d3e1c.stex"
+path="res://.import/CrimsonDoorTop.Png-e669712146d1dcf7bb7fda219725c45c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/CrimsonDoorTop.png"
-dest_files=[ "res://.import/CrimsonDoorTop.png-24fdb00ecdf184cf6e91ee950c2d3e1c.stex" ]
+source_file="res://Images/Tiles/CrimsonDoorTop.Png"
+dest_files=[ "res://.import/CrimsonDoorTop.Png-e669712146d1dcf7bb7fda219725c45c.stex" ]
 
 [params]
 

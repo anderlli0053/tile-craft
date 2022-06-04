@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/PurpleWool.png-3e63e5408a127c1d05cd2648945ae12b.stex"
+path="res://.import/PurpleWool.Png-aa28fde408e4866971e26c24337316de.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/PurpleWool.png"
-dest_files=[ "res://.import/PurpleWool.png-3e63e5408a127c1d05cd2648945ae12b.stex" ]
+source_file="res://Images/Tiles/PurpleWool.Png"
+dest_files=[ "res://.import/PurpleWool.Png-aa28fde408e4866971e26c24337316de.stex" ]
 
 [params]
 

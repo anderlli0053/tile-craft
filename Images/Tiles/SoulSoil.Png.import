@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/SoulSoil.png-80a85a48b4f544bcf2de4ab4c7ad5501.stex"
+path="res://.import/SoulSoil.Png-35073a568ba5fd3a792053cc12801f97.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/SoulSoil.png"
-dest_files=[ "res://.import/SoulSoil.png-80a85a48b4f544bcf2de4ab4c7ad5501.stex" ]
+source_file="res://Images/Tiles/SoulSoil.Png"
+dest_files=[ "res://.import/SoulSoil.Png-35073a568ba5fd3a792053cc12801f97.stex" ]
 
 [params]
 

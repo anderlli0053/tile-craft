@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/EndPortalFrameEye.png-f1aa6206423b814be6f03b593d08a151.stex"
+path="res://.import/EndPortalFrameEye.Png-7a6400e15aba83121446f6ab2d2cb648.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/EndPortalFrameEye.png"
-dest_files=[ "res://.import/EndPortalFrameEye.png-f1aa6206423b814be6f03b593d08a151.stex" ]
+source_file="res://Images/Tiles/EndPortalFrameEye.Png"
+dest_files=[ "res://.import/EndPortalFrameEye.Png-7a6400e15aba83121446f6ab2d2cb648.stex" ]
 
 [params]
 

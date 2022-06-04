@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/GlowItemFrame.png-8b4503ff480054dfeb7a82bbc2e3d39e.stex"
+path="res://.import/GlowItemFrame.Png-5112286c59a7f622b1664aca07aefebc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/GlowItemFrame.png"
-dest_files=[ "res://.import/GlowItemFrame.png-8b4503ff480054dfeb7a82bbc2e3d39e.stex" ]
+source_file="res://Images/Tiles/GlowItemFrame.Png"
+dest_files=[ "res://.import/GlowItemFrame.Png-5112286c59a7f622b1664aca07aefebc.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/TntBottom.png-a4267802d466bc076b52f0e60e9fc882.stex"
+path="res://.import/TntBottom.Png-38262b458777d984f504d732339f5b32.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/TntBottom.png"
-dest_files=[ "res://.import/TntBottom.png-a4267802d466bc076b52f0e60e9fc882.stex" ]
+source_file="res://Images/Tiles/TntBottom.Png"
+dest_files=[ "res://.import/TntBottom.Png-38262b458777d984f504d732339f5b32.stex" ]
 
 [params]
 

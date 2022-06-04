@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/PackedIce.png-b519725f27c88907d2c654057f2a9283.stex"
+path="res://.import/PackedIce.Png-f3a0020baab4f48a9d17a665731b8446.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/PackedIce.png"
-dest_files=[ "res://.import/PackedIce.png-b519725f27c88907d2c654057f2a9283.stex" ]
+source_file="res://Images/Tiles/PackedIce.Png"
+dest_files=[ "res://.import/PackedIce.Png-f3a0020baab4f48a9d17a665731b8446.stex" ]
 
 [params]
 

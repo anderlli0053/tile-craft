@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DiamondBlock.png-7a4e37b4ae7bdf94c8dbce9e03449353.stex"
+path="res://.import/DiamondBlock.Png-15fdfcf99317164cf46a2c048f198f30.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/DiamondBlock.png"
-dest_files=[ "res://.import/DiamondBlock.png-7a4e37b4ae7bdf94c8dbce9e03449353.stex" ]
+source_file="res://Images/Tiles/DiamondBlock.Png"
+dest_files=[ "res://.import/DiamondBlock.Png-15fdfcf99317164cf46a2c048f198f30.stex" ]
 
 [params]
 

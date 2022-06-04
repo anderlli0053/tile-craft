@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CutSandstone.png-62d3350dc19e66920fc1ba8c7f3b5233.stex"
+path="res://.import/CutSandstone.Png-2d6920b3eefd73a60dd4fdaf6c4d358b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/CutSandstone.png"
-dest_files=[ "res://.import/CutSandstone.png-62d3350dc19e66920fc1ba8c7f3b5233.stex" ]
+source_file="res://Images/Tiles/CutSandstone.Png"
+dest_files=[ "res://.import/CutSandstone.Png-2d6920b3eefd73a60dd4fdaf6c4d358b.stex" ]
 
 [params]
 

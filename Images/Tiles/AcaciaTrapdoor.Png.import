@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/AcaciaTrapdoor.png-84bc91cbcc3f217f6ea4e14bf3b0d362.stex"
+path="res://.import/AcaciaTrapdoor.Png-20a5e139353791f907e454264de8e186.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/AcaciaTrapdoor.png"
-dest_files=[ "res://.import/AcaciaTrapdoor.png-84bc91cbcc3f217f6ea4e14bf3b0d362.stex" ]
+source_file="res://Images/Tiles/AcaciaTrapdoor.Png"
+dest_files=[ "res://.import/AcaciaTrapdoor.Png-20a5e139353791f907e454264de8e186.stex" ]
 
 [params]
 

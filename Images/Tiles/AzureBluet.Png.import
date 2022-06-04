@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/AzureBluet.png-c5a4610692285a86931521605df7207f.stex"
+path="res://.import/AzureBluet.Png-d7146d7bd35ff9a40635f4a04c916a9b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/AzureBluet.png"
-dest_files=[ "res://.import/AzureBluet.png-c5a4610692285a86931521605df7207f.stex" ]
+source_file="res://Images/Tiles/AzureBluet.Png"
+dest_files=[ "res://.import/AzureBluet.Png-d7146d7bd35ff9a40635f4a04c916a9b.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/SugarCane.png-f6eaa0378dc753a92223fe8b84966a35.stex"
+path="res://.import/SugarCane.Png-92b76d50d6466bcd1b05fb08101dc5b5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/SugarCane.png"
-dest_files=[ "res://.import/SugarCane.png-f6eaa0378dc753a92223fe8b84966a35.stex" ]
+source_file="res://Images/Tiles/SugarCane.Png"
+dest_files=[ "res://.import/SugarCane.Png-92b76d50d6466bcd1b05fb08101dc5b5.stex" ]
 
 [params]
 

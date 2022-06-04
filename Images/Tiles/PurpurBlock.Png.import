@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/PurpurBlock.png-75d970568cd62678401e05f301e203f6.stex"
+path="res://.import/PurpurBlock.Png-35baa56c6f8d91e6ca6c8544245a2aef.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/PurpurBlock.png"
-dest_files=[ "res://.import/PurpurBlock.png-75d970568cd62678401e05f301e203f6.stex" ]
+source_file="res://Images/Tiles/PurpurBlock.Png"
+dest_files=[ "res://.import/PurpurBlock.Png-35baa56c6f8d91e6ca6c8544245a2aef.stex" ]
 
 [params]
 

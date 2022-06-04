@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/IronOre.png-b094b3c06bb6f9ace0db88e649452c95.stex"
+path="res://.import/IronOre.Png-adf8aea2ec12a303c3cbe12a1c33aab8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/IronOre.png"
-dest_files=[ "res://.import/IronOre.png-b094b3c06bb6f9ace0db88e649452c95.stex" ]
+source_file="res://Images/Tiles/IronOre.Png"
+dest_files=[ "res://.import/IronOre.Png-adf8aea2ec12a303c3cbe12a1c33aab8.stex" ]
 
 [params]
 

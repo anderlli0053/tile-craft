@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ActivatorRailOn.png-883dca021ee335aee4a3089cde645968.stex"
+path="res://.import/ActivatorRailOn.Png-cd24b1cb59db81b9ad239c0a4003ad56.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/ActivatorRailOn.png"
-dest_files=[ "res://.import/ActivatorRailOn.png-883dca021ee335aee4a3089cde645968.stex" ]
+source_file="res://Images/Tiles/ActivatorRailOn.Png"
+dest_files=[ "res://.import/ActivatorRailOn.Png-cd24b1cb59db81b9ad239c0a4003ad56.stex" ]
 
 [params]
 

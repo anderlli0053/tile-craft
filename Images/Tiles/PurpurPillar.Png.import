@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/PurpurPillar.png-fbb0c06d0c3c5ef6d2cc7ddd1459db20.stex"
+path="res://.import/PurpurPillar.Png-b2e5889841307a0dc8535814280c302e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/PurpurPillar.png"
-dest_files=[ "res://.import/PurpurPillar.png-fbb0c06d0c3c5ef6d2cc7ddd1459db20.stex" ]
+source_file="res://Images/Tiles/PurpurPillar.Png"
+dest_files=[ "res://.import/PurpurPillar.Png-b2e5889841307a0dc8535814280c302e.stex" ]
 
 [params]
 

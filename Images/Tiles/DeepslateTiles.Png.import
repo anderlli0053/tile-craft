@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DeepslateTiles.png-9cc61508834d37c38fa9611ed8c366b6.stex"
+path="res://.import/DeepslateTiles.Png-f8113283832a89f219e2f8d5d6f08d29.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/DeepslateTiles.png"
-dest_files=[ "res://.import/DeepslateTiles.png-9cc61508834d37c38fa9611ed8c366b6.stex" ]
+source_file="res://Images/Tiles/DeepslateTiles.Png"
+dest_files=[ "res://.import/DeepslateTiles.Png-f8113283832a89f219e2f8d5d6f08d29.stex" ]
 
 [params]
 

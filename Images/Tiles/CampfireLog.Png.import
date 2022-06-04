@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CampfireLog.png-f1ffd024a449ef2b727e451fd5440167.stex"
+path="res://.import/CampfireLog.Png-50d81cbf9583586cf165b21cf9ad1e70.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/CampfireLog.png"
-dest_files=[ "res://.import/CampfireLog.png-f1ffd024a449ef2b727e451fd5440167.stex" ]
+source_file="res://Images/Tiles/CampfireLog.Png"
+dest_files=[ "res://.import/CampfireLog.Png-50d81cbf9583586cf165b21cf9ad1e70.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/MelonTop.png-63eea6015642d6bd149ee4954f2d2c60.stex"
+path="res://.import/MelonTop.Png-638cfb891b119278aabc9f920af359f6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/MelonTop.png"
-dest_files=[ "res://.import/MelonTop.png-63eea6015642d6bd149ee4954f2d2c60.stex" ]
+source_file="res://Images/Tiles/MelonTop.Png"
+dest_files=[ "res://.import/MelonTop.Png-638cfb891b119278aabc9f920af359f6.stex" ]
 
 [params]
 

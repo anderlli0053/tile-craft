@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/LilyOfTheValley.png-2655b5d4e38ffdf249d21ec020403d18.stex"
+path="res://.import/LilyOfTheValley.Png-c13ab5f1f9e40479b77f100c5ec71423.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/LilyOfTheValley.png"
-dest_files=[ "res://.import/LilyOfTheValley.png-2655b5d4e38ffdf249d21ec020403d18.stex" ]
+source_file="res://Images/Tiles/LilyOfTheValley.Png"
+dest_files=[ "res://.import/LilyOfTheValley.Png-c13ab5f1f9e40479b77f100c5ec71423.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CakeTop.png-e30ff59d25d2a88f3a93c58c66e5151f.stex"
+path="res://.import/CakeTop.Png-b583d3ab26d2e4b85092256ffaaae4ed.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/CakeTop.png"
-dest_files=[ "res://.import/CakeTop.png-e30ff59d25d2a88f3a93c58c66e5151f.stex" ]
+source_file="res://Images/Tiles/CakeTop.Png"
+dest_files=[ "res://.import/CakeTop.Png-b583d3ab26d2e4b85092256ffaaae4ed.stex" ]
 
 [params]
 

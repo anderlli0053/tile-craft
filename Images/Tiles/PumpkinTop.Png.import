@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/PumpkinTop.png-261c253635209452cfc234b0aca89727.stex"
+path="res://.import/PumpkinTop.Png-33b94c66794517894fb52cfe08f07a28.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/PumpkinTop.png"
-dest_files=[ "res://.import/PumpkinTop.png-261c253635209452cfc234b0aca89727.stex" ]
+source_file="res://Images/Tiles/PumpkinTop.Png"
+dest_files=[ "res://.import/PumpkinTop.Png-33b94c66794517894fb52cfe08f07a28.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/LavaStill.png-2376277e6f3561885749d32156e63762.stex"
+path="res://.import/LavaStill.Png-7e760a8e0b0880787f10355fd0d0ba5d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/LavaStill.png"
-dest_files=[ "res://.import/LavaStill.png-2376277e6f3561885749d32156e63762.stex" ]
+source_file="res://Images/Tiles/LavaStill.Png"
+dest_files=[ "res://.import/LavaStill.Png-7e760a8e0b0880787f10355fd0d0ba5d.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/OakSapling.png-17c08aeab68eaa4922579edea085e517.stex"
+path="res://.import/OakSapling.Png-77eafccdb2e052157d27134b2489ccbb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/OakSapling.png"
-dest_files=[ "res://.import/OakSapling.png-17c08aeab68eaa4922579edea085e517.stex" ]
+source_file="res://Images/Tiles/OakSapling.Png"
+dest_files=[ "res://.import/OakSapling.Png-77eafccdb2e052157d27134b2489ccbb.stex" ]
 
 [params]
 

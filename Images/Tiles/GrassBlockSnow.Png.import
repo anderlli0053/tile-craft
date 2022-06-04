@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/GrassBlockSnow.png-d9ceca64bf0ac549d142111837456c89.stex"
+path="res://.import/GrassBlockSnow.Png-a2425575356a407318dbbd6402a5448c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/GrassBlockSnow.png"
-dest_files=[ "res://.import/GrassBlockSnow.png-d9ceca64bf0ac549d142111837456c89.stex" ]
+source_file="res://Images/Tiles/GrassBlockSnow.Png"
+dest_files=[ "res://.import/GrassBlockSnow.Png-a2425575356a407318dbbd6402a5448c.stex" ]
 
 [params]
 

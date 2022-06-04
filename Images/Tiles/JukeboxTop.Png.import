@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/JukeboxTop.png-a52807cab05f489f593c5e6c0323d530.stex"
+path="res://.import/JukeboxTop.Png-4194141e14387885db8a2327ba0404a6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/JukeboxTop.png"
-dest_files=[ "res://.import/JukeboxTop.png-a52807cab05f489f593c5e6c0323d530.stex" ]
+source_file="res://Images/Tiles/JukeboxTop.Png"
+dest_files=[ "res://.import/JukeboxTop.Png-4194141e14387885db8a2327ba0404a6.stex" ]
 
 [params]
 

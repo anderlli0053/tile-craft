@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/JungleDoorTop.png-2706595a43ec4999a34189d2f4bf03c0.stex"
+path="res://.import/JungleDoorTop.Png-493be84866ffa05ecd492728ed4f3f08.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/JungleDoorTop.png"
-dest_files=[ "res://.import/JungleDoorTop.png-2706595a43ec4999a34189d2f4bf03c0.stex" ]
+source_file="res://Images/Tiles/JungleDoorTop.Png"
+dest_files=[ "res://.import/JungleDoorTop.Png-493be84866ffa05ecd492728ed4f3f08.stex" ]
 
 [params]
 

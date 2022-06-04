@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/JukeboxSide.png-de21e327fa696cf29780955a2b13a7f9.stex"
+path="res://.import/JukeboxSide.Png-35462e3e893894bc4590d9a46e056773.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/JukeboxSide.png"
-dest_files=[ "res://.import/JukeboxSide.png-de21e327fa696cf29780955a2b13a7f9.stex" ]
+source_file="res://Images/Tiles/JukeboxSide.Png"
+dest_files=[ "res://.import/JukeboxSide.Png-35462e3e893894bc4590d9a46e056773.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/OakTrapdoor.png-b05070c7306f4a430618c391c64cda4e.stex"
+path="res://.import/OakTrapdoor.Png-0eaef56a18168fba3c4a82280794792c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/OakTrapdoor.png"
-dest_files=[ "res://.import/OakTrapdoor.png-b05070c7306f4a430618c391c64cda4e.stex" ]
+source_file="res://Images/Tiles/OakTrapdoor.Png"
+dest_files=[ "res://.import/OakTrapdoor.Png-0eaef56a18168fba3c4a82280794792c.stex" ]
 
 [params]
 

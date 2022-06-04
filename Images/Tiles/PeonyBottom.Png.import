@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/PeonyBottom.png-73650230fddbc9afbabec9f53fd6ea62.stex"
+path="res://.import/PeonyBottom.Png-e75c1a167baf55da02a25e9a601408b3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/PeonyBottom.png"
-dest_files=[ "res://.import/PeonyBottom.png-73650230fddbc9afbabec9f53fd6ea62.stex" ]
+source_file="res://Images/Tiles/PeonyBottom.Png"
+dest_files=[ "res://.import/PeonyBottom.Png-e75c1a167baf55da02a25e9a601408b3.stex" ]
 
 [params]
 

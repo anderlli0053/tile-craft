@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/LimeWool.png-d9917faeed9e6d8691fe8c321fd2e832.stex"
+path="res://.import/LimeWool.Png-3e086ee560c90bb52ca4e6a2fac8967c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/LimeWool.png"
-dest_files=[ "res://.import/LimeWool.png-d9917faeed9e6d8691fe8c321fd2e832.stex" ]
+source_file="res://Images/Tiles/LimeWool.Png"
+dest_files=[ "res://.import/LimeWool.Png-3e086ee560c90bb52ca4e6a2fac8967c.stex" ]
 
 [params]
 

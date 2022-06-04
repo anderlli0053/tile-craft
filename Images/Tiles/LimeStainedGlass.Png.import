@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/LimeStainedGlass.png-bce4b266d387961c76494f61dffd3e88.stex"
+path="res://.import/LimeStainedGlass.Png-8bd1050e726a0f903c96a3d0afa510c3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/LimeStainedGlass.png"
-dest_files=[ "res://.import/LimeStainedGlass.png-bce4b266d387961c76494f61dffd3e88.stex" ]
+source_file="res://Images/Tiles/LimeStainedGlass.Png"
+dest_files=[ "res://.import/LimeStainedGlass.Png-8bd1050e726a0f903c96a3d0afa510c3.stex" ]
 
 [params]
 

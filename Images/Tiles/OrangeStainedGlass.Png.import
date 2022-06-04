@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/OrangeStainedGlass.png-abdaa6f2cebf2ff67932be23fc52f0b4.stex"
+path="res://.import/OrangeStainedGlass.Png-0bc71ea7040cfc88067e3bae9676b6dc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/OrangeStainedGlass.png"
-dest_files=[ "res://.import/OrangeStainedGlass.png-abdaa6f2cebf2ff67932be23fc52f0b4.stex" ]
+source_file="res://Images/Tiles/OrangeStainedGlass.Png"
+dest_files=[ "res://.import/OrangeStainedGlass.Png-0bc71ea7040cfc88067e3bae9676b6dc.stex" ]
 
 [params]
 

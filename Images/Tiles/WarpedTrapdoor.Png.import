@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/WarpedTrapdoor.png-8e8e943e758d1c38debc3f6b09a8423e.stex"
+path="res://.import/WarpedTrapdoor.Png-662d86167acfe693722744d3a6133e54.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/WarpedTrapdoor.png"
-dest_files=[ "res://.import/WarpedTrapdoor.png-8e8e943e758d1c38debc3f6b09a8423e.stex" ]
+source_file="res://Images/Tiles/WarpedTrapdoor.Png"
+dest_files=[ "res://.import/WarpedTrapdoor.Png-662d86167acfe693722744d3a6133e54.stex" ]
 
 [params]
 

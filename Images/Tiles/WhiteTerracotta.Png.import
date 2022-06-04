@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/WhiteTerracotta.png-4b69893e9e7088fb4f7f63271a234a72.stex"
+path="res://.import/WhiteTerracotta.Png-d2f88e8ac5adca0b9c06ac2c4802ed19.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/WhiteTerracotta.png"
-dest_files=[ "res://.import/WhiteTerracotta.png-4b69893e9e7088fb4f7f63271a234a72.stex" ]
+source_file="res://Images/Tiles/WhiteTerracotta.Png"
+dest_files=[ "res://.import/WhiteTerracotta.Png-d2f88e8ac5adca0b9c06ac2c4802ed19.stex" ]
 
 [params]
 

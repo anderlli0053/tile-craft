@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CraftingTableTop.png-1ab754af2de3a473acf285b20194ee20.stex"
+path="res://.import/CraftingTableTop.Png-00f649c91881be796f3fcda3a0d85e60.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/CraftingTableTop.png"
-dest_files=[ "res://.import/CraftingTableTop.png-1ab754af2de3a473acf285b20194ee20.stex" ]
+source_file="res://Images/Tiles/CraftingTableTop.Png"
+dest_files=[ "res://.import/CraftingTableTop.Png-00f649c91881be796f3fcda3a0d85e60.stex" ]
 
 [params]
 

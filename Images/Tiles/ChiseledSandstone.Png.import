@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ChiseledSandstone.png-d61fe3919dbad02506990a68b47cfb06.stex"
+path="res://.import/ChiseledSandstone.Png-40ded64017a949ba1d9b14fa5c4568ff.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/ChiseledSandstone.png"
-dest_files=[ "res://.import/ChiseledSandstone.png-d61fe3919dbad02506990a68b47cfb06.stex" ]
+source_file="res://Images/Tiles/ChiseledSandstone.Png"
+dest_files=[ "res://.import/ChiseledSandstone.Png-40ded64017a949ba1d9b14fa5c4568ff.stex" ]
 
 [params]
 

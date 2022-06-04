@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CactusSide.png-ef5aeeda8ccb4fe93180449654da0128.stex"
+path="res://.import/CactusSide.Png-d3e28ba2e67c894121774f04cb7e03a6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/CactusSide.png"
-dest_files=[ "res://.import/CactusSide.png-ef5aeeda8ccb4fe93180449654da0128.stex" ]
+source_file="res://Images/Tiles/CactusSide.Png"
+dest_files=[ "res://.import/CactusSide.Png-d3e28ba2e67c894121774f04cb7e03a6.stex" ]
 
 [params]
 

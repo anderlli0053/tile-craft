@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/PinkWool.png-940b405e4e27cb57365f5a823c8b9511.stex"
+path="res://.import/PinkWool.Png-fee3a7bb486aba5ac94c9ecbd7de9d7f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/PinkWool.png"
-dest_files=[ "res://.import/PinkWool.png-940b405e4e27cb57365f5a823c8b9511.stex" ]
+source_file="res://Images/Tiles/PinkWool.Png"
+dest_files=[ "res://.import/PinkWool.Png-fee3a7bb486aba5ac94c9ecbd7de9d7f.stex" ]
 
 [params]
 

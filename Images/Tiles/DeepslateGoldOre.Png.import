@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DeepslateGoldOre.png-0918f259671b0ce50520fb899960938b.stex"
+path="res://.import/DeepslateGoldOre.Png-f56b9d20c58d49d9079b40a0a30b43b6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/DeepslateGoldOre.png"
-dest_files=[ "res://.import/DeepslateGoldOre.png-0918f259671b0ce50520fb899960938b.stex" ]
+source_file="res://Images/Tiles/DeepslateGoldOre.Png"
+dest_files=[ "res://.import/DeepslateGoldOre.Png-f56b9d20c58d49d9079b40a0a30b43b6.stex" ]
 
 [params]
 

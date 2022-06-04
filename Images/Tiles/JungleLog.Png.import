@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/JungleLog.png-5630a1ebf74dd29ebb018e5adf934e9f.stex"
+path="res://.import/JungleLog.Png-eb6ce5f61dbd8240656f2c21ee1dd3d1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/JungleLog.png"
-dest_files=[ "res://.import/JungleLog.png-5630a1ebf74dd29ebb018e5adf934e9f.stex" ]
+source_file="res://Images/Tiles/JungleLog.Png"
+dest_files=[ "res://.import/JungleLog.Png-eb6ce5f61dbd8240656f2c21ee1dd3d1.stex" ]
 
 [params]
 

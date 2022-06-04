@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/MossyCobblestone.png-7b6f1daea3b9f8d087cad250cdbd44e1.stex"
+path="res://.import/MossyCobblestone.Png-1717c283f08707efe8f4a1eeff692e3e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/MossyCobblestone.png"
-dest_files=[ "res://.import/MossyCobblestone.png-7b6f1daea3b9f8d087cad250cdbd44e1.stex" ]
+source_file="res://Images/Tiles/MossyCobblestone.Png"
+dest_files=[ "res://.import/MossyCobblestone.Png-1717c283f08707efe8f4a1eeff692e3e.stex" ]
 
 [params]
 

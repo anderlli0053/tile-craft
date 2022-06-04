@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/BuddingAmethyst.png-981433e720ea7bc7ef880b80054149e3.stex"
+path="res://.import/BuddingAmethyst.Png-7831960073dfd778415954b4fa940e02.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/BuddingAmethyst.png"
-dest_files=[ "res://.import/BuddingAmethyst.png-981433e720ea7bc7ef880b80054149e3.stex" ]
+source_file="res://Images/Tiles/BuddingAmethyst.Png"
+dest_files=[ "res://.import/BuddingAmethyst.Png-7831960073dfd778415954b4fa940e02.stex" ]
 
 [params]
 

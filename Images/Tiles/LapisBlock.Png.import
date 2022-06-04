@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/LapisBlock.png-c8153645c68d1e0dc9b886b0d38f7253.stex"
+path="res://.import/LapisBlock.Png-1dc9add9481938dda7e1b5688b24a880.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/LapisBlock.png"
-dest_files=[ "res://.import/LapisBlock.png-c8153645c68d1e0dc9b886b0d38f7253.stex" ]
+source_file="res://Images/Tiles/LapisBlock.Png"
+dest_files=[ "res://.import/LapisBlock.Png-1dc9add9481938dda7e1b5688b24a880.stex" ]
 
 [params]
 

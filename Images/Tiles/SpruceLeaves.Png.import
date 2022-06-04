@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/SpruceLeaves.png-03e9d7996e7ee2ca926198cddce74ba9.stex"
+path="res://.import/SpruceLeaves.Png-70505c88490ddadb59d861b846a7f325.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/SpruceLeaves.png"
-dest_files=[ "res://.import/SpruceLeaves.png-03e9d7996e7ee2ca926198cddce74ba9.stex" ]
+source_file="res://Images/Tiles/SpruceLeaves.Png"
+dest_files=[ "res://.import/SpruceLeaves.Png-70505c88490ddadb59d861b846a7f325.stex" ]
 
 [params]
 

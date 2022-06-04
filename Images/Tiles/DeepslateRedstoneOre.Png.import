@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DeepslateRedstoneOre.png-e0e2a5a508ad33c77cba346cd9df871d.stex"
+path="res://.import/DeepslateRedstoneOre.Png-139ae35228104ce08d1438a1bf51a5dd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/DeepslateRedstoneOre.png"
-dest_files=[ "res://.import/DeepslateRedstoneOre.png-e0e2a5a508ad33c77cba346cd9df871d.stex" ]
+source_file="res://Images/Tiles/DeepslateRedstoneOre.Png"
+dest_files=[ "res://.import/DeepslateRedstoneOre.Png-139ae35228104ce08d1438a1bf51a5dd.stex" ]
 
 [params]
 

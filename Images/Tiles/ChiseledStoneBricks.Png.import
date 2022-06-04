@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ChiseledStoneBricks.png-2a78b0f3b41502d1cfff9b3b1f35d612.stex"
+path="res://.import/ChiseledStoneBricks.Png-e8a6f0902d9a5549f145acfabed69389.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/ChiseledStoneBricks.png"
-dest_files=[ "res://.import/ChiseledStoneBricks.png-2a78b0f3b41502d1cfff9b3b1f35d612.stex" ]
+source_file="res://Images/Tiles/ChiseledStoneBricks.Png"
+dest_files=[ "res://.import/ChiseledStoneBricks.Png-e8a6f0902d9a5549f145acfabed69389.stex" ]
 
 [params]
 

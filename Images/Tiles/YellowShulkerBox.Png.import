@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/YellowShulkerBox.png-fedaeaa4371ea4f079856b1c8537455f.stex"
+path="res://.import/YellowShulkerBox.Png-f70807a34c4bd9bd796375b9140ce8b3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/YellowShulkerBox.png"
-dest_files=[ "res://.import/YellowShulkerBox.png-fedaeaa4371ea4f079856b1c8537455f.stex" ]
+source_file="res://Images/Tiles/YellowShulkerBox.Png"
+dest_files=[ "res://.import/YellowShulkerBox.Png-f70807a34c4bd9bd796375b9140ce8b3.stex" ]
 
 [params]
 

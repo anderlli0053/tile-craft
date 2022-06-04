@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/TallGrassTop.png-116d6810416f362bc0788f9f2f64e901.stex"
+path="res://.import/TallGrassTop.Png-fc6e92f299f4d3d4c52ee5d64fb81fae.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/TallGrassTop.png"
-dest_files=[ "res://.import/TallGrassTop.png-116d6810416f362bc0788f9f2f64e901.stex" ]
+source_file="res://Images/Tiles/TallGrassTop.Png"
+dest_files=[ "res://.import/TallGrassTop.Png-fc6e92f299f4d3d4c52ee5d64fb81fae.stex" ]
 
 [params]
 

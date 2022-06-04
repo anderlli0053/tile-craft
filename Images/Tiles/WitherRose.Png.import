@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/WitherRose.png-562b0a76063fe6069fcad50e01b3c885.stex"
+path="res://.import/WitherRose.Png-1c79fa73b627975f491cff111e2f8f9f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/WitherRose.png"
-dest_files=[ "res://.import/WitherRose.png-562b0a76063fe6069fcad50e01b3c885.stex" ]
+source_file="res://Images/Tiles/WitherRose.Png"
+dest_files=[ "res://.import/WitherRose.Png-1c79fa73b627975f491cff111e2f8f9f.stex" ]
 
 [params]
 

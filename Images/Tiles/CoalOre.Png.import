@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CoalOre.png-44ec0d3da5d36612b0cdc8873e643514.stex"
+path="res://.import/CoalOre.Png-854a782e8d4fe5ed15cf2ccdad1b45f0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/CoalOre.png"
-dest_files=[ "res://.import/CoalOre.png-44ec0d3da5d36612b0cdc8873e643514.stex" ]
+source_file="res://Images/Tiles/CoalOre.Png"
+dest_files=[ "res://.import/CoalOre.Png-854a782e8d4fe5ed15cf2ccdad1b45f0.stex" ]
 
 [params]
 

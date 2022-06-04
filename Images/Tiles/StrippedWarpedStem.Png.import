@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/StrippedWarpedStem.png-47c8b4dc78732ab50b6516ff22583ec1.stex"
+path="res://.import/StrippedWarpedStem.Png-eb1fd1c9877c9ec9bf2c69b111e166ef.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/StrippedWarpedStem.png"
-dest_files=[ "res://.import/StrippedWarpedStem.png-47c8b4dc78732ab50b6516ff22583ec1.stex" ]
+source_file="res://Images/Tiles/StrippedWarpedStem.Png"
+dest_files=[ "res://.import/StrippedWarpedStem.Png-eb1fd1c9877c9ec9bf2c69b111e166ef.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ChippedAnvilTop.png-c222fba69a349219d796bafe42706909.stex"
+path="res://.import/ChippedAnvilTop.Png-95c3222384d8ae1c021e8e93780f5fff.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/ChippedAnvilTop.png"
-dest_files=[ "res://.import/ChippedAnvilTop.png-c222fba69a349219d796bafe42706909.stex" ]
+source_file="res://Images/Tiles/ChippedAnvilTop.Png"
+dest_files=[ "res://.import/ChippedAnvilTop.Png-95c3222384d8ae1c021e8e93780f5fff.stex" ]
 
 [params]
 

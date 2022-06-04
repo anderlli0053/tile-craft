@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/BrownMushroom.png-d65d95961e96aeddb8825b6e52890118.stex"
+path="res://.import/BrownMushroom.Png-922e3c4575409445c3dfdb82228b04c8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/BrownMushroom.png"
-dest_files=[ "res://.import/BrownMushroom.png-d65d95961e96aeddb8825b6e52890118.stex" ]
+source_file="res://Images/Tiles/BrownMushroom.Png"
+dest_files=[ "res://.import/BrownMushroom.Png-922e3c4575409445c3dfdb82228b04c8.stex" ]
 
 [params]
 

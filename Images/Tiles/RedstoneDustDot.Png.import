@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/RedstoneDustDot.png-f1c4c84927f785a02784c0ee32121626.stex"
+path="res://.import/RedstoneDustDot.Png-787c5baf4aa70621ed9e0fe7d4419e2d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/RedstoneDustDot.png"
-dest_files=[ "res://.import/RedstoneDustDot.png-f1c4c84927f785a02784c0ee32121626.stex" ]
+source_file="res://Images/Tiles/RedstoneDustDot.Png"
+dest_files=[ "res://.import/RedstoneDustDot.Png-787c5baf4aa70621ed9e0fe7d4419e2d.stex" ]
 
 [params]
 

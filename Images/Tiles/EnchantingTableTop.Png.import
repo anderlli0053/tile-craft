@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/EnchantingTableTop.png-69c95c38a941f9843a0fc39d168e0d14.stex"
+path="res://.import/EnchantingTableTop.Png-756e9459ea28bb18fbe436582acbf0d0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/EnchantingTableTop.png"
-dest_files=[ "res://.import/EnchantingTableTop.png-69c95c38a941f9843a0fc39d168e0d14.stex" ]
+source_file="res://Images/Tiles/EnchantingTableTop.Png"
+dest_files=[ "res://.import/EnchantingTableTop.Png-756e9459ea28bb18fbe436582acbf0d0.stex" ]
 
 [params]
 

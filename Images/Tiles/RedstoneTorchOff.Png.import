@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/RedstoneTorchOff.png-e816326b68b59a6fe1cd5a1ce215755d.stex"
+path="res://.import/RedstoneTorchOff.Png-aa4b922924217c55f20eba9fd8bff67a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/RedstoneTorchOff.png"
-dest_files=[ "res://.import/RedstoneTorchOff.png-e816326b68b59a6fe1cd5a1ce215755d.stex" ]
+source_file="res://Images/Tiles/RedstoneTorchOff.Png"
+dest_files=[ "res://.import/RedstoneTorchOff.Png-aa4b922924217c55f20eba9fd8bff67a.stex" ]
 
 [params]
 

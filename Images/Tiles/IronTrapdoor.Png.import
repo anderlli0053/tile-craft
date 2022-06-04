@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/IronTrapdoor.png-23d8cf2756acdecde9c73e7b5ebd08cc.stex"
+path="res://.import/IronTrapdoor.Png-8d43b42f2661d5d5c5ad7df9eee80205.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/IronTrapdoor.png"
-dest_files=[ "res://.import/IronTrapdoor.png-23d8cf2756acdecde9c73e7b5ebd08cc.stex" ]
+source_file="res://Images/Tiles/IronTrapdoor.Png"
+dest_files=[ "res://.import/IronTrapdoor.Png-8d43b42f2661d5d5c5ad7df9eee80205.stex" ]
 
 [params]
 

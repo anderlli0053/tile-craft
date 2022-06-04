@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/OrangeTulip.png-2d9585b09f5238ef25d144ac0ebb3e4e.stex"
+path="res://.import/OrangeTulip.Png-15878815833fd0c7fd9e1a54a4149b00.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/OrangeTulip.png"
-dest_files=[ "res://.import/OrangeTulip.png-2d9585b09f5238ef25d144ac0ebb3e4e.stex" ]
+source_file="res://Images/Tiles/OrangeTulip.Png"
+dest_files=[ "res://.import/OrangeTulip.Png-15878815833fd0c7fd9e1a54a4149b00.stex" ]
 
 [params]
 

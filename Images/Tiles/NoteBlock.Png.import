@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/NoteBlock.png-9be414ace13a6903740617b99d2bbf38.stex"
+path="res://.import/NoteBlock.Png-36c846f65f492ac0109d504f10f02bc1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/NoteBlock.png"
-dest_files=[ "res://.import/NoteBlock.png-9be414ace13a6903740617b99d2bbf38.stex" ]
+source_file="res://Images/Tiles/NoteBlock.Png"
+dest_files=[ "res://.import/NoteBlock.Png-36c846f65f492ac0109d504f10f02bc1.stex" ]
 
 [params]
 

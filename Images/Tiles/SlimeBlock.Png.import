@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/SlimeBlock.png-b596467f919172da71a626fcd8803b47.stex"
+path="res://.import/SlimeBlock.Png-841feaf85f867ddc06e07ce610f5bbe1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/SlimeBlock.png"
-dest_files=[ "res://.import/SlimeBlock.png-b596467f919172da71a626fcd8803b47.stex" ]
+source_file="res://Images/Tiles/SlimeBlock.Png"
+dest_files=[ "res://.import/SlimeBlock.Png-841feaf85f867ddc06e07ce610f5bbe1.stex" ]
 
 [params]
 

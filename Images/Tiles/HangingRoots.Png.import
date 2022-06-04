@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/HangingRoots.png-4635b02b0419ab8d21423cdc69752c64.stex"
+path="res://.import/HangingRoots.Png-91e996412fb455d6094583f5b826f3ff.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/HangingRoots.png"
-dest_files=[ "res://.import/HangingRoots.png-4635b02b0419ab8d21423cdc69752c64.stex" ]
+source_file="res://Images/Tiles/HangingRoots.Png"
+dest_files=[ "res://.import/HangingRoots.Png-91e996412fb455d6094583f5b826f3ff.stex" ]
 
 [params]
 

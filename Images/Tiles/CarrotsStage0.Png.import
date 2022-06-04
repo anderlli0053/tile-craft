@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CarrotsStage0.png-4c210ca28bf51cfb1830d0dc7d367274.stex"
+path="res://.import/CarrotsStage0.Png-e5267b25e1c3f5264e28de67dd2dec0b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/CarrotsStage0.png"
-dest_files=[ "res://.import/CarrotsStage0.png-4c210ca28bf51cfb1830d0dc7d367274.stex" ]
+source_file="res://Images/Tiles/CarrotsStage0.Png"
+dest_files=[ "res://.import/CarrotsStage0.Png-e5267b25e1c3f5264e28de67dd2dec0b.stex" ]
 
 [params]
 

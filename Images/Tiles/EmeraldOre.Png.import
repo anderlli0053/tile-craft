@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/EmeraldOre.png-f9932bca8dc448dc3b234bb931d86240.stex"
+path="res://.import/EmeraldOre.Png-f878c7d36ffcad79004314f239ec5a0e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/EmeraldOre.png"
-dest_files=[ "res://.import/EmeraldOre.png-f9932bca8dc448dc3b234bb931d86240.stex" ]
+source_file="res://Images/Tiles/EmeraldOre.Png"
+dest_files=[ "res://.import/EmeraldOre.Png-f878c7d36ffcad79004314f239ec5a0e.stex" ]
 
 [params]
 

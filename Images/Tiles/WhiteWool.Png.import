@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/WhiteWool.png-dff896104a876644231dc096e84a1ab1.stex"
+path="res://.import/WhiteWool.Png-6b88a74ba87a78dc77889cb01ccf29fb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/WhiteWool.png"
-dest_files=[ "res://.import/WhiteWool.png-dff896104a876644231dc096e84a1ab1.stex" ]
+source_file="res://Images/Tiles/WhiteWool.Png"
+dest_files=[ "res://.import/WhiteWool.Png-6b88a74ba87a78dc77889cb01ccf29fb.stex" ]
 
 [params]
 

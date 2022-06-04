@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/BlastFurnaceSide.png-09f0ad0b9d1708ef6bc8e36e77b81fb6.stex"
+path="res://.import/BlastFurnaceSide.Png-9a636401c9a71596b30eb9127e35fdf8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/BlastFurnaceSide.png"
-dest_files=[ "res://.import/BlastFurnaceSide.png-09f0ad0b9d1708ef6bc8e36e77b81fb6.stex" ]
+source_file="res://Images/Tiles/BlastFurnaceSide.Png"
+dest_files=[ "res://.import/BlastFurnaceSide.Png-9a636401c9a71596b30eb9127e35fdf8.stex" ]
 
 [params]
 

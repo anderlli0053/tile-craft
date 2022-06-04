@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/WheatStage4.png-54d8ae00288bdbb328242fba39b25b15.stex"
+path="res://.import/WheatStage4.Png-bb3188877d0edabd3fe88d43410414fc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/WheatStage4.png"
-dest_files=[ "res://.import/WheatStage4.png-54d8ae00288bdbb328242fba39b25b15.stex" ]
+source_file="res://Images/Tiles/WheatStage4.Png"
+dest_files=[ "res://.import/WheatStage4.Png-bb3188877d0edabd3fe88d43410414fc.stex" ]
 
 [params]
 

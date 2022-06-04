@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CobbledDeepslate.png-78c9d61d7c979d96704fe72d069170e6.stex"
+path="res://.import/CobbledDeepslate.Png-b3f27d8e42bc0a797c26186be97b3e24.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/CobbledDeepslate.png"
-dest_files=[ "res://.import/CobbledDeepslate.png-78c9d61d7c979d96704fe72d069170e6.stex" ]
+source_file="res://Images/Tiles/CobbledDeepslate.Png"
+dest_files=[ "res://.import/CobbledDeepslate.Png-b3f27d8e42bc0a797c26186be97b3e24.stex" ]
 
 [params]
 

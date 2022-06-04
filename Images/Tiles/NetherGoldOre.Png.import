@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/NetherGoldOre.png-6e39137e71b52ceaac29b58f6c15f970.stex"
+path="res://.import/NetherGoldOre.Png-5783604c2e44f9b12013df405239b2e8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/NetherGoldOre.png"
-dest_files=[ "res://.import/NetherGoldOre.png-6e39137e71b52ceaac29b58f6c15f970.stex" ]
+source_file="res://Images/Tiles/NetherGoldOre.Png"
+dest_files=[ "res://.import/NetherGoldOre.Png-5783604c2e44f9b12013df405239b2e8.stex" ]
 
 [params]
 

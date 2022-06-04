@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/EmeraldBlock.png-e1e0bea650ad168183f9ee7ab23414d2.stex"
+path="res://.import/EmeraldBlock.Png-a4abbab591dcaf6dc744914ef81631e9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/EmeraldBlock.png"
-dest_files=[ "res://.import/EmeraldBlock.png-e1e0bea650ad168183f9ee7ab23414d2.stex" ]
+source_file="res://Images/Tiles/EmeraldBlock.Png"
+dest_files=[ "res://.import/EmeraldBlock.Png-a4abbab591dcaf6dc744914ef81631e9.stex" ]
 
 [params]
 

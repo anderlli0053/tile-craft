@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/BoneBlockSide.png-b48fb9400feaef37fb6d143278d95f98.stex"
+path="res://.import/BoneBlockSide.Png-5ee53bf771bdeb15f2041ab13d4bb19a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/BoneBlockSide.png"
-dest_files=[ "res://.import/BoneBlockSide.png-b48fb9400feaef37fb6d143278d95f98.stex" ]
+source_file="res://Images/Tiles/BoneBlockSide.Png"
+dest_files=[ "res://.import/BoneBlockSide.Png-5ee53bf771bdeb15f2041ab13d4bb19a.stex" ]
 
 [params]
 

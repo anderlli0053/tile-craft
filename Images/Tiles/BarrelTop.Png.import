@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/BarrelTop.png-ee936ffe70fedc800f676b148b9b395d.stex"
+path="res://.import/BarrelTop.Png-62dc44e5ac5f1968e9a721bc5bf56de5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/BarrelTop.png"
-dest_files=[ "res://.import/BarrelTop.png-ee936ffe70fedc800f676b148b9b395d.stex" ]
+source_file="res://Images/Tiles/BarrelTop.Png"
+dest_files=[ "res://.import/BarrelTop.Png-62dc44e5ac5f1968e9a721bc5bf56de5.stex" ]
 
 [params]
 

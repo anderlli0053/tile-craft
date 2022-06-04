@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/PinkConcrete.png-a80d5946f3697e30458d7770fa4b4784.stex"
+path="res://.import/PinkConcrete.Png-06e96096f1017ee3ee6836e31b076bbd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/PinkConcrete.png"
-dest_files=[ "res://.import/PinkConcrete.png-a80d5946f3697e30458d7770fa4b4784.stex" ]
+source_file="res://Images/Tiles/PinkConcrete.Png"
+dest_files=[ "res://.import/PinkConcrete.Png-06e96096f1017ee3ee6836e31b076bbd.stex" ]
 
 [params]
 

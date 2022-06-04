@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/PolishedDiorite.png-d7024c43a2e0877c4b53b06576cd23e0.stex"
+path="res://.import/PolishedDiorite.Png-b1cbb6b2094a5063e4a2179c4bad5beb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/PolishedDiorite.png"
-dest_files=[ "res://.import/PolishedDiorite.png-d7024c43a2e0877c4b53b06576cd23e0.stex" ]
+source_file="res://Images/Tiles/PolishedDiorite.Png"
+dest_files=[ "res://.import/PolishedDiorite.Png-b1cbb6b2094a5063e4a2179c4bad5beb.stex" ]
 
 [params]
 

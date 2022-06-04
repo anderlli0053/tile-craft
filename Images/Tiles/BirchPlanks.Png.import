@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/BirchPlanks.png-23c855e7ee6d28aabf370070d06cbd1c.stex"
+path="res://.import/BirchPlanks.Png-9843039c04127b58727687e4538bcce8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/BirchPlanks.png"
-dest_files=[ "res://.import/BirchPlanks.png-23c855e7ee6d28aabf370070d06cbd1c.stex" ]
+source_file="res://Images/Tiles/BirchPlanks.Png"
+dest_files=[ "res://.import/BirchPlanks.Png-9843039c04127b58727687e4538bcce8.stex" ]
 
 [params]
 

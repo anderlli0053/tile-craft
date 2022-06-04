@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/PinkTulip.png-c968d10b43dc56a6a01a8813f7332a1a.stex"
+path="res://.import/PinkTulip.Png-4d8ff4a48d1733eef4498ee3d438c639.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/PinkTulip.png"
-dest_files=[ "res://.import/PinkTulip.png-c968d10b43dc56a6a01a8813f7332a1a.stex" ]
+source_file="res://Images/Tiles/PinkTulip.Png"
+dest_files=[ "res://.import/PinkTulip.Png-4d8ff4a48d1733eef4498ee3d438c639.stex" ]
 
 [params]
 

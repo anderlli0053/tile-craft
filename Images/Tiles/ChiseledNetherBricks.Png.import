@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ChiseledNetherBricks.png-87a00005d323e30fd1b79b81fba64892.stex"
+path="res://.import/ChiseledNetherBricks.Png-3bb9022293f93a726caee5b3a314e11c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/ChiseledNetherBricks.png"
-dest_files=[ "res://.import/ChiseledNetherBricks.png-87a00005d323e30fd1b79b81fba64892.stex" ]
+source_file="res://Images/Tiles/ChiseledNetherBricks.Png"
+dest_files=[ "res://.import/ChiseledNetherBricks.Png-3bb9022293f93a726caee5b3a314e11c.stex" ]
 
 [params]
 

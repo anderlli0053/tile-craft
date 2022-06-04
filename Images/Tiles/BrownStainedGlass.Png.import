@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/BrownStainedGlass.png-146ca68f4600a091f2156a186bbf16b7.stex"
+path="res://.import/BrownStainedGlass.Png-bd4f31a1dd894f0f071e5b35e0fe25a3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/BrownStainedGlass.png"
-dest_files=[ "res://.import/BrownStainedGlass.png-146ca68f4600a091f2156a186bbf16b7.stex" ]
+source_file="res://Images/Tiles/BrownStainedGlass.Png"
+dest_files=[ "res://.import/BrownStainedGlass.Png-bd4f31a1dd894f0f071e5b35e0fe25a3.stex" ]
 
 [params]
 

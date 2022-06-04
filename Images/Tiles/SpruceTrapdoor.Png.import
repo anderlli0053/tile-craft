@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/SpruceTrapdoor.png-30667ef142bef3b7bd95db28ee5d8423.stex"
+path="res://.import/SpruceTrapdoor.Png-9e478e6e8333f267423ecd403893043c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/SpruceTrapdoor.png"
-dest_files=[ "res://.import/SpruceTrapdoor.png-30667ef142bef3b7bd95db28ee5d8423.stex" ]
+source_file="res://Images/Tiles/SpruceTrapdoor.Png"
+dest_files=[ "res://.import/SpruceTrapdoor.Png-9e478e6e8333f267423ecd403893043c.stex" ]
 
 [params]
 

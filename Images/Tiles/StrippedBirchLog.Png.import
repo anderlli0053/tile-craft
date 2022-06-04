@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/StrippedBirchLog.png-f1595738cf9f80eecb0f6015db6058f0.stex"
+path="res://.import/StrippedBirchLog.Png-433611781546fb12bc19f8e4ffca8900.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/StrippedBirchLog.png"
-dest_files=[ "res://.import/StrippedBirchLog.png-f1595738cf9f80eecb0f6015db6058f0.stex" ]
+source_file="res://Images/Tiles/StrippedBirchLog.Png"
+dest_files=[ "res://.import/StrippedBirchLog.Png-433611781546fb12bc19f8e4ffca8900.stex" ]
 
 [params]
 

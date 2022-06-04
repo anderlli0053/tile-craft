@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CocoaStage0.png-1b139ceb14bbedc9d78d7fae549567e8.stex"
+path="res://.import/CocoaStage0.Png-659e4ccb7acce47aca9270a62659af2c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/CocoaStage0.png"
-dest_files=[ "res://.import/CocoaStage0.png-1b139ceb14bbedc9d78d7fae549567e8.stex" ]
+source_file="res://Images/Tiles/CocoaStage0.Png"
+dest_files=[ "res://.import/CocoaStage0.Png-659e4ccb7acce47aca9270a62659af2c.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/WeatheredCutCopper.png-1d99c9289ed7029c7d6469d29c853ade.stex"
+path="res://.import/WeatheredCutCopper.Png-4a075fac950df33c81d1d3d78bee3d26.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/WeatheredCutCopper.png"
-dest_files=[ "res://.import/WeatheredCutCopper.png-1d99c9289ed7029c7d6469d29c853ade.stex" ]
+source_file="res://Images/Tiles/WeatheredCutCopper.Png"
+dest_files=[ "res://.import/WeatheredCutCopper.Png-4a075fac950df33c81d1d3d78bee3d26.stex" ]
 
 [params]
 

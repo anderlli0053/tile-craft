@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DispenserFrontVertical.png-d16479ce29fac22eb583293e1c6fe007.stex"
+path="res://.import/DispenserFrontVertical.Png-12618ecb0f47fa044113b25439d57539.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/DispenserFrontVertical.png"
-dest_files=[ "res://.import/DispenserFrontVertical.png-d16479ce29fac22eb583293e1c6fe007.stex" ]
+source_file="res://Images/Tiles/DispenserFrontVertical.Png"
+dest_files=[ "res://.import/DispenserFrontVertical.Png-12618ecb0f47fa044113b25439d57539.stex" ]
 
 [params]
 

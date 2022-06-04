@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/EndStone.png-184e534f0b0a13f3d2690ede0a71f011.stex"
+path="res://.import/EndStone.Png-6ec12a56cfdaac63aad987b767e383d1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/EndStone.png"
-dest_files=[ "res://.import/EndStone.png-184e534f0b0a13f3d2690ede0a71f011.stex" ]
+source_file="res://Images/Tiles/EndStone.Png"
+dest_files=[ "res://.import/EndStone.Png-6ec12a56cfdaac63aad987b767e383d1.stex" ]
 
 [params]
 

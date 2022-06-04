@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/BirchSapling.png-2245ced2618cc29b7b51ef42c29c4890.stex"
+path="res://.import/BirchSapling.Png-b3c2e44451d1155ca436681afef9cebe.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/BirchSapling.png"
-dest_files=[ "res://.import/BirchSapling.png-2245ced2618cc29b7b51ef42c29c4890.stex" ]
+source_file="res://Images/Tiles/BirchSapling.Png"
+dest_files=[ "res://.import/BirchSapling.Png-b3c2e44451d1155ca436681afef9cebe.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/BrownGlazedTerracotta.png-383d7c8071fadca60edb7cf74b013002.stex"
+path="res://.import/BrownGlazedTerracotta.Png-f2697b08d54c048a11193722c6a88568.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/BrownGlazedTerracotta.png"
-dest_files=[ "res://.import/BrownGlazedTerracotta.png-383d7c8071fadca60edb7cf74b013002.stex" ]
+source_file="res://Images/Tiles/BrownGlazedTerracotta.Png"
+dest_files=[ "res://.import/BrownGlazedTerracotta.Png-f2697b08d54c048a11193722c6a88568.stex" ]
 
 [params]
 

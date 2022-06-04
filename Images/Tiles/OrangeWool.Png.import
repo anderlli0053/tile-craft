@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/OrangeWool.png-e5b43320e0a7208666c2c5a898a48744.stex"
+path="res://.import/OrangeWool.Png-55f8cdb0fb3cc6f439881949defa9e20.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/OrangeWool.png"
-dest_files=[ "res://.import/OrangeWool.png-e5b43320e0a7208666c2c5a898a48744.stex" ]
+source_file="res://Images/Tiles/OrangeWool.Png"
+dest_files=[ "res://.import/OrangeWool.Png-55f8cdb0fb3cc6f439881949defa9e20.stex" ]
 
 [params]
 

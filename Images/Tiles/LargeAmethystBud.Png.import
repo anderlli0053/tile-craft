@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/LargeAmethystBud.png-3f725be3fa45b051fbb1e45993c9bd5e.stex"
+path="res://.import/LargeAmethystBud.Png-fc7351f262262ee7f8319cb8fd9209fc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/LargeAmethystBud.png"
-dest_files=[ "res://.import/LargeAmethystBud.png-3f725be3fa45b051fbb1e45993c9bd5e.stex" ]
+source_file="res://Images/Tiles/LargeAmethystBud.Png"
+dest_files=[ "res://.import/LargeAmethystBud.Png-fc7351f262262ee7f8319cb8fd9209fc.stex" ]
 
 [params]
 

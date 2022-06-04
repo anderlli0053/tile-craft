@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/BambooStage0.png-d39ba2b61ac1fff2a0f3210452a5daef.stex"
+path="res://.import/BambooStage0.Png-3a8784ae82b78307bd515daa6947f2f2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/BambooStage0.png"
-dest_files=[ "res://.import/BambooStage0.png-d39ba2b61ac1fff2a0f3210452a5daef.stex" ]
+source_file="res://Images/Tiles/BambooStage0.Png"
+dest_files=[ "res://.import/BambooStage0.Png-3a8784ae82b78307bd515daa6947f2f2.stex" ]
 
 [params]
 

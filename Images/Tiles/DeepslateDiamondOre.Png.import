@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DeepslateDiamondOre.png-a1eafb07362bbc6bce66fc865999045f.stex"
+path="res://.import/DeepslateDiamondOre.Png-ec45c9dfe170e903bb0f154e799b335d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/DeepslateDiamondOre.png"
-dest_files=[ "res://.import/DeepslateDiamondOre.png-a1eafb07362bbc6bce66fc865999045f.stex" ]
+source_file="res://Images/Tiles/DeepslateDiamondOre.Png"
+dest_files=[ "res://.import/DeepslateDiamondOre.Png-ec45c9dfe170e903bb0f154e799b335d.stex" ]
 
 [params]
 

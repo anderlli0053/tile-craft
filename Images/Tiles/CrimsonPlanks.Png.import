@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CrimsonPlanks.png-822a6bd46a2707906219f32e2de6f241.stex"
+path="res://.import/CrimsonPlanks.Png-cca16609f83de29f4005d29df0adeb93.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/CrimsonPlanks.png"
-dest_files=[ "res://.import/CrimsonPlanks.png-822a6bd46a2707906219f32e2de6f241.stex" ]
+source_file="res://Images/Tiles/CrimsonPlanks.Png"
+dest_files=[ "res://.import/CrimsonPlanks.Png-cca16609f83de29f4005d29df0adeb93.stex" ]
 
 [params]
 

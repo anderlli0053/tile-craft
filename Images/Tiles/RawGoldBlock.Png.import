@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/RawGoldBlock.png-b0fff46fe18356ba6e5fb6b10a8d6e78.stex"
+path="res://.import/RawGoldBlock.Png-4a070470216f75ede1163227feefdca0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/RawGoldBlock.png"
-dest_files=[ "res://.import/RawGoldBlock.png-b0fff46fe18356ba6e5fb6b10a8d6e78.stex" ]
+source_file="res://Images/Tiles/RawGoldBlock.Png"
+dest_files=[ "res://.import/RawGoldBlock.Png-4a070470216f75ede1163227feefdca0.stex" ]
 
 [params]
 

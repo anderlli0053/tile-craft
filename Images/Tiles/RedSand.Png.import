@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/RedSand.png-cd4dfcbb69dd0555127334675aa42e99.stex"
+path="res://.import/RedSand.Png-6fdaa76a6c2d2b0232822d6102642954.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/RedSand.png"
-dest_files=[ "res://.import/RedSand.png-cd4dfcbb69dd0555127334675aa42e99.stex" ]
+source_file="res://Images/Tiles/RedSand.Png"
+dest_files=[ "res://.import/RedSand.Png-6fdaa76a6c2d2b0232822d6102642954.stex" ]
 
 [params]
 

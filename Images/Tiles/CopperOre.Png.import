@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CopperOre.png-b4b9887b1e8140ec7009acc5be2e6974.stex"
+path="res://.import/CopperOre.Png-4387f949a856cc0a8dbf1e583d24ee7f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/CopperOre.png"
-dest_files=[ "res://.import/CopperOre.png-b4b9887b1e8140ec7009acc5be2e6974.stex" ]
+source_file="res://Images/Tiles/CopperOre.Png"
+dest_files=[ "res://.import/CopperOre.Png-4387f949a856cc0a8dbf1e583d24ee7f.stex" ]
 
 [params]
 

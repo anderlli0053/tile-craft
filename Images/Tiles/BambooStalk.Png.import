@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/BambooStalk.png-02e22efc55e3342b43394d0cde2c9ce3.stex"
+path="res://.import/BambooStalk.Png-515176943adb3f7ce4c02c8341100e8e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/BambooStalk.png"
-dest_files=[ "res://.import/BambooStalk.png-02e22efc55e3342b43394d0cde2c9ce3.stex" ]
+source_file="res://Images/Tiles/BambooStalk.Png"
+dest_files=[ "res://.import/BambooStalk.Png-515176943adb3f7ce4c02c8341100e8e.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/SeaLantern.png-542faf7f372673abb1235c5fb689fa36.stex"
+path="res://.import/SeaLantern.Png-aaf6eaef3f65afa1ec7bd80d008b4fb4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/SeaLantern.png"
-dest_files=[ "res://.import/SeaLantern.png-542faf7f372673abb1235c5fb689fa36.stex" ]
+source_file="res://Images/Tiles/SeaLantern.Png"
+dest_files=[ "res://.import/SeaLantern.Png-aaf6eaef3f65afa1ec7bd80d008b4fb4.stex" ]
 
 [params]
 

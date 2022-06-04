@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/BlueOrchid.png-b937950ed8cda096760a4979c3c15bd1.stex"
+path="res://.import/BlueOrchid.Png-4be1b5484978a81e159037f8614631d1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/BlueOrchid.png"
-dest_files=[ "res://.import/BlueOrchid.png-b937950ed8cda096760a4979c3c15bd1.stex" ]
+source_file="res://Images/Tiles/BlueOrchid.Png"
+dest_files=[ "res://.import/BlueOrchid.Png-4be1b5484978a81e159037f8614631d1.stex" ]
 
 [params]
 

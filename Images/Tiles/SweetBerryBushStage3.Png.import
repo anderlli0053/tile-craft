@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/SweetBerryBushStage3.png-241b063c1655ff4c90552b174e894c86.stex"
+path="res://.import/SweetBerryBushStage3.Png-d16446dcbd4415fc4f9fdfad6984612f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Images/Tiles/SweetBerryBushStage3.png"
-dest_files=[ "res://.import/SweetBerryBushStage3.png-241b063c1655ff4c90552b174e894c86.stex" ]
+source_file="res://Images/Tiles/SweetBerryBushStage3.Png"
+dest_files=[ "res://.import/SweetBerryBushStage3.Png-d16446dcbd4415fc4f9fdfad6984612f.stex" ]
 
 [params]
 
