@@ -10,6 +10,11 @@ namespace TileCraftData
         public float Bounciness = 0f;
         public float Friction = 1f;
     }
+    public class Biome {
+        public int MaxHeight;
+        public int MinHeight;
+        public float NoiseStep;
+    }
     public class ChunkDataNotAvailable : Exception
     {
         public ChunkDataNotAvailable() { }
