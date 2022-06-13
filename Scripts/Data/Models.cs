@@ -26,4 +26,14 @@ namespace TileCraftData
     public class GameSettings {
         public bool SeenAd;
     }
+
+    public struct IntVector{
+        public int x;
+        public int y;
+        public IntVector(int x = 0, int y = 0){
+            this.x = x;
+            this.y = y;
+        }
+        
+    }
 }

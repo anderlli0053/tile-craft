@@ -18,6 +18,7 @@ namespace TileCraftMain
             } else {
                 Visible = true;
             }
+            
         }
         public void ContinueEvent()
         {

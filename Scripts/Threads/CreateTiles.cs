@@ -6,6 +6,7 @@ namespace TileCraftThreads
     {
         public static void Job(object raw)
         {
+            
             GameScene gameScene = (GameScene)raw;
             Node2D container = gameScene.WorldContainer;
             Tile[] tileArray = gameScene.TileArray;

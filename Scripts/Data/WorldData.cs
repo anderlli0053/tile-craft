@@ -15,7 +15,8 @@ namespace TileCraftUtils
         VoidLand
     }
 
-    public enum Layers {
+    public enum Layers
+    {
         Main,
         Background
     }
@@ -32,19 +33,22 @@ namespace TileCraftUtils
                 _generatingChunks.Add(dimension, new Dictionary<int, GameChunk>());
             }
         }
+
+
         public void CreateNewChunk(int index, Dimensions dimension = Dimensions.OverWorld, bool generating = true)
         {
             if (generating) _generatingChunks[dimension].Add(index, new GameChunk());
             else _chunks[dimension].Add(index, new GameChunk());
         }
 
-        public void SetBlock(int x, int y, char block, Dimensions dimension = Dimensions.OverWorld, bool generating = true)
+        public void SetBlock(IntVector position, char block, Dimensions dimension = Dimensions.OverWorld, bool generating = true, byte state = 0)
         {
             try
             {
-                int chunk = GameChunk.GetChunk(x);
-                if (generating) _generatingChunks[dimension][chunk].SetBlock(x - chunk * Constants.ChunkSize, y, block);
-                else _chunks[dimension][chunk].SetBlock(x - chunk * Constants.ChunkSize, y, block);
+                int chunk = GameChunk.GetChunk(position.x);
+                position.x -= chunk * Constants.ChunkSize;
+                if (generating) _generatingChunks[dimension][chunk].SetBlock(position, block, state: state);
+                else _chunks[dimension][chunk].SetBlock(position, block, state: state);
             }
             catch (Exception e)
             {
@@ -52,23 +56,24 @@ namespace TileCraftUtils
             }
         }
 
-        public void SetBackground(int x, int y, char block, Dimensions dimension = Dimensions.OverWorld, bool generating = true)
+        public void SetBackground(IntVector position, char block, Dimensions dimension = Dimensions.OverWorld, bool generating = true, byte state = 0)
         {
             try
             {
-                int chunk = GameChunk.GetChunk(x);
-                if (generating) _generatingChunks[dimension][chunk].SetBlock(x - chunk * Constants.ChunkSize, y, block);
-                else _chunks[dimension][chunk].SetBlock(x - chunk * Constants.ChunkSize, y, block, Layers.Background);
+                int chunk = GameChunk.GetChunk(position.x);
+                position.x -= chunk * Constants.ChunkSize;
+                if (generating) _generatingChunks[dimension][chunk].SetBlock(position, block, Layers.Main, state);
+                else _chunks[dimension][chunk].SetBlock(position, block, Layers.Background, state);
             }
             catch (Exception e)
             {
                 throw new ChunkDataNotAvailable("Hmm, chunk hasn't been loaded" + e.StackTrace);
             }
         }
-
-        public void SetBoth(int x, int y, char block, Dimensions dimension = Dimensions.OverWorld, bool generating = true){
-            SetBackground(x, y, block, dimension, generating);
-            SetBlock(x, y, block, dimension, generating);
+        public void SetBoth(IntVector position, char block, Dimensions dimension = Dimensions.OverWorld, bool generating = true)
+        {
+            SetBackground(position, block, dimension, generating);
+            SetBlock(position, block, dimension, generating);
         }
         public void DeleteChunk(int chunk, Dimensions dimension = Dimensions.OverWorld, bool generating = false)
         {
@@ -82,16 +87,24 @@ namespace TileCraftUtils
             _generatingChunks[dimension].Remove(chunk);
         }
 
-        public char GetBlock(int x, int y, Layers layer = Layers.Main, Dimensions dimension = Dimensions.OverWorld, bool generating=false){
-            int chunk = GameChunk.GetChunk(x);
-            return (generating ? _generatingChunks:_chunks)[dimension][chunk].GetBlock(x - chunk * Constants.ChunkSize, y);
+        public char GetBlock(IntVector position, Layers layer = Layers.Main, Dimensions dimension = Dimensions.OverWorld, bool generating = false)
+        {
+            int chunk = GameChunk.GetChunk(position.x);
+            position.x -= chunk * Constants.ChunkSize;
+            return (generating ? _generatingChunks : _chunks)[dimension][chunk].GetBlock(position);
         }
 
+        public byte GetState(IntVector position, Layers layer = Layers.Main, Dimensions dimension = Dimensions.OverWorld, bool generating = false)
+        {
+            int chunk = GameChunk.GetChunk(position.x);
+            position.x -= chunk * Constants.ChunkSize;
+            return (generating ? _generatingChunks : _chunks)[dimension][chunk].GetState(position);
+        }
 
-    public string ToString(Layers layer = Layers.Main)
+        public string ToString(Layers layer = Layers.Main)
         {
             StringBuilder data = new StringBuilder();
-            foreach (KeyValuePair<Dimensions, Dictionary<int, GameChunk>> dimension in _generatingChunks)
+            foreach (KeyValuePair<Dimensions, Dictionary<int, GameChunk>> dimension in _chunks)
             {
                 data.Append("Dimension ");
                 data.AppendLine(dimension.Key.ToString());
@@ -110,7 +123,8 @@ namespace TileCraftUtils
 
     public class GameChunk
     {
-        private Dictionary<Layers, char[]> _data = new Dictionary<Layers, char[]>();
+        private Dictionary<Layers, char[]> _tileData = new Dictionary<Layers, char[]>();
+        private Dictionary<Layers, byte[]> _stateData = new Dictionary<Layers, byte[]>();
         public static int GetChunk(int x)
         {
             return (int)Math.Floor((float)x / Constants.ChunkSize);
@@ -119,27 +133,38 @@ namespace TileCraftUtils
         {
             foreach (Layers layer in Enum.GetValues(typeof(Layers)))
             {
-                _data[layer] = new char[Constants.ChunkSize * Constants.WorldHeight];
-                for (int t = 0; t < _data[layer].Length; t++) {
-                    _data[layer][t] = BlockData.Data["Air"].CharCode;
+                _tileData[layer] = new char[Constants.ChunkSize * Constants.WorldHeight];
+                _stateData[layer] = new byte[Constants.ChunkSize * Constants.WorldHeight];
+                for (int t = 0; t < _tileData[layer].Length; t++)
+                {
+                    _tileData[layer][t] = BlockData.Data["Air"].CharCode;
+                    _stateData[layer][t] = 0;
                 }
             }
         }
 
-        public void SetBlock(int x, int y, char block, Layers layer = Layers.Main)
+        public void SetBlock(IntVector position, char block, Layers layer = Layers.Main, byte state = 0)
         {
-            _data[layer][x*Constants.ChunkSize+y] = block;
+            _tileData[layer][position.x * Constants.ChunkSize + position.y] = block;
+            _stateData[layer][position.x * Constants.ChunkSize + position.y] = state;
         }
 
-        public char GetBlock(int x, int y, Layers layer = Layers.Main){
-            return _data[layer][x * Constants.ChunkSize + y];
+        public char GetBlock(IntVector position, Layers layer = Layers.Main)
+        {
+            return _tileData[layer][position.x * Constants.ChunkSize + position.y];
+        }
+
+        public byte GetState(IntVector position, Layers layer = Layers.Main)
+        {
+            return _stateData[layer][position.x * Constants.ChunkSize + position.
+            y];
         }
 
         public string ToString(Layers layer = Layers.Main)
         {
             StringBuilder myString = new StringBuilder();
             int index = 0;
-            foreach (char tile in _data[layer])
+            foreach (char tile in _tileData[layer])
             {
                 myString.Append(tile);
                 if (++index % Constants.WorldHeight == 0) myString.Append('\n');
