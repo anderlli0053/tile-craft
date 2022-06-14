@@ -1,17 +1,27 @@
-[gd_scene load_steps=5 format=2]
+[gd_scene load_steps=7 format=2]
 
-[ext_resource path="res://Data/GameScene/Tiles/MainBlockList.tres" type="SpriteFrames" id=1]
-[ext_resource path="res://Data/GameScene/Tiles/OverlayList.tres" type="SpriteFrames" id=2]
+[ext_resource path="res://Data/Animations/MainBlockList.tres" type="SpriteFrames" id=1]
+[ext_resource path="res://Data/Animations/OverlayList.tres" type="SpriteFrames" id=2]
 [ext_resource path="res://Scripts/GameScene/Tile.cs" type="Script" id=3]
+[ext_resource path="res://Images/Tiles/Sheet.png" type="Texture" id=4]
 
 [sub_resource type="PhysicsMaterial" id=1]
 friction = 0.0
+
+[sub_resource type="AtlasTexture" id=2]
+flags = 4
+atlas = ExtResource( 4 )
+region = Rect2( 1664, 1600, 64, 64 )
+filter_clip = true
 
 [node name="Tile" type="StaticBody2D"]
 collision_layer = 4
 collision_mask = 0
 physics_material_override = SubResource( 1 )
 script = ExtResource( 3 )
+
+[node name="Sprite" type="Sprite" parent="."]
+texture = SubResource( 2 )
 
 [node name="Collider" type="CollisionPolygon2D" parent="."]
 

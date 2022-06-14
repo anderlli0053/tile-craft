@@ -7,6 +7,7 @@ namespace TileCraftUtils
     {
         public int _seed;
         private OpenSimplexNoise _noise;
+        private WorldData _worldData = WorldData.Instance;
         public static TerrainGenerator Instance { get; private set; } = new TerrainGenerator();
         private TerrainGenerator(int seed = 0)
         {
