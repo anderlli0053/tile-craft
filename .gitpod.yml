@@ -1,0 +1,13 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - before: printf "\n[settings]\napi_key = $WAKA_TIME_API_KEY\n" > ~/.wakatime.cfg
+    name: Restore & Build
+    init: |
+      dotnet dev-certs https 
+      dotnet restore
+      dotnet build
+vscode:
+  extensions:
+    - muhammad-sammy.csharp
