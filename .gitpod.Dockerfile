@@ -1,1 +1,1 @@
-FROM gitpod/workspace-dotnet-vnc:latest
+FROM gitpod/workspace-full-vnc:latest
