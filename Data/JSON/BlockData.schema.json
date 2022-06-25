@@ -1,0 +1,53 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema",
+	"title": "BlockData",
+	"description": "Data about Blocks (duh)",
+	"type": "object",
+	"additionalProperties": {
+		"description": "Single Block's data",
+		"type": "object",
+		"properties": {
+			"CharCode": {
+				"description": "The single char for storing",
+				"type": "string"
+			},
+			"Main": {
+				"description": "Which is the main layer of the animation?",
+				"type": "string"
+			},
+			"Overlay": {
+				"description": "Which is the overlay layer of the animation?",
+				"type": "string"
+			},
+			"Friction": {
+				"description": "Friction, as linear damp",
+				"type": "number"
+			},
+			"Bounciness": {
+				"description": "How bouncy is the block?",
+				"type": "number"
+			},
+			"Collision": {
+				"description": "What shape is the collider? (Go to CollisionShapes.json for reference)",
+				"type": "string"
+			},
+			"AreaShape": {
+				"description": "Area2D shape? (Go to CollisionShapes.json for reference)",
+				"type": "string"
+			}
+		},
+		"required": [
+			"CharCode",
+			"Main",
+			"Overlay",
+			"Friction",
+			"Collision",
+			"AreaShape"
+		]
+	},
+	"properties": {
+		"$schema": {
+			"type": "string"
+		}
+	}
+}

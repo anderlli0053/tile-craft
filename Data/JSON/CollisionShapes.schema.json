@@ -1,0 +1,22 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema",
+	"title": "BlockData",
+	"description": "Data about Blocks (duh)",
+	"type": "object",
+	"additionalProperties": {
+		"description": "Single Block's data",
+		"type": "array",
+		"items": {
+			"type": "array",
+            "description": "A 2 pair coord",
+            "items":{
+                "type": "number"
+            }
+		}
+	},
+	"properties": {
+		"$schema": {
+			"type": "string"
+		}
+	}
+}

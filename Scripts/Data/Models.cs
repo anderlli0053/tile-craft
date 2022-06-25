@@ -8,7 +8,7 @@ namespace TileCraftData
         public string Overlay;
         public string Collision = "FullSquare";
         public float Bounciness = 0f;
-        public float Friction = 1f;
+        public float Friction;
     }
     public class Biome {
         public int MaxHeight;
