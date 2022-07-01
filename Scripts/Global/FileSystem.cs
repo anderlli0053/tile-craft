@@ -12,10 +12,18 @@ namespace TileCraftUtils
         {
             if (!_fs.FileExists(location)) throw new System.Exception("File not found");
             _fs.Open(location, File.ModeFlags.Read);
-            return JsonConvert.DeserializeObject<T>(_fs.GetAsText());
+            return JsonConvert.DeserializeObject<T>(_fs.GetAsText(), new JsonSerializerSettings
+            {
+                Error = delegate (object sender, Newtonsoft.Json.Serialization.ErrorEventArgs args)
+                {
+                // System.Diagnostics.Debug.WriteLine(args.ErrorContext.Error.Message);
+                    args.ErrorContext.Handled = true;
+                }
+            });
         }
 
-        public CollisionShapeData ReadCollisionJSON(string location){
+        public CollisionShapeData ReadCollisionJSON(string location)
+        {
             Dictionary<string, int[][]> obj = ReadJSON<Dictionary<string, int[][]>>(location);
             CollisionShapeData finalObj = new CollisionShapeData();
             foreach (string item in obj.Keys)
@@ -30,12 +38,14 @@ namespace TileCraftUtils
             }
             return finalObj;
         }
-        public void WriteJSON(string location, object data){
+        public void WriteJSON(string location, object data)
+        {
             _fs.Open(location, File.ModeFlags.Write);
             _fs.StoreString(JsonConvert.SerializeObject(data));
         }
 
-        public void Close(){
+        public void Close()
+        {
             _fs.Close();
         }
     }
