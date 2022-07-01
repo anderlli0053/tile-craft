@@ -98,7 +98,28 @@ namespace TileCraftUtils
         {
             int chunk = GameChunk.GetChunk(position.x);
             position.x -= chunk * Constants.ChunkSize;
-            return (generating ? _generatingChunks : _chunks)[dimension][chunk].GetState(position);
+            return (generating ? _generatingChunks : _chunks)[dimension][chunk].GetState(position, layer);
+        }
+
+        public void SetState(IntVector position, byte state, Layers layer = Layers.Main, Dimensions dimension = Dimensions.OverWorld, bool generating = false)
+        {
+            int chunk = GameChunk.GetChunk(position.x);
+            position.x -= chunk * Constants.ChunkSize;
+            (generating ? _generatingChunks : _chunks)[dimension][chunk].SetState(position, state, layer);
+        }
+
+        public bool GetWaterLog(IntVector position, Dimensions dimension = Dimensions.OverWorld, bool generating = false)
+        {
+            int chunk = GameChunk.GetChunk(position.x);
+            position.x -= chunk * Constants.ChunkSize;
+            return (generating ? _generatingChunks : _chunks)[dimension][chunk].GetWaterLog(position);
+        }
+
+        public void SetWaterLog(IntVector position, bool log, Layers layer = Layers.Main, Dimensions dimension = Dimensions.OverWorld, bool generating = false)
+        {
+            int chunk = GameChunk.GetChunk(position.x);
+            position.x -= chunk * Constants.ChunkSize;
+            (generating ? _generatingChunks : _chunks)[dimension][chunk].SetWaterLog(position, log);
         }
 
         public string ToString(Layers layer = Layers.Main)
@@ -125,9 +146,14 @@ namespace TileCraftUtils
     {
         private Dictionary<Layers, char[]> _tileData = new Dictionary<Layers, char[]>();
         private Dictionary<Layers, byte[]> _stateData = new Dictionary<Layers, byte[]>();
+        private bool[] _waterLoggedData = new bool[Constants.ChunkSize * Constants.WorldHeight];
         public static int GetChunk(int x)
         {
             return (int)Math.Floor((float)x / Constants.ChunkSize);
+        }
+        public static int GetIndex(IntVector position)
+        {
+            return position.x * Constants.ChunkSize + position.y;
         }
         public GameChunk()
         {
@@ -145,19 +171,34 @@ namespace TileCraftUtils
 
         public void SetBlock(IntVector position, char block, Layers layer = Layers.Main, byte state = 0)
         {
-            _tileData[layer][position.x * Constants.ChunkSize + position.y] = block;
-            _stateData[layer][position.x * Constants.ChunkSize + position.y] = state;
+            _tileData[layer][GetIndex(position)] = block;
+            _stateData[layer][GetIndex(position)] = state;
         }
+
 
         public char GetBlock(IntVector position, Layers layer = Layers.Main)
         {
-            return _tileData[layer][position.x * Constants.ChunkSize + position.y];
+            return _tileData[layer][GetIndex(position)];
+        }
+
+        public void SetState(IntVector position, byte state, Layers layer = Layers.Main)
+        {
+            _stateData[layer][GetIndex(position)] = state;
         }
 
         public byte GetState(IntVector position, Layers layer = Layers.Main)
         {
-            return _stateData[layer][position.x * Constants.ChunkSize + position.
-            y];
+            return _stateData[layer][GetIndex(position)];
+        }
+
+        public void SetWaterLog(IntVector position, bool log)
+        {
+            _waterLoggedData[GetIndex(position)] = log;
+        }
+
+        public bool GetWaterLog(IntVector position)
+        {
+            return _waterLoggedData[GetIndex(position)];
         }
 
         public string ToString(Layers layer = Layers.Main)

@@ -11,16 +11,25 @@
 	"Grass": {
 		"CharCode": "e",
 		"Main": "Grass",
-		"Overlay": "Grass"
+		"Overlay": "Grass",
+		"Collision": "FullSquare",
+		"Friction": 0.5,
+		"AreaShape": "FrictionLayer"
 	},
 	"Stone": {
 		"CharCode": "f",
 		"Main": "Stone",
-		"Overlay": "None"
+		"Overlay": "None",
+		"Collision": "FullSquare",
+		"Friction": 0.5,
+		"AreaShape": "FrictionLayer"
 	},
 	"Dirt": {
 		"CharCode": "g",
 		"Main": "Dirt",
-		"Overlay": "None"
+		"Overlay": "None",
+		"Collision": "FullSquare",
+		"Friction": 0.5,
+		"AreaShape": "FrictionLayer"
 	}
 }

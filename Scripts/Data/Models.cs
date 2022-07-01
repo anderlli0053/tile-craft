@@ -6,9 +6,10 @@ namespace TileCraftData
         public char CharCode;
         public string Main;
         public string Overlay;
-        public string Collision = "FullSquare";
+        public string Collision;
         public float Bounciness = 0f;
         public float Friction;
+        public string AreaShape;
     }
     public class Biome {
         public int MaxHeight;

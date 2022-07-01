@@ -14,7 +14,7 @@ font_data = ExtResource( 1 )
 size = 40
 font_data = ExtResource( 2 )
 
-[sub_resource type="DynamicFont" id=4]
+[sub_resource type="DynamicFont" id=3]
 size = 32
 font_data = ExtResource( 1 )
 
@@ -33,6 +33,9 @@ margin_top = -360.0
 margin_right = 640.0
 margin_bottom = 360.0
 color = Color( 0, 0, 0, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
 
 [node name="TextureLink" parent="." instance=ExtResource( 5 )]
 margin_left = 65.0
@@ -69,7 +72,7 @@ margin_left = 464.0
 margin_top = 288.0
 margin_right = 632.0
 margin_bottom = 352.0
-custom_fonts/font = SubResource( 4 )
+custom_fonts/font = SubResource( 3 )
 text = "Continue"
 
 [node name="Camera" type="Camera2D" parent="."]
