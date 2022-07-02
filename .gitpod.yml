@@ -1,4 +1,4 @@
-image: gitpod/workspace-dotnet-vnc
+image: gitpod/workspace-full-vnc
 tasks:
   - before: printf "\n[settings]\napi_key = $WAKA_TIME_API_KEY\n" > ~/.wakatime.cfg && chmod +x ./before.sh && ./before.sh
   - init: chmod +x ./init.sh && ./init.sh

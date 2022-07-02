@@ -10,7 +10,8 @@ namespace TileCraftUtils
 
         public T ReadJSON<T>(string location) where T : new()
         {
-            if (!_fs.FileExists(location)) throw new System.Exception("File not found");
+            
+            if (!_fs.FileExists(location)) return new T();
             _fs.Open(location, File.ModeFlags.Read);
             return JsonConvert.DeserializeObject<T>(_fs.GetAsText(), new JsonSerializerSettings
             {

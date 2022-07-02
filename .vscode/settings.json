@@ -1,3 +1,16 @@
 {
-  "godot_tools.editor_path": "c:\\Program Files\\Godot\\Godot_v3.4.2-stable_win64.exe"
+	"mono-debug.exceptionOptions": {
+        "System.ArithmeticException": "always",
+        "System.ArrayTypeMismatchException": "always",
+        "System.DivideByZeroException": "always",
+        "System.Exception": "always",
+        "System.IndexOutOfRangeException": "always",
+        "System.InvalidCastException": "always",
+        "System.NullReferenceException": "always",
+        "System.OutOfMemoryException": "always",
+        "System.OverflowException": "always",
+        "System.StackOverflowException": "always",
+        "System.SystemException": "always",
+        "System.TypeInitializationException": "always"
+    }
 }
