@@ -1,17 +1,18 @@
-[gd_scene load_steps=6 format=2]
+[gd_scene load_steps=7 format=2]
 
 [ext_resource path="res://Data/Animations/MainBlockList.tres" type="SpriteFrames" id=1]
 [ext_resource path="res://Data/Animations/OverlayList.tres" type="SpriteFrames" id=2]
 [ext_resource path="res://Scripts/GameScene/Tile.cs" type="Script" id=3]
 [ext_resource path="res://Images/Tiles/GrassBlockOverlay.tres" type="Texture" id=4]
+[ext_resource path="res://Shaders/LeftTopStairs.tres" type="Material" id=5]
 
-[sub_resource type="PhysicsMaterial" id=1]
+[sub_resource type="PhysicsMaterial" id=4]
 friction = 0.0
 
 [node name="Tile" type="StaticBody2D"]
 collision_layer = 4
 collision_mask = 0
-physics_material_override = SubResource( 1 )
+physics_material_override = SubResource( 4 )
 script = ExtResource( 3 )
 
 [node name="Sprite" type="Sprite" parent="."]
@@ -21,9 +22,9 @@ texture = ExtResource( 4 )
 [node name="Collider" type="CollisionPolygon2D" parent="."]
 
 [node name="Background" type="AnimatedSprite" parent="."]
+material = ExtResource( 5 )
 frames = ExtResource( 1 )
-animation = "WaterStill"
-frame = 24
+animation = "Dirt"
 playing = true
 
 [node name="Overlay" type="AnimatedSprite" parent="Background"]

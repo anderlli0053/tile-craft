@@ -2,8 +2,6 @@
 
 [sub_resource type="Shader" id=1]
 code = "shader_type canvas_item;
-uniform bool enchanted = false;
-
 const vec4 purple = vec4(0.7, 0.0, 0.6, 0.0);
 void fragment()
 {
@@ -15,7 +13,7 @@ void fragment()
       ) + 2.0
     ) / 5.0;
   
-  if (color.a != 0.0 && enchanted) {
+  if (color.a != 0.0) {
 	COLOR = color.rgba + (a * purple.rgba);
   } else {
 	 COLOR = color
@@ -24,4 +22,3 @@ void fragment()
 
 [resource]
 shader = SubResource( 1 )
-shader_param/enchanted = true

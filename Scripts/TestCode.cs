@@ -10,6 +10,5 @@ public class TestCode : Node2D
         data.SetBlock(new IntVector(0, 6), BlockData.Data["Dirt"].CharCode);
         data.MoveFinishedChunk(0);
         GD.Print(data.ToString());
-        
     }
 }
