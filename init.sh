@@ -3,3 +3,5 @@ unzip Godot_v3.4.4-stable_mono_x11_64.zip
 mv Godot_v3.4.4-stable_mono_x11_64 Godot
 mv Godot/Godot_v3.4.4-stable_mono_x11.64 Godot/Godot
 rm Godot_v3.4.4-stable_mono_x11_64.zip
+cd Godot
+touch .__sc__
