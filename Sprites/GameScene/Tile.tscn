@@ -24,7 +24,7 @@ texture = ExtResource( 4 )
 [node name="Background" type="AnimatedSprite" parent="."]
 material = ExtResource( 5 )
 frames = ExtResource( 1 )
-animation = "Dirt"
+animation = "Cobblestone"
 playing = true
 
 [node name="Overlay" type="AnimatedSprite" parent="Background"]

@@ -5,4 +5,4 @@
 [resource]
 shader = ExtResource( 1 )
 shader_param/image_size = Vector2( 28, 33 )
-shader_param/direction = Vector2( -1, -1 )
+shader_param/direction = Vector2( 1, 1 )

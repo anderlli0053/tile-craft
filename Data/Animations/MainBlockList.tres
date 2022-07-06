@@ -8,26 +8,6 @@
 
 [resource]
 animations = [ {
-"frames": [ null ],
-"loop": false,
-"name": "None",
-"speed": 0.0
-}, {
-"frames": [ ExtResource( 3 ) ],
-"loop": false,
-"name": "Sand",
-"speed": 0.0
-}, {
-"frames": [ ExtResource( 5 ) ],
-"loop": false,
-"name": "Grass",
-"speed": 0.0
-}, {
-"frames": [ ExtResource( 6 ) ],
-"loop": false,
-"name": "Dirt",
-"speed": 0.0
-}, {
 "frames": [ ExtResource( 4 ) ],
 "loop": false,
 "name": "Cobblestone",
@@ -36,5 +16,25 @@ animations = [ {
 "frames": [ ExtResource( 1 ) ],
 "loop": false,
 "name": "Stone",
+"speed": 0.0
+}, {
+"frames": [ ExtResource( 6 ) ],
+"loop": false,
+"name": "Dirt",
+"speed": 0.0
+}, {
+"frames": [ ExtResource( 3 ) ],
+"loop": false,
+"name": "Sand",
+"speed": 0.0
+}, {
+"frames": [ null ],
+"loop": false,
+"name": "None",
+"speed": 0.0
+}, {
+"frames": [ ExtResource( 5 ) ],
+"loop": false,
+"name": "Grass",
 "speed": 0.0
 } ]

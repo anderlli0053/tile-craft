@@ -1,0 +1,13 @@
+[gd_resource type="Shader" format=2]
+
+[resource]
+code = "shader_type canvas_item;
+uniform vec2 image_size;
+uniform vec2 direction;
+
+void fragment(){
+	COLOR = texture(TEXTURE, UV);
+	if ( mod(UV.x * direction.x * image_size.x, 1) > 0.5 &&  mod(UV.y * direction.y * image_size.y, 1) > 0.5){
+		COLOR.a = 0.0;
+	}
+}"
