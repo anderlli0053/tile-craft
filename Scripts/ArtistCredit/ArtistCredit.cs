@@ -6,8 +6,10 @@ namespace TileCraftMain
 {
 	public class ArtistCredit : Control
 	{
+		
 		ResizeHandler _resizeHandler = new ResizeHandler();
 		FileSystem _fs = new FileSystem();
+		
 		GameSettings settings;
 		public override void _Ready()
 		{
