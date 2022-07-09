@@ -45,5 +45,8 @@ namespace TileCraftMain
             base._Process(delta);
             OnResize();
         }
+        public void QuitEvent(){
+            GetTree().Notification(MainLoop.NotificationWmQuitRequest);
+        }
     }
 }

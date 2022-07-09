@@ -9,7 +9,7 @@ size = 80
 font_data = ExtResource( 1 )
 
 [sub_resource type="DynamicFont" id=2]
-size = 20
+size = 28
 font_data = ExtResource( 2 )
 
 [sub_resource type="DynamicFont" id=3]
@@ -52,18 +52,21 @@ margin_right = 1120.0
 margin_bottom = 528.0
 
 [node name="Container" type="VBoxContainer" parent="CreditsBody"]
-margin_right = 900.0
-margin_bottom = 360.0
+margin_right = 1080.0
+margin_bottom = 400.0
+rect_min_size = Vector2( 1080, 400 )
 alignment = 1
 
 [node name="Text" type="Label" parent="CreditsBody/Container"]
-margin_right = 900.0
-margin_bottom = 360.0
+margin_top = 20.0
+margin_right = 1080.0
+margin_bottom = 380.0
 rect_min_size = Vector2( 900, 360 )
 custom_colors/font_color = Color( 0, 0, 0, 1 )
 custom_colors/font_outline_modulate = Color( 0, 0, 0, 1 )
 custom_colors/font_color_shadow = Color( 0, 0, 0, 1 )
 custom_fonts/font = SubResource( 2 )
+text = "CREDITS_CONTENT"
 align = 1
 
 [node name="EscapeButton" type="Button" parent="."]

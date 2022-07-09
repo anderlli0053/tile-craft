@@ -59,6 +59,10 @@ jump={
 2d_physics/layer_3="Blocks"
 2d_physics/layer_4="GravityBlocks"
 
+[locale]
+
+translations=PoolStringArray( "res://Data/Translations/Translation.ar.translation", "res://Data/Translations/Translation.de.translation", "res://Data/Translations/Translation.el.translation", "res://Data/Translations/Translation.en.translation", "res://Data/Translations/Translation.es.translation", "res://Data/Translations/Translation.fr.translation", "res://Data/Translations/Translation.he.translation", "res://Data/Translations/Translation.hi.translation", "res://Data/Translations/Translation.ja.translation", "res://Data/Translations/Translation.nl.translation", "res://Data/Translations/Translation.pt.translation", "res://Data/Translations/Translation.ru.translation", "res://Data/Translations/Translation.zh.translation" )
+
 [network]
 
 limits/debugger_stdout/max_chars_per_second=100000
