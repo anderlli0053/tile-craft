@@ -5,3 +5,4 @@ sudo apt install -y mono-complete
 dotnet restore
 chmod +g Godot/Godot
 chmod +x Godot/Godot
+chmod +x Data/Translations/Fetch.sh

@@ -16,7 +16,7 @@ _global_script_class_icons={
 
 config/name="TileCraft"
 run/main_scene="res://Scenes/ArtistCredit.tscn"
-boot_splash/image="res://Images/Backgrounds/Splash.png"
+boot_splash/image="res://Data/Images/Backgrounds/Splash.png"
 boot_splash/bg_color=Color( 1, 0.168627, 0.168627, 1 )
 config/icon="res://Icon.png"
 
