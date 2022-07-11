@@ -43,7 +43,7 @@ margin_left = 170.0
 margin_top = 70.0
 margin_right = 591.0
 margin_bottom = 148.0
-text = "Quit Game"
+text = "QUIT_GAME"
 
 [node name="Credits" parent="." instance=ExtResource( 5 )]
 visible = false

@@ -16,6 +16,8 @@ _global_script_class_icons={
 
 config/name="TileCraft"
 run/main_scene="res://Scenes/ArtistCredit.tscn"
+config/use_custom_user_dir=true
+config/custom_user_dir_name="TileCraft"
 boot_splash/image="res://Data/Images/Backgrounds/Splash.png"
 boot_splash/bg_color=Color( 1, 0.168627, 0.168627, 1 )
 config/icon="res://Icon.png"
@@ -61,6 +63,7 @@ jump={
 
 [locale]
 
+test="fr_CA"
 translations=PoolStringArray( "res://Data/Translations/Translation.ar.translation", "res://Data/Translations/Translation.de.translation", "res://Data/Translations/Translation.el.translation", "res://Data/Translations/Translation.en.translation", "res://Data/Translations/Translation.es.translation", "res://Data/Translations/Translation.fr.translation", "res://Data/Translations/Translation.he.translation", "res://Data/Translations/Translation.hi.translation", "res://Data/Translations/Translation.ja.translation", "res://Data/Translations/Translation.nl.translation", "res://Data/Translations/Translation.pt.translation", "res://Data/Translations/Translation.ru.translation", "res://Data/Translations/Translation.zh.translation" )
 
 [network]
