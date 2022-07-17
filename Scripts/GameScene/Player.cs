@@ -1,39 +1,36 @@
 using Godot;
 using TileCraftConstants;
 
-namespace TileCraftMain
+namespace TileCraftMain;
+
+public class Player : KinematicBody2D
 {
-    public class Player : KinematicBody2D
+    public Vector2 Velocity = Vector2.Zero;
+    public override void _Ready()
     {
-        public Vector2 Velocity = Vector2.Zero;
-        public override void _Ready()
+        Position = new Vector2(2, Constants.TileSize * -3);
+    }
+
+    public override void _PhysicsProcess(float delta)
+    {
+        if (Input.IsActionPressed("go_left"))
         {
-            GD.Print(Constants.PlayerAcceleration);
-            Position = new Vector2(2, Constants.TileSize * -3);
+            Velocity.x -= Constants.PlayerAcceleration * delta;
+        }
+        if (Input.IsActionPressed("go_right"))
+        {
+            Velocity.x += Constants.PlayerAcceleration * delta;
+        }
+        if (Input.IsActionPressed("jump"))
+        {
+            if (IsOnFloor())
+            {
+                Velocity.y = Constants.PlayerJumpSpeed * -delta;
+            }
         }
 
-        public override void _PhysicsProcess(float delta)
-        {
-            if (GetNode<GameScene>("../../").Generating) return;
-            if (Input.IsActionPressed("go_left"))
-            {
-                Velocity.x -= Constants.PlayerAcceleration * delta;
-            }
-            if (Input.IsActionPressed("go_right"))
-            {
-                Velocity.x += Constants.PlayerAcceleration * delta;
-            }
-            if (Input.IsActionPressed("jump"))
-            {
-                if (IsOnFloor())
-                {
-                    Velocity.y = Constants.PlayerJumpSpeed * -delta;
-                }
-            }
-
-            Velocity.x *= Constants.PlayerSpeedDamp;
-            Velocity.y += Constants.Gravity * delta;
-            MoveAndSlide(Velocity, Vector2.Up);
-        }
+        Velocity.x *= Constants.PlayerSpeedDamp;
+        Velocity.y += Constants.Gravity * delta;
+        MoveAndSlide(Velocity, Vector2.Up);
     }
 }

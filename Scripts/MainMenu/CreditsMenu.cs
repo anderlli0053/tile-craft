@@ -1,18 +1,18 @@
 using Godot;
 
-namespace TileCraftMain
+namespace TileCraftMain;
+
+public class CreditsMenu : ColorRect
 {
-    public class CreditsMenu : ColorRect
+    MainMenu mainMenu;
+    public override void _Ready()
     {
-        MainMenu mainMenu;
-        public override void _Ready()
-        {
-            base._Ready();
-            mainMenu = GetNode<MainMenu>("/root/MainMenu");
-        }
-        public void ToggleEvent()
-        {
-            mainMenu.ToggleCredits();
-        }
+        base._Ready();
+        mainMenu = GetNode<MainMenu>("/root/MainMenu");
+    }
+    public void ToggleEvent()
+    {
+        mainMenu.ToggleCredits();
     }
 }
+

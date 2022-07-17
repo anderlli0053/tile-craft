@@ -1,7 +1,6 @@
-namespace TileCraftData
+namespace TileCraftData;
+
+public class BiomeData
 {
-    public class BiomeData
-    {
-        //TODO: add biome data logic and json
-    }
+    //TODO: add biome data logic and json
 }

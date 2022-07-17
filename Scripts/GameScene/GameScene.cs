@@ -5,34 +5,37 @@ using System.Threading;
 using TileCraftConstants;
 using TileCraftUtils;
 
-namespace TileCraftMain
+namespace TileCraftMain;
+
+public class GameScene : Control
 {
-    public class GameScene : Control
+    ResizeHandler resizeHandler = new ResizeHandler();
+    public Node2D WorldContainer;
+    public Node2D MainLayerTiles;
+    public bool Generating = true;
+
+    public override void _Ready()
     {
-        ResizeHandler resizeHandler = new ResizeHandler();
-        public Node2D WorldContainer;
-        public bool Generating = true;
-        public Tile[] TileArray = new Tile[60000];
+        
+        base._Ready();
+        WorldContainer = GetNode<Node2D>("World");
+        MainLayerTiles = GetNode<Node2D>("World/MainLayer");
 
-        public override void _Ready()
-        {
-            base._Ready();
-            WorldContainer = GetNode<Node2D>("World");
-        }
-
-        public void GenerateTiles()
-        {
-        }
-
-        public void OnResize()
-        {
-            resizeHandler.NoBlanks(WorldContainer, new Vector2(Constants.TileContainerWidth, Constants.TileContainerHeight));
-        }
-        public override void _Process(float delta)
-        {
-            base._Process(delta);
-            OnResize();
-        }
     }
 
+    public void GenerateTiles()
+    {
+        
+    }
+
+    public void OnResize()
+    {
+        resizeHandler.NoBlanks(WorldContainer, new Vector2(Constants.TileContainerWidth, Constants.TileContainerHeight));
+    }
+    public override void _Process(float delta)
+    {
+        base._Process(delta);
+        OnResize();
+    }
 }
+
