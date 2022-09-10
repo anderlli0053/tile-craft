@@ -9,7 +9,6 @@ namespace TileCraftMain;
 
 public class GameScene : Control
 {
-    ResizeHandler resizeHandler = new ResizeHandler();
     public Node2D WorldContainer;
     public Node2D MainLayerTiles;
     public bool Generating = true;
@@ -30,12 +29,13 @@ public class GameScene : Control
 
     public void OnResize()
     {
-        resizeHandler.NoBlanks(WorldContainer, new Vector2(Constants.TileContainerWidth, Constants.TileContainerHeight));
+        WorldContainer.Scale = ResizeHandler.NoBlanks(new Vector2(Constants.TileContainerWidth, Constants.TileContainerHeight));
     }
     public override void _Process(float delta)
     {
         base._Process(delta);
         OnResize();
+        
     }
 }
 

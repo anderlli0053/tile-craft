@@ -5,7 +5,6 @@ using System;
 
 public class Loading : Node2D
 {
-    ResizeHandler _resizeHandler = new ResizeHandler();
     private Control _background;
     public override void _Ready()
     {
@@ -15,6 +14,6 @@ public class Loading : Node2D
 
     public override void _Process(float delta)
     {
-        _resizeHandler.NoBlanks(_background, new Vector2(Constants.WindowWidth, Constants.WindowHeight));
+        _background.RectScale = ResizeHandler.NoBlanks(new Vector2(Constants.WindowWidth, Constants.WindowHeight));
     }
 }

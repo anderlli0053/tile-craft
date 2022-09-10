@@ -16,7 +16,7 @@
             "request": "launch",
             "mode": "executable",
             "preLaunchTask": "build",
-            "executable": "c:\\Program Files\\Godot\\Godot_v3.4.2-stable_win64.exe",
+            "executable": "/usr/bin/godot",
             "executableArguments": [
                 "--path",
                 "${workspaceRoot}"
@@ -28,7 +28,7 @@
             "request": "launch",
             "mode": "executable",
             "preLaunchTask": "build",
-            "executable": "<insert-godot-executable-path-here>",
+            "executable": "/usr/bin/godot",
             "executableArguments": [
                 "--path",
                 "${workspaceRoot}",

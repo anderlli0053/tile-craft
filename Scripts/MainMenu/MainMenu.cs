@@ -7,7 +7,6 @@ namespace TileCraftMain;
 
 public class MainMenu : Control
 {
-    ResizeHandler _resizeHandler = new ResizeHandler();
     public bool CreditsPageOpen = false;
     public Button PlayButton;
     public Button CreditsButton;
@@ -38,7 +37,7 @@ public class MainMenu : Control
 
     public void OnResize()
     {
-        _resizeHandler.Contain(this, new Vector2(Constants.WindowWidth, Constants.WindowHeight));
+        RectScale = ResizeHandler.Contain(new Vector2(Constants.WindowWidth, Constants.WindowHeight));
     }
     public override void _Process(float delta)
     {

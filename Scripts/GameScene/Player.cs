@@ -8,7 +8,7 @@ public class Player : KinematicBody2D
     public Vector2 Velocity = Vector2.Zero;
     public override void _Ready()
     {
-        Position = new Vector2(2, Constants.TileSize * -3);
+        Position = new Vector2(0, Constants.TileSize * -3);
     }
 
     public override void _PhysicsProcess(float delta)

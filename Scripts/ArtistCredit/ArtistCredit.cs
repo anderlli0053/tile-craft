@@ -7,7 +7,6 @@ namespace TileCraftMain;
 
 public class ArtistCredit : Control
 {
-    ResizeHandler _resizeHandler = new ResizeHandler();
     FileSystem _fs = new FileSystem();
 
     GameSettings settings;
@@ -41,7 +40,7 @@ public class ArtistCredit : Control
 
     public void OnResize()
     {
-        _resizeHandler.Contain(this, new Vector2(Constants.WindowWidth, Constants.WindowHeight));
+        RectScale = ResizeHandler.Contain(new Vector2(Constants.WindowWidth, Constants.WindowHeight));
     }
     public override void _Process(float delta)
     {

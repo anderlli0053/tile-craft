@@ -1,12 +1,11 @@
-[gd_scene load_steps=10 format=2]
+[gd_scene load_steps=9 format=2]
 
-[ext_resource path="res://Fonts/Gilroy.ttf" type="DynamicFontData" id=1]
 [ext_resource path="res://Fonts/Comfortaa.ttf" type="DynamicFontData" id=2]
 [ext_resource path="res://Scripts/MainMenu/CreditsMenu.cs" type="Script" id=3]
 
 [sub_resource type="DynamicFont" id=1]
 size = 80
-font_data = ExtResource( 1 )
+font_data = ExtResource( 2 )
 
 [sub_resource type="DynamicFont" id=2]
 size = 28
