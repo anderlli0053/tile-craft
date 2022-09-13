@@ -44,7 +44,7 @@ public class WorldData
         }
     }
 
-    public void SetBlock(IntVector position, char block, Dimensions dimension = Dimensions.OverWorld, bool generating = true, byte state = 0)
+    public bool SetBlock(IntVector position, char block, Dimensions dimension = Dimensions.OverWorld, bool generating = true, byte state = 0)
     {
         try
         {
@@ -58,13 +58,14 @@ public class WorldData
             }
 
         }
-        catch (Exception e)
+        catch
         {
-            throw new ChunkDataNotAvailable("Hmm, chunk hasn't been loaded" + e.StackTrace);
+            return false;
         }
+        return true;
     }
 
-    public void SetBackground(IntVector position, char block, Dimensions dimension = Dimensions.OverWorld, bool generating = true, byte state = 0)
+    public bool SetBackground(IntVector position, char block, Dimensions dimension = Dimensions.OverWorld, bool generating = true, byte state = 0)
     {
         try
         {
@@ -77,15 +78,17 @@ public class WorldData
                 WorldDataEvents.SetBlock(block, Layers.Background, state, position);
             }
         }
-        catch (Exception e)
+        catch
         {
-            throw new ChunkDataNotAvailable("Hmm, chunk hasn't been loaded" + e.StackTrace);
+            return false;
         }
+        return true;
     }
-    public void SetBoth(IntVector position, char block, Dimensions dimension = Dimensions.OverWorld, bool generating = true)
+    public bool SetBoth(IntVector position, char block, Dimensions dimension = Dimensions.OverWorld, bool generating = true)
     {
+        //if background fails, so will block just return that result
         SetBackground(position, block, dimension, generating);
-        SetBlock(position, block, dimension, generating);
+        return SetBlock(position, block, dimension, generating);
     }
     public void DeleteChunk(int chunk, Dimensions dimension = Dimensions.OverWorld, bool generating = false)
     {
@@ -106,44 +109,83 @@ public class WorldData
 
     public char GetBlock(IntVector position, Layers layer = Layers.Main, Dimensions dimension = Dimensions.OverWorld, bool generating = false)
     {
-        int chunk = GameChunk.GetChunk(position.x);
-        position.x -= chunk * Constants.ChunkSize;
-        return (generating ? _generatingChunks : _chunks)[dimension][chunk].GetBlock(position);
+        try
+        {
+            int chunk = GameChunk.GetChunk(position.x);
+            position.x -= chunk * Constants.ChunkSize;
+            return (generating ? _generatingChunks : _chunks)[dimension][chunk].GetBlock(position);
+        }
+        catch
+        {
+            return BlockData.Data["Air"].CharCode;
+        }
     }
 
     public byte GetState(IntVector position, Layers layer = Layers.Main, Dimensions dimension = Dimensions.OverWorld, bool generating = false)
     {
-        int chunk = GameChunk.GetChunk(position.x);
-        position.x -= chunk * Constants.ChunkSize;
-        return (generating ? _generatingChunks : _chunks)[dimension][chunk].GetState(position, layer);
+        try
+        {
+            int chunk = GameChunk.GetChunk(position.x);
+            position.x -= chunk * Constants.ChunkSize;
+            return (generating ? _generatingChunks : _chunks)[dimension][chunk].GetState(position, layer);
+        }
+        catch
+        {
+            return 0;
+        }
     }
 
-    public void SetState(IntVector position, byte state, Layers layer = Layers.Main, Dimensions dimension = Dimensions.OverWorld, bool generating = false)
+    public bool SetState(IntVector position, byte state, Layers layer = Layers.Main, Dimensions dimension = Dimensions.OverWorld, bool generating = false)
     {
-        int chunk = GameChunk.GetChunk(position.x);
-        position.x -= chunk * Constants.ChunkSize;
-        (generating ? _generatingChunks : _chunks)[dimension][chunk].SetState(position, state, layer);
-        if (!generating){
-            WorldDataEvents.SetBlock(GetBlock(position), layer, state, position);
+        try
+        {
+            int chunk = GameChunk.GetChunk(position.x);
+            position.x -= chunk * Constants.ChunkSize;
+            (generating ? _generatingChunks : _chunks)[dimension][chunk].SetState(position, state, layer);
+            if (!generating)
+            {
+                WorldDataEvents.SetBlock(GetBlock(position), layer, state, position);
+            }
         }
+        catch
+        {
+            return false;
+        }
+        return true;
     }
 
     public bool GetWaterLog(IntVector position, Dimensions dimension = Dimensions.OverWorld, bool generating = false)
     {
-        int chunk = GameChunk.GetChunk(position.x);
-        position.x -= chunk * Constants.ChunkSize;
-        return (generating ? _generatingChunks : _chunks)[dimension][chunk].GetWaterLog(position);
+        try
+        {
+            int chunk = GameChunk.GetChunk(position.x);
+            position.x -= chunk * Constants.ChunkSize;
+            return (generating ? _generatingChunks : _chunks)[dimension][chunk].GetWaterLog(position);
+        }
+        catch
+        {
+            return false;
+        }
     }
 
-    public void SetWaterLog(IntVector position, bool log, Dimensions dimension = Dimensions.OverWorld, bool generating = false)
+    public bool SetWaterLog(IntVector position, bool log, Dimensions dimension = Dimensions.OverWorld, bool generating = false)
     {
-        int chunk = GameChunk.GetChunk(position.x);
-        position.x -= chunk * Constants.ChunkSize;
-        (generating ? _generatingChunks : _chunks)[dimension][chunk].SetWaterLog(position, log);
-        if (!generating){
-            WorldDataEvents.SetWaterLog(log, position, dimension);
+        try
+        {
+            int chunk = GameChunk.GetChunk(position.x);
+            position.x -= chunk * Constants.ChunkSize;
+            (generating ? _generatingChunks : _chunks)[dimension][chunk].SetWaterLog(position, log);
+            if (!generating)
+            {
+                WorldDataEvents.SetWaterLog(log, position, dimension);
+            }
         }
-}
+        catch
+        {
+            return false;
+        }
+        return true;
+    }
 
     public string ToString(Layers layer = Layers.Main)
     {
