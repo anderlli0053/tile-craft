@@ -1,7 +1,7 @@
 [gd_scene load_steps=8 format=2]
 
 [ext_resource path="res://Fonts/Comfortaa.ttf" type="DynamicFontData" id=2]
-[ext_resource path="res://Data/Images/Icons/Tanja012.png" type="Texture" id=3]
+[ext_resource path="res://Images/Icons/Tanja012.png" type="Texture" id=3]
 [ext_resource path="res://Scripts/ArtistCredit/ArtistCredit.cs" type="Script" id=4]
 [ext_resource path="res://Sprites/Global/Button.tscn" type="PackedScene" id=5]
 

@@ -1,21 +1,16 @@
 [gd_resource type="SpriteFrames" load_steps=2 format=2]
 
-[ext_resource path="res://Data/Images/Tiles/GrassBlockOverlay.tres" type="Texture" id=1]
+[ext_resource path="res://Images/Tiles/GrassBlockOverlay.tres" type="Texture" id=1]
 
 [resource]
 animations = [ {
-"frames": [  ],
+"frames": [ ExtResource( 1 ) ],
 "loop": true,
-"name": "None",
+"name": "Grass",
 "speed": 0.0
 }, {
 "frames": [  ],
 "loop": true,
-"name": "Water",
-"speed": 5.0
-}, {
-"frames": [ ExtResource( 1 ) ],
-"loop": true,
-"name": "Grass",
+"name": "None",
 "speed": 0.0
 } ]
